@@ -10,4 +10,4 @@ export const firebaseConfig = {
 
 // Sign-in methods switched on in Firebase Console → Authentication → Sign-in method.
 // The app only shows buttons for methods listed here. Add 'google' and 'password' once enabled.
-export const authProviders = [];
+export const authProviders = ['google', 'password'];

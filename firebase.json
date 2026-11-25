@@ -1,3 +1,13 @@
 {
-  "firestore": { "rules": "firestore.rules", "database": "(default)", "location": "asia-south1" }
+  "firestore": { "rules": "firestore.rules", "database": "(default)", "location": "asia-south1" },
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "PathDeck",
+        "supportEmail": "arudraghildiyal@gmail.com",
+        "authorizedRedirectUris": ["https://pathdeck-mbbs.firebaseapp.com/__/auth/handler"]
+      }
+    }
+  }
 }
