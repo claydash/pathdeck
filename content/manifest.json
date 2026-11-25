@@ -1,0 +1,33 @@
+{
+ "version": 2,
+ "subjects": [
+  {
+   "id": "pathology",
+   "title": "Pathology",
+   "book": "Robbins Basic Pathology · Harsh Mohan",
+   "accent": "hema",
+   "sections": [
+    {
+     "id": "general",
+     "title": "General pathology",
+     "chapters": [
+      "cell-injury",
+      "adaptations",
+      "aging",
+      "inflammation",
+      "repair",
+      "neoplasia"
+     ]
+    },
+    {
+     "id": "practicals",
+     "title": "Practicals",
+     "chapters": [
+      "specimens",
+      "histology"
+     ]
+    }
+   ]
+  }
+ ]
+}

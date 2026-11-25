@@ -1,16 +1,37 @@
 {
  "id": "specimens",
- "title": "Gross specimens (museum)",
+ "title": "Gross specimens",
+ "competency": "Spotters & viva (PA2.8, PA4.4 and systemic)",
  "ref": "Robbins Basic Pathology (systemic chapters); Harsh Mohan, Textbook of Pathology",
- "groups": [
-  "Cell injury & necrosis",
-  "Hemodynamic disorders",
-  "Inflammation & infection",
-  "Other non-neoplastic",
-  "Benign tumours",
-  "Malignant tumours"
+ "subtopics": [
+  {
+   "id": "Cell injury & necrosis",
+   "title": "Cell injury & necrosis"
+  },
+  {
+   "id": "Hemodynamic disorders",
+   "title": "Hemodynamic disorders"
+  },
+  {
+   "id": "Inflammation & infection",
+   "title": "Inflammation & infection"
+  },
+  {
+   "id": "Other non-neoplastic",
+   "title": "Other non-neoplastic"
+  },
+  {
+   "id": "Benign tumours",
+   "title": "Benign tumours"
+  },
+  {
+   "id": "Malignant tumours",
+   "title": "Malignant tumours"
+  }
  ],
- "items": [
+ "mcqs": [],
+ "cards": [],
+ "specimens": [
   {
    "id": "acute-appendicitis",
    "name": "Acute appendicitis",

@@ -3,34 +3,38 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>PathDeck — General Pathology</title>
-<meta name="description" content="Spaced-repetition flashcards, graded MCQs, a mistakes log and a gross-specimen museum for MBBS general pathology (cell injury, adaptations, aging, inflammation, repair, neoplasia).">
+<title>PathDeck — Pathology study app</title>
+<meta name="description" content="Spaced-repetition flashcards, graded MCQs, a mistakes log, a specimen museum and insights for MBBS pathology. Sign in to sync across devices.">
 <meta name="theme-color" content="#f6f4f0" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#121117" media="(prefers-color-scheme: dark)">
+<meta property="og:title" content="PathDeck — Pathology that sticks">
+<meta property="og:description" content="Flashcards that come back on time, exam-style MCQs, your specimen museum, and insights on what to revise next.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=6">
+<link rel="stylesheet" href="styles.css?v=20">
 <script>
   try { const t = localStorage.getItem('pathdeck:theme'); if (t && t !== 'auto') document.documentElement.dataset.theme = t; } catch (e) {}
 </script>
 </head>
 <body>
+<header class="mtop" id="mtop"></header>
 <div class="shell">
   <aside class="sidebar" aria-label="Main">
-    <a class="brand" href="#/today">
-      <span class="brand-mark" aria-hidden="true"></span>
-      <span class="brand-name">PathDeck</span>
-    </a>
+    <a class="brand" href="#/today"><span class="brand-mark" aria-hidden="true"></span><span class="brand-name">PathDeck</span></a>
+    <div class="subject" id="subject"></div>
+    <button class="search-trigger" data-act="search"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span>Search</span><span class="kbd">⌘K</span></button>
     <nav class="nav" id="nav"></nav>
-    <div class="sidebar-foot" id="sidebar-streak"></div>
+    <div class="sidebar-foot" id="sidebar-foot"></div>
   </aside>
-  <main id="app" class="main" tabindex="-1"><div class="boot">Loading your decks…</div></main>
+  <main id="app" class="main" tabindex="-1"><div class="page"><div class="skeleton"></div><div class="skeleton short"></div></div></main>
 </div>
 <nav class="tabbar" id="tabbar" aria-label="Main"></nav>
+<div id="search" class="search-overlay" hidden></div>
 <div id="lightbox" class="lightbox" hidden></div>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
-<script src="app.js?v=6" defer></script>
+<script type="module" src="js/main.js?v=20"></script>
 </body>
 </html>

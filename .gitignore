@@ -1,3 +1,4 @@
 design-refs/
 .DS_Store
 .vercel
+.firebase/

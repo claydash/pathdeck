@@ -1,4 +1,12 @@
 design-refs/
 .DS_Store
 .vercel
+.firebase/
 PROMPT.md
+PROMPT-v2.md
+CONTENT.md
+scripts/
+firestore.rules
+firebase.json
+.firebaserc
+content/_template.json

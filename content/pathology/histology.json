@@ -1,0 +1,212 @@
+{
+ "id": "histology",
+ "title": "Histology images",
+ "competency": "Microscopy spotters",
+ "ref": "Wikimedia Commons (open licences, credited on each image)",
+ "subtopics": [
+  {
+   "id": "adaptations",
+   "title": "Cellular adaptations"
+  },
+  {
+   "id": "cell-injury",
+   "title": "Cell injury & cell death"
+  },
+  {
+   "id": "inflammation",
+   "title": "Inflammation"
+  },
+  {
+   "id": "neoplasia",
+   "title": "Neoplasia"
+  },
+  {
+   "id": "repair",
+   "title": "Tissue repair"
+  }
+ ],
+ "mcqs": [],
+ "cards": [],
+ "images": [
+  {
+   "slug": "coagulative-necrosis",
+   "file": "img/micro/coagulative-necrosis.jpg",
+   "title": "Coagulative necrosis (myocardial infarct)",
+   "caption": "Necrotic cardiomyocytes with hypereosinophilic cytoplasm and lost or fading nuclei, with the outline of the fibres preserved (H&E).",
+   "topic": "cell-injury",
+   "author": "Katarzyna Michaud et al.",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Histopathology_of_coagulative_necrosis_of_cardiomyocytes.jpg"
+  },
+  {
+   "slug": "fat-necrosis",
+   "file": "img/micro/fat-necrosis.jpg",
+   "title": "Fat necrosis (breast)",
+   "caption": "Fat cells with clear lipid vacuoles and a foamy, lightly eosinophilic histiocyte with a small nucleus in a field of fat necrosis of the breast (H&E).",
+   "topic": "cell-injury",
+   "author": "Mikael Häggström, M.D.",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Histology_of_a_lipoblast-like_histiocyte_in_fat_necrosis.jpg"
+  },
+  {
+   "slug": "fibrinoid-necrosis",
+   "file": "img/micro/fibrinoid-necrosis.jpg",
+   "title": "Fibrinoid necrosis (polyarteritis nodosa)",
+   "caption": "Small-vessel walls swollen and replaced by bright pink fibrinoid material with surrounding inflammation, in a skin biopsy of polyarteritis nodosa; four panels at increasing magnification (H&E).",
+   "topic": "cell-injury",
+   "author": "Elsa Berardi et al.",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cutaneous_polyarteritis_nodosa_histopathology.jpg"
+  },
+  {
+   "slug": "hepatic-steatosis",
+   "file": "img/micro/hepatic-steatosis.jpg",
+   "title": "Hepatic steatosis (fatty change)",
+   "caption": "Hepatocytes containing large clear fat vacuoles that push the nucleus aside, concentrated around the portal tract (periportal macrovesicular steatosis, trichrome).",
+   "topic": "cell-injury",
+   "author": "Nephron",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Periportal_hepatosteatosis_intermed_mag.jpg"
+  },
+  {
+   "slug": "hemosiderin",
+   "file": "img/micro/hemosiderin.jpg",
+   "title": "Hemosiderin and lipofuscin",
+   "caption": "Blue Prussian-blue granules of hemosiderin in a Kupffer cell versus golden-brown lipofuscin granules in a hepatocyte (iron stain; annotated).",
+   "topic": "cell-injury",
+   "author": "Mikael Häggström, M.D.",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kupffer_cell_with_hemosiderin_and_hepatocyte_with_lipofuscin,_iron_stain.jpg"
+  },
+  {
+   "slug": "psammoma-bodies",
+   "file": "img/micro/psammoma-bodies.jpg",
+   "title": "Psammoma body (meningioma)",
+   "caption": "Whorled meningothelial cells with a round, dark, concentrically laminated calcified psammoma body at the left (meningioma, H&E).",
+   "topic": "neoplasia",
+   "author": "Mikael Häggström, M.D.",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Histopathology_of_meningioma.jpg"
+  },
+  {
+   "slug": "barrett-esophagus",
+   "file": "img/micro/barrett-esophagus.jpg",
+   "title": "Intestinal metaplasia (Barrett esophagus)",
+   "caption": "Goblet cells with pale, mucin-filled bluish vacuoles among columnar foveolar cells, showing intestinal-type metaplasia in incomplete Barrett esophagus (H&E).",
+   "topic": "adaptations",
+   "author": "Mikael Häggström, M.D.",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Histopathology_of_goblet_cells_and_foveolar_cells_in_incomplete_Barrett's_esophagus.jpg"
+  },
+  {
+   "slug": "caseating-granuloma",
+   "file": "img/micro/caseating-granuloma.jpg",
+   "title": "Caseating tuberculoid granuloma",
+   "caption": "Epithelioid histiocytes and Langhans multinucleated giant cells ringing a zone of caseous necrosis (upper right) (H&E).",
+   "topic": "inflammation",
+   "author": "Humpath",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tuberculoid_granuloma_humpath_1.png"
+  },
+  {
+   "slug": "langhans-giant-cell",
+   "file": "img/micro/langhans-giant-cell.jpg",
+   "title": "Langhans giant cell in a granuloma",
+   "caption": "A multinucleated giant cell with nuclei arranged in a peripheral horseshoe, within a granuloma of epithelioid histiocytes and lymphocytes (H&E).",
+   "topic": "inflammation",
+   "author": "Ed Uthman from Houston, TX, USA",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Langhans_Giant_Cell_(10189844503).jpg"
+  },
+  {
+   "slug": "sarcoidosis-granuloma",
+   "file": "img/micro/sarcoidosis-granuloma.jpg",
+   "title": "Non-caseating granuloma (sarcoidosis)",
+   "caption": "Compact epithelioid granuloma with a giant cell containing an asteroid body, few lymphocytes and no necrosis (H&E).",
+   "topic": "inflammation",
+   "author": "Department of Pathology, Calicut Medical College",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sarcoidosis_-1.jpg"
+  },
+  {
+   "slug": "acute-appendicitis",
+   "file": "img/micro/acute-appendicitis.jpg",
+   "title": "Acute appendicitis",
+   "caption": "Low-power view of an inflamed appendix wall, with neutrophils infiltrating the muscularis propria and the periappendiceal tissue (H&E).",
+   "topic": "inflammation",
+   "author": "Nephron",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Appendicitis_-_low_mag.jpg"
+  },
+  {
+   "slug": "granulation-tissue",
+   "file": "img/micro/granulation-tissue.jpg",
+   "title": "Granulation tissue (healing infarct)",
+   "caption": "Loose, vascular tissue of small new vessels, fibroblasts and mixed inflammatory cells replacing dead myocardium at the edge of a myocardial infarct (H&E).",
+   "topic": "repair",
+   "author": "Katarzyna Michaud et al.",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Histopathology_of_granulation_tissue_with_formation_of_microvessels_in_myocardial_infarction.jpg"
+  },
+  {
+   "slug": "keloid",
+   "file": "img/micro/keloid.jpg",
+   "title": "Keloid",
+   "caption": "Thick, glassy, hypereosinophilic bundles of collagen running haphazardly through the dermis beneath the epidermis (H&E).",
+   "topic": "repair",
+   "author": "DRdoubleB",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:KeloidHistology.JPG"
+  },
+  {
+   "slug": "cervical-dysplasia",
+   "file": "img/micro/cervical-dysplasia.jpg",
+   "title": "Cervical dysplasia (CIN 3)",
+   "caption": "Squamous epithelium replaced through its full thickness by crowded, atypical basaloid cells with high nuclear-to-cytoplasmic ratio and no maturation (CIN 3, H&E).",
+   "topic": "neoplasia",
+   "author": "Ed Uthman from Houston, TX, USA",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CIN_3,_Cervical_Biopsy_(6076642630).jpg"
+  },
+  {
+   "slug": "reed-sternberg-cell",
+   "file": "img/micro/reed-sternberg-cell.jpg",
+   "title": "Reed-Sternberg cell (Hodgkin lymphoma)",
+   "caption": "A large binucleate cell with prominent nucleoli, the owl-eye Reed-Sternberg cell, amid a background of small lymphocytes (H&E).",
+   "topic": "neoplasia",
+   "author": "Ed Uthman, MD",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hodgkin_Disease,_Reed-Sternberg_Cell.jpg"
+  },
+  {
+   "slug": "squamous-cell-carcinoma",
+   "file": "img/micro/squamous-cell-carcinoma.jpg",
+   "title": "Squamous cell carcinoma with keratin pearls",
+   "caption": "Concentric whorls of pink keratin (keratin pearls) surrounded by atypical squamous cells in a laryngeal squamous cell carcinoma (H&E).",
+   "topic": "neoplasia",
+   "author": "Ed Uthman from Houston, TX, USA",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Keratin_Pearls_in_Squamous_Cell_Carcinoma_of_the_Larynx_(35398275972).jpg"
+  },
+  {
+   "slug": "lipoma",
+   "file": "img/micro/lipoma.jpg",
+   "title": "Lipoma",
+   "caption": "A nodule of mature adipocytes, each with a single clear vacuole and a flattened peripheral nucleus, beneath the surface mucosa (H&E).",
+   "topic": "neoplasia",
+   "author": "Ed Uthman from Houston, TX, USA",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lipoma_of_Tongue,_H&E_(6076087379).jpg"
+  },
+  {
+   "slug": "leiomyoma",
+   "file": "img/micro/leiomyoma.jpg",
+   "title": "Leiomyoma (uterus)",
+   "caption": "Interlacing fascicles of bland spindle smooth-muscle cells with cigar-shaped nuclei and nuclear palisading (H&E).",
+   "topic": "neoplasia",
+   "author": "Ed Uthman from Houston, TX, USA",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Leiomyoma_of_Uterus_with_Palisading_Pattern_(5710417630).jpg"
+  }
+ ]
+}

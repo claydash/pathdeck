@@ -1,0 +1,378 @@
+{
+ "version": 2,
+ "built": "2026-11-25T13:48:45.569Z",
+ "subjects": [
+  {
+   "id": "pathology",
+   "title": "Pathology",
+   "book": "Robbins Basic Pathology · Harsh Mohan",
+   "accent": "hema",
+   "sections": [
+    {
+     "id": "general",
+     "title": "General pathology",
+     "chapters": [
+      {
+       "id": "cell-injury",
+       "title": "Cell injury & cell death",
+       "competency": "PA2.1–2.5, PA2.8",
+       "ref": "Robbins Basic Pathology, ch. 1 (Cell Injury, Cell Death, and Adaptations)",
+       "hash": "0300f1be94",
+       "subtopics": [
+        {
+         "id": "mechanisms",
+         "title": "Causes and mechanisms of cell injury"
+        },
+        {
+         "id": "reversible",
+         "title": "Reversible vs irreversible injury"
+        },
+        {
+         "id": "necrosis",
+         "title": "Necrosis and its patterns"
+        },
+        {
+         "id": "apoptosis",
+         "title": "Apoptosis"
+        },
+        {
+         "id": "other-death",
+         "title": "Necroptosis, pyroptosis, ferroptosis and autophagy"
+        },
+        {
+         "id": "ischemia-chemical",
+         "title": "Ischemia–reperfusion and chemical injury"
+        },
+        {
+         "id": "accumulations",
+         "title": "Intracellular accumulations and pigments"
+        },
+        {
+         "id": "calcification",
+         "title": "Pathologic calcification"
+        }
+       ],
+       "counts": {
+        "mcqs": 35,
+        "cards": 50,
+        "specimens": 0,
+        "images": 0
+       },
+       "kind": "topic"
+      },
+      {
+       "id": "adaptations",
+       "title": "Cellular adaptations",
+       "competency": "PA2.6",
+       "ref": "Robbins Basic Pathology, ch. 1 (Cell Injury, Cell Death, and Adaptations)",
+       "hash": "2cf744f8c3",
+       "subtopics": [
+        {
+         "id": "hypertrophy",
+         "title": "Hypertrophy"
+        },
+        {
+         "id": "hyperplasia",
+         "title": "Hyperplasia"
+        },
+        {
+         "id": "atrophy",
+         "title": "Atrophy"
+        },
+        {
+         "id": "metaplasia",
+         "title": "Metaplasia"
+        },
+        {
+         "id": "dysplasia",
+         "title": "Dysplasia as a precursor of cancer"
+        }
+       ],
+       "counts": {
+        "mcqs": 23,
+        "cards": 24,
+        "specimens": 0,
+        "images": 0
+       },
+       "kind": "topic"
+      },
+      {
+       "id": "aging",
+       "title": "Cellular aging",
+       "competency": "PA2.7",
+       "ref": "Robbins Basic Pathology, ch. 1 (Cell Injury, Cell Death, and Adaptations)",
+       "hash": "142a8c1570",
+       "subtopics": [
+        {
+         "id": "dna-damage",
+         "title": "DNA damage and premature-aging syndromes"
+        },
+        {
+         "id": "telomeres",
+         "title": "Telomeres and replicative senescence"
+        },
+        {
+         "id": "proteostasis",
+         "title": "Protein homeostasis"
+        },
+        {
+         "id": "nutrient",
+         "title": "Nutrient sensing and caloric restriction"
+        },
+        {
+         "id": "inflammaging",
+         "title": "Persistent inflammation (inflammaging)"
+        }
+       ],
+       "counts": {
+        "mcqs": 21,
+        "cards": 18,
+        "specimens": 0,
+        "images": 0
+       },
+       "kind": "topic"
+      },
+      {
+       "id": "inflammation",
+       "title": "Inflammation",
+       "competency": "PA4.1–4.4",
+       "ref": "Robbins Basic Pathology, ch. 3 (Inflammation and Repair)",
+       "hash": "56f2f88bda",
+       "subtopics": [
+        {
+         "id": "overview",
+         "title": "Overview, causes and recognition"
+        },
+        {
+         "id": "vascular",
+         "title": "Vascular changes"
+        },
+        {
+         "id": "recruitment",
+         "title": "Leukocyte recruitment"
+        },
+        {
+         "id": "phagocytosis",
+         "title": "Phagocytosis, killing and defects"
+        },
+        {
+         "id": "mediators",
+         "title": "Chemical mediators"
+        },
+        {
+         "id": "patterns",
+         "title": "Morphologic patterns and outcomes"
+        },
+        {
+         "id": "chronic",
+         "title": "Chronic inflammation"
+        },
+        {
+         "id": "granuloma",
+         "title": "Granulomatous inflammation"
+        },
+        {
+         "id": "systemic",
+         "title": "Systemic effects"
+        }
+       ],
+       "counts": {
+        "mcqs": 32,
+        "cards": 65,
+        "specimens": 0,
+        "images": 0
+       },
+       "kind": "topic"
+      },
+      {
+       "id": "repair",
+       "title": "Tissue repair",
+       "competency": "PA5.1",
+       "ref": "Robbins Basic Pathology, ch. 3 (Inflammation and Repair)",
+       "hash": "18373eca8d",
+       "subtopics": [
+        {
+         "id": "regeneration",
+         "title": "Cell proliferation and regeneration"
+        },
+        {
+         "id": "matrix",
+         "title": "Growth factors and extracellular matrix"
+        },
+        {
+         "id": "angiogenesis",
+         "title": "Angiogenesis and granulation tissue"
+        },
+        {
+         "id": "healing",
+         "title": "Healing of skin wounds"
+        },
+        {
+         "id": "factors",
+         "title": "Factors affecting healing"
+        },
+        {
+         "id": "abnormal",
+         "title": "Abnormal repair and fibrosis"
+        }
+       ],
+       "counts": {
+        "mcqs": 22,
+        "cards": 39,
+        "specimens": 0,
+        "images": 0
+       },
+       "kind": "topic"
+      },
+      {
+       "id": "neoplasia",
+       "title": "Neoplasia",
+       "competency": "PA7.1–7.5",
+       "ref": "Robbins Basic Pathology, ch. 6 (Neoplasia)",
+       "hash": "4a3e37a3ab",
+       "subtopics": [
+        {
+         "id": "nomenclature",
+         "title": "Nomenclature"
+        },
+        {
+         "id": "benign-malignant",
+         "title": "Benign vs malignant tumours"
+        },
+        {
+         "id": "spread",
+         "title": "Spread of tumours and metastasis"
+        },
+        {
+         "id": "epidemiology",
+         "title": "Epidemiology and predisposition"
+        },
+        {
+         "id": "oncogenes",
+         "title": "Oncogenes and growth signals"
+        },
+        {
+         "id": "tumour-suppressors",
+         "title": "Tumour suppressor genes"
+        },
+        {
+         "id": "hallmarks",
+         "title": "Other hallmarks of cancer"
+        },
+        {
+         "id": "carcinogens",
+         "title": "Chemical and radiation carcinogenesis"
+        },
+        {
+         "id": "microbial",
+         "title": "Viral and microbial carcinogenesis"
+        },
+        {
+         "id": "host-effects",
+         "title": "Effects of tumour on the host"
+        },
+        {
+         "id": "grading-staging",
+         "title": "Grading and staging"
+        },
+        {
+         "id": "lab-diagnosis",
+         "title": "Laboratory diagnosis and tumour markers"
+        }
+       ],
+       "counts": {
+        "mcqs": 40,
+        "cards": 104,
+        "specimens": 0,
+        "images": 0
+       },
+       "kind": "topic"
+      }
+     ]
+    },
+    {
+     "id": "practicals",
+     "title": "Practicals",
+     "chapters": [
+      {
+       "id": "specimens",
+       "title": "Gross specimens",
+       "competency": "Spotters & viva (PA2.8, PA4.4 and systemic)",
+       "ref": "Robbins Basic Pathology (systemic chapters); Harsh Mohan, Textbook of Pathology",
+       "hash": "6ca6885edd",
+       "subtopics": [
+        {
+         "id": "Cell injury & necrosis",
+         "title": "Cell injury & necrosis"
+        },
+        {
+         "id": "Hemodynamic disorders",
+         "title": "Hemodynamic disorders"
+        },
+        {
+         "id": "Inflammation & infection",
+         "title": "Inflammation & infection"
+        },
+        {
+         "id": "Other non-neoplastic",
+         "title": "Other non-neoplastic"
+        },
+        {
+         "id": "Benign tumours",
+         "title": "Benign tumours"
+        },
+        {
+         "id": "Malignant tumours",
+         "title": "Malignant tumours"
+        }
+       ],
+       "counts": {
+        "mcqs": 31,
+        "cards": 42,
+        "specimens": 42,
+        "images": 0
+       },
+       "kind": "museum"
+      },
+      {
+       "id": "histology",
+       "title": "Histology images",
+       "competency": "Microscopy spotters",
+       "ref": "Wikimedia Commons (open licences, credited on each image)",
+       "hash": "3ea73e86db",
+       "subtopics": [
+        {
+         "id": "adaptations",
+         "title": "Cellular adaptations"
+        },
+        {
+         "id": "cell-injury",
+         "title": "Cell injury & cell death"
+        },
+        {
+         "id": "inflammation",
+         "title": "Inflammation"
+        },
+        {
+         "id": "neoplasia",
+         "title": "Neoplasia"
+        },
+        {
+         "id": "repair",
+         "title": "Tissue repair"
+        }
+       ],
+       "counts": {
+        "mcqs": 18,
+        "cards": 18,
+        "specimens": 0,
+        "images": 18
+       },
+       "kind": "gallery"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

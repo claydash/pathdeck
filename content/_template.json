@@ -1,0 +1,23 @@
+{
+ "id": "chapter-id",
+ "title": "Chapter title",
+ "competency": "PA0.0",
+ "ref": "Robbins Basic Pathology, ch. N (Chapter name)",
+ "subtopics": [
+  { "id": "heading-one", "title": "First competency heading" },
+  { "id": "heading-two", "title": "Second competency heading" }
+ ],
+ "mcqs": [
+  {
+   "id": "q-001", "sub": "heading-one", "diff": "easy",
+   "q": "Question stem?",
+   "opts": ["Option A", "Option B", "Option C", "Option D"],
+   "ans": 2,
+   "exp": "Why C is right, and why the most tempting wrong option is wrong.",
+   "related": ["Topic to read next", "Another topic"]
+  }
+ ],
+ "cards": [
+  { "id": "c-001", "sub": "heading-one", "front": "A question?", "back": "A short answer (≤40 words)." }
+ ]
+}

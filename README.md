@@ -1,10 +1,11 @@
 # PathDeck
 
-Study app for MBBS general pathology (Robbins): spaced-repetition flashcards, graded MCQs with explanations, a mistakes log, a daily streak scoreboard and a gross-specimen museum.
+Study platform for MBBS subjects, starting with pathology (Robbins): spaced-repetition flashcards, graded MCQs with explanations, a mistakes log, "practise again" (redo questions, cram cards, reset chapters), a specimen museum, streaks, and Insights that rank what to revise next. Optional Google / email accounts sync progress across devices (Firebase).
 
-- Topics: cell injury & cell death, adaptations, aging, inflammation, repair, neoplasia (NMC CBME PA2–PA7), plus 42 museum specimens and 18 histology images.
-- Static site, no build step. Content lives in `content/*.json`; progress is saved in the browser (export/import on the Scoreboard page).
-- Images: class specimen photos and openly licensed micrographs from Wikimedia Commons (credited in the app). No textbook figures are reproduced.
+- **Content** lives in `content/` — one JSON file per chapter, listed in `content/manifest.json`. See [CONTENT.md](CONTENT.md) to add chapters or whole subjects without touching code; `node scripts/build.mjs` validates everything.
+- **App** is static ES modules in `js/` (no build step): `srs.js` scheduler, `store.js` local-first state and merging, `cloud.js` Firebase auth + Firestore sync, `stats.js` analytics, `views/` screens.
+- **Backend**: Firebase Auth + Firestore (`firestore.rules` — each user can only read/write their own data).
+- Build prompts: [PROMPT.md](PROMPT.md) (v1), [PROMPT-v2.md](PROMPT-v2.md) (v2).
 
 Run locally: `python3 -m http.server` and open http://localhost:8000.
 

@@ -1,0 +1,9 @@
+{
+  "name": "PathDeck",
+  "short_name": "PathDeck",
+  "start_url": "/#/today",
+  "display": "standalone",
+  "background_color": "#f6f4f0",
+  "theme_color": "#4a3f8f",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
