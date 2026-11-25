@@ -1,0 +1,1015 @@
+{
+ "id": "inflammation",
+ "title": "Inflammation",
+ "competency": "PA4.1–4.4",
+ "ref": "Robbins Basic Pathology, ch. 3 (Inflammation and Repair)",
+ "subtopics": [
+  {
+   "id": "overview",
+   "title": "Overview, causes and recognition"
+  },
+  {
+   "id": "vascular",
+   "title": "Vascular changes"
+  },
+  {
+   "id": "recruitment",
+   "title": "Leukocyte recruitment"
+  },
+  {
+   "id": "phagocytosis",
+   "title": "Phagocytosis, killing and defects"
+  },
+  {
+   "id": "mediators",
+   "title": "Chemical mediators"
+  },
+  {
+   "id": "patterns",
+   "title": "Morphologic patterns and outcomes"
+  },
+  {
+   "id": "chronic",
+   "title": "Chronic inflammation"
+  },
+  {
+   "id": "granuloma",
+   "title": "Granulomatous inflammation"
+  },
+  {
+   "id": "systemic",
+   "title": "Systemic effects"
+  }
+ ],
+ "mcqs": [
+  {
+   "id": "in-001",
+   "sub": "overview",
+   "diff": "easy",
+   "q": "Which of the following was added as the fifth cardinal sign of inflammation (functio laesa) by Rudolf Virchow?",
+   "opts": [
+    "Redness",
+    "Loss of function",
+    "Swelling",
+    "Pain"
+   ],
+   "ans": 1,
+   "exp": "Celsus described the four classic signs: rubor (redness), tumor (swelling), calor (heat) and dolor (pain). Virchow later added functio laesa, loss of function. Redness, swelling and pain were already part of Celsus's original four.",
+   "related": [
+    "Cardinal signs of inflammation",
+    "Vascular changes in acute inflammation"
+   ]
+  },
+  {
+   "id": "in-002",
+   "sub": "vascular",
+   "diff": "easy",
+   "q": "Which finding best identifies an effusion as an exudate rather than a transudate?",
+   "opts": [
+    "Low protein content with specific gravity below 1.012",
+    "Formation only from raised capillary hydrostatic pressure",
+    "Formation only from reduced plasma oncotic pressure",
+    "High protein content with specific gravity above 1.020"
+   ],
+   "ans": 3,
+   "exp": "An exudate forms because vascular permeability rises, so protein-rich fluid (specific gravity >1.020) and cells escape. A transudate is a protein-poor ultrafiltrate (specific gravity <1.012) caused by raised hydrostatic pressure or reduced oncotic pressure with intact vessels.",
+   "related": [
+    "Increased vascular permeability",
+    "Edema: exudate vs transudate"
+   ]
+  },
+  {
+   "id": "in-003",
+   "sub": "recruitment",
+   "diff": "easy",
+   "q": "Which molecules mediate the initial rolling of leukocytes on activated endothelium?",
+   "opts": [
+    "Selectins",
+    "Integrins",
+    "PECAM-1 (CD31)",
+    "Chemokines"
+   ],
+   "ans": 0,
+   "exp": "Rolling depends on weak, rapidly reversible binding between selectins (E-, P- and L-selectin) and sialylated oligosaccharide ligands such as sialyl-Lewis X. Integrins mediate the later firm adhesion, not rolling.",
+   "related": [
+    "Leukocyte adhesion cascade",
+    "Leukocyte adhesion deficiency"
+   ]
+  },
+  {
+   "id": "in-004",
+   "sub": "recruitment",
+   "diff": "easy",
+   "q": "Which molecule chiefly mediates transmigration (diapedesis) of leukocytes through intercellular endothelial junctions?",
+   "opts": [
+    "E-selectin",
+    "L-selectin",
+    "PECAM-1 (CD31)",
+    "Sialyl-Lewis X"
+   ],
+   "ans": 2,
+   "exp": "After firm adhesion, leukocytes squeeze between endothelial cells at intercellular junctions, a step mediated chiefly by PECAM-1 (CD31). Selectins and their sialyl-Lewis X ligands act earlier, during rolling.",
+   "related": [
+    "Leukocyte adhesion cascade",
+    "Chemotaxis"
+   ]
+  },
+  {
+   "id": "in-005",
+   "sub": "mediators",
+   "diff": "easy",
+   "q": "Which cell is the richest source of preformed histamine in inflamed tissue?",
+   "opts": [
+    "Neutrophil",
+    "Eosinophil",
+    "Mast cell",
+    "Macrophage"
+   ],
+   "ans": 2,
+   "exp": "Histamine is stored in mast cell granules (also basophils and platelets) and released within seconds by degranulation. Neutrophils and macrophages do not store histamine as a major mediator.",
+   "related": [
+    "Vasoactive amines",
+    "Mast cells"
+   ]
+  },
+  {
+   "id": "in-006",
+   "sub": "patterns",
+   "diff": "easy",
+   "q": "A 'bread-and-butter' appearance of the pericardial surface is characteristic of which pattern of inflammation?",
+   "opts": [
+    "Fibrinous inflammation",
+    "Serous inflammation",
+    "Purulent inflammation",
+    "Granulomatous inflammation"
+   ],
+   "ans": 0,
+   "exp": "Large vascular leaks let fibrinogen escape and be deposited as fibrin on serosal surfaces such as the pericardium, giving the classic bread-and-butter look. Serous inflammation produces a thin, cell-poor fluid without a fibrin coat.",
+   "related": [
+    "Morphologic patterns of acute inflammation",
+    "Outcomes of acute inflammation"
+   ]
+  },
+  {
+   "id": "in-007",
+   "sub": "granuloma",
+   "diff": "easy",
+   "q": "Which disease is the classic cause of caseating granulomas?",
+   "opts": [
+    "Sarcoidosis",
+    "Crohn disease",
+    "Foreign-body (talc) reaction",
+    "Tuberculosis"
+   ],
+   "ans": 3,
+   "exp": "Caseous necrosis in the centre of a granuloma is the prototypic feature of tuberculosis. Sarcoidosis and Crohn disease characteristically produce noncaseating granulomas, and foreign-body granulomas form around inert material without caseation.",
+   "related": [
+    "Granulomatous inflammation",
+    "Caseous necrosis"
+   ]
+  },
+  {
+   "id": "in-008",
+   "sub": "systemic",
+   "diff": "easy",
+   "q": "Hepatic synthesis of C-reactive protein (CRP) in the acute-phase response is chiefly stimulated by which cytokine?",
+   "opts": [
+    "IL-4",
+    "IL-6",
+    "IL-10",
+    "IL-2"
+   ],
+   "ans": 1,
+   "exp": "IL-6 is the main stimulus for hepatocyte synthesis of CRP and fibrinogen; serum amyloid A is induced mainly by IL-1 and TNF. IL-4 and IL-10 are not drivers of the acute-phase response.",
+   "related": [
+    "Acute-phase response",
+    "Cytokines in inflammation"
+   ]
+  },
+  {
+   "id": "in-009",
+   "sub": "phagocytosis",
+   "diff": "easy",
+   "q": "Which enzyme converts hydrogen peroxide into hypochlorous acid inside neutrophil phagolysosomes?",
+   "opts": [
+    "NADPH oxidase (phagocyte oxidase)",
+    "Myeloperoxidase",
+    "Superoxide dismutase",
+    "Catalase"
+   ],
+   "ans": 1,
+   "exp": "Myeloperoxidase in azurophilic granules uses H2O2 and a halide (Cl-) to form hypochlorous acid, the most efficient bactericidal system of neutrophils. NADPH oxidase acts one step earlier, generating superoxide during the respiratory burst.",
+   "related": [
+    "Respiratory burst",
+    "Chronic granulomatous disease"
+   ]
+  },
+  {
+   "id": "in-010",
+   "sub": "overview",
+   "diff": "medium",
+   "q": "Monosodium urate crystals in gout trigger inflammation by activating a cytosolic multiprotein complex. What is the key product of this complex's activation?",
+   "opts": [
+    "Activation of caspase-8 with extrinsic apoptosis",
+    "Cleavage of C3 into C3a and C3b",
+    "Release of preformed histamine",
+    "Active IL-1β produced by caspase-1 cleavage"
+   ],
+   "ans": 3,
+   "exp": "Urate crystals and other danger signals activate the NLRP3 inflammasome, which activates caspase-1 to cleave pro-IL-1β into active IL-1β, recruiting leukocytes and causing inflammation. Caspase-8 belongs to the extrinsic apoptosis pathway, not the inflammasome.",
+   "related": [
+    "Inflammasome",
+    "Toll-like receptors",
+    "IL-1 and TNF"
+   ]
+  },
+  {
+   "id": "in-011",
+   "sub": "vascular",
+   "diff": "medium",
+   "q": "What is the most common mechanism of increased vascular permeability in acute inflammation?",
+   "opts": [
+    "Endothelial cell contraction in postcapillary venules",
+    "Direct endothelial necrosis in arterioles",
+    "Leukocyte-mediated endothelial injury in capillaries",
+    "Rupture of basement membrane in large veins"
+   ],
+   "ans": 0,
+   "exp": "Histamine, bradykinin, leukotrienes and other mediators cause endothelial cells of postcapillary venules to contract, opening interendothelial gaps. It is rapid and short-lived (15–30 minutes), the immediate transient response. Direct endothelial injury happens only with severe injury such as burns or toxins.",
+   "related": [
+    "Increased vascular permeability",
+    "Histamine"
+   ]
+  },
+  {
+   "id": "in-012",
+   "sub": "vascular",
+   "diff": "medium",
+   "q": "Vascular leakage that begins 2–12 hours after mild thermal injury or UV exposure (sunburn) and lasts hours to days is best described as:",
+   "opts": [
+    "Immediate transient response",
+    "Immediate sustained response",
+    "Delayed prolonged leakage",
+    "Transudation from raised hydrostatic pressure"
+   ],
+   "ans": 2,
+   "exp": "Mild thermal injury, some toxins and UV radiation produce leakage that starts after a delay of 2–12 hours and persists, termed delayed prolonged leakage. The immediate transient response is mediator-induced endothelial contraction lasting only 15–30 minutes.",
+   "related": [
+    "Increased vascular permeability",
+    "Serous inflammation"
+   ]
+  },
+  {
+   "id": "in-013",
+   "sub": "recruitment",
+   "diff": "medium",
+   "q": "Chemokines displayed on activated endothelium promote firm adhesion of rolling neutrophils mainly by:",
+   "opts": [
+    "Inducing E-selectin on the leukocyte surface",
+    "Shedding L-selectin from the endothelium",
+    "Converting leukocyte integrins to a high-affinity state",
+    "Opening PECAM-1 junctions"
+   ],
+   "ans": 2,
+   "exp": "Chemokines activate rolling leukocytes, switching integrins such as LFA-1 to a high-affinity conformation that binds ICAM-1 on endothelium, producing firm adhesion. E-selectin is an endothelial molecule for rolling, not a leukocyte integrin activator.",
+   "related": [
+    "Integrins and ICAM-1",
+    "Leukocyte adhesion deficiency type 1"
+   ]
+  },
+  {
+   "id": "in-014",
+   "sub": "recruitment",
+   "diff": "medium",
+   "q": "In most acute inflammatory reactions, monocytes/macrophages replace neutrophils as the predominant infiltrating cell by about:",
+   "opts": [
+    "24–48 hours",
+    "Within the first hour",
+    "6–24 hours",
+    "7–10 days"
+   ],
+   "ans": 0,
+   "exp": "Neutrophils dominate the infiltrate during the first 6–24 hours because they are abundant and respond quickly, but they are short-lived; monocytes take over by 24–48 hours. The 6–24 hour window is the neutrophil phase. Exceptions include Pseudomonas infection (neutrophils persist) and viral infection (lymphocytes first).",
+   "related": [
+    "Leukocyte recruitment sequence",
+    "Macrophages"
+   ]
+  },
+  {
+   "id": "in-015",
+   "sub": "phagocytosis",
+   "diff": "medium",
+   "q": "Neutrophil extracellular traps (NETs) consist mainly of:",
+   "opts": [
+    "Fibrin strands with trapped platelets and red blood cells",
+    "Actin filaments extruded from pseudopods",
+    "Type III collagen with fibronectin",
+    "Nuclear chromatin carrying granule antimicrobial proteins"
+   ],
+   "ans": 3,
+   "exp": "NETs are extracellular fibrillar networks of nuclear chromatin (DNA and histones) that bind and concentrate granule antimicrobial peptides and enzymes, trapping microbes; the neutrophil dies in the process. They are a possible source of nuclear antigens in SLE. Fibrin meshes with platelets describe a thrombus, not a NET.",
+   "related": [
+    "Microbial killing by neutrophils",
+    "Systemic lupus erythematosus"
+   ]
+  },
+  {
+   "id": "in-016",
+   "sub": "mediators",
+   "diff": "medium",
+   "q": "Which arachidonic acid metabolite limits inflammation by inhibiting neutrophil chemotaxis and adhesion?",
+   "opts": [
+    "Leukotriene B4",
+    "Lipoxin A4",
+    "Thromboxane A2",
+    "Leukotriene C4"
+   ],
+   "ans": 1,
+   "exp": "Lipoxins are made by transcellular biosynthesis (neutrophil intermediates converted by platelets) and suppress inflammation by inhibiting leukocyte recruitment. Leukotriene B4 does the opposite, being a potent chemotactic agent and neutrophil activator.",
+   "related": [
+    "Arachidonic acid metabolites",
+    "Resolution of inflammation"
+   ]
+  },
+  {
+   "id": "in-017",
+   "sub": "mediators",
+   "diff": "medium",
+   "q": "Intense bronchospasm and increased venular permeability in asthma are produced mainly by which mediators?",
+   "opts": [
+    "Leukotriene B4",
+    "Cysteinyl leukotrienes (LTC4, LTD4, LTE4)",
+    "Prostacyclin (PGI2)",
+    "Lipoxins"
+   ],
+   "ans": 1,
+   "exp": "The cysteinyl leukotrienes LTC4, LTD4 and LTE4 cause vasoconstriction, bronchospasm and increased vascular permeability; they are targets of leukotriene receptor antagonists. LTB4 is chiefly a chemoattractant for neutrophils, not a bronchoconstrictor.",
+   "related": [
+    "Lipoxygenase pathway",
+    "Bronchial asthma"
+   ]
+  },
+  {
+   "id": "in-018",
+   "sub": "mediators",
+   "diff": "medium",
+   "q": "Which complement fragment is both an anaphylatoxin and a powerful chemoattractant for neutrophils?",
+   "opts": [
+    "C3b",
+    "C5b",
+    "C1q",
+    "C5a"
+   ],
+   "ans": 3,
+   "exp": "C5a (like C3a) stimulates histamine release from mast cells, and it is also strongly chemotactic for neutrophils, monocytes, eosinophils and basophils. C3b is an opsonin, not a chemoattractant.",
+   "related": [
+    "Complement system",
+    "Chemotaxis"
+   ]
+  },
+  {
+   "id": "in-019",
+   "sub": "chronic",
+   "diff": "medium",
+   "q": "Alternatively activated (M2) macrophages are induced chiefly by:",
+   "opts": [
+    "IL-4 and IL-13",
+    "Interferon-γ",
+    "Bacterial endotoxin (LPS)",
+    "IL-1 and TNF"
+   ],
+   "ans": 0,
+   "exp": "IL-4 and IL-13 from Th2 cells and other cells induce M2 macrophages, which promote tissue repair and fibrosis and dampen inflammation. Interferon-γ and microbial products such as LPS induce classically activated (M1) macrophages, which are microbicidal.",
+   "related": [
+    "Macrophage activation",
+    "Th1 and Th2 cells"
+   ]
+  },
+  {
+   "id": "in-020",
+   "sub": "chronic",
+   "diff": "medium",
+   "q": "Which inflammatory cell is recruited by eotaxin and releases major basic protein that is toxic to helminths?",
+   "opts": [
+    "Basophil",
+    "Mast cell",
+    "Eosinophil",
+    "Neutrophil"
+   ],
+   "ans": 2,
+   "exp": "Eosinophils are prominent in IgE-mediated reactions and parasitic infections, recruited by eotaxin. Their granules contain major basic protein, which is toxic to parasites but also damages epithelium. Mast cells release histamine via IgE bound to Fc receptors but do not make major basic protein.",
+   "related": [
+    "Eosinophils",
+    "Chronic inflammation cells"
+   ]
+  },
+  {
+   "id": "in-021",
+   "sub": "granuloma",
+   "diff": "medium",
+   "q": "Epithelioid cells in a granuloma are:",
+   "opts": [
+    "Modified epithelial cells",
+    "Activated fibroblasts",
+    "Activated macrophages",
+    "Activated T lymphocytes"
+   ],
+   "ans": 2,
+   "exp": "Epithelioid cells are activated macrophages with abundant pink cytoplasm, so called because they look like epithelial cells. Some fuse to form multinucleate giant cells. T lymphocytes surround them and drive their activation through IFN-γ but are not epithelioid cells.",
+   "related": [
+    "Granulomatous inflammation",
+    "Giant cells"
+   ]
+  },
+  {
+   "id": "in-022",
+   "sub": "systemic",
+   "diff": "medium",
+   "q": "The raised erythrocyte sedimentation rate (ESR) in acute inflammation is mainly due to:",
+   "opts": [
+    "Fibrinogen-induced rouleaux formation of red cells",
+    "Increased neutrophil count with release of band forms",
+    "Increased platelet count",
+    "Increased haematocrit"
+   ],
+   "ans": 0,
+   "exp": "Fibrinogen is an acute-phase protein; it binds red cells and makes them form stacks (rouleaux) that sediment faster. Leukocytosis often accompanies inflammation but does not cause the raised ESR.",
+   "related": [
+    "Acute-phase proteins",
+    "ESR and CRP"
+   ]
+  },
+  {
+   "id": "in-023",
+   "sub": "patterns",
+   "diff": "medium",
+   "q": "A local defect of the surface of an organ produced by sloughing of inflamed necrotic tissue is called:",
+   "opts": [
+    "Abscess",
+    "Empyema",
+    "Cellulitis",
+    "Ulcer"
+   ],
+   "ans": 3,
+   "exp": "An ulcer is a local defect or excavation of a surface (mucosa or skin) made by shedding of inflamed necrotic tissue, as in peptic ulcer. An abscess is a localized collection of pus within a tissue, not a surface defect.",
+   "related": [
+    "Ulcer",
+    "Abscess"
+   ]
+  },
+  {
+   "id": "in-024",
+   "sub": "phagocytosis",
+   "diff": "hard",
+   "q": "A 6-month-old has had recurrent bacterial infections since birth and delayed separation of the umbilical cord. Blood shows marked neutrophilia, but infected sites contain few neutrophils and no pus. The most likely defect is in:",
+   "opts": [
+    "Fucosylation of sialyl-Lewis X",
+    "β2-integrin (CD18) synthesis",
+    "NADPH oxidase",
+    "Lysosomal trafficking regulator (LYST)"
+   ],
+   "ans": 1,
+   "exp": "Neutrophilia with failure to form pus means neutrophils cannot leave vessels, pointing to leukocyte adhesion deficiency. Type 1 is caused by defective β2-integrin (CD18) synthesis, preventing firm adhesion. Defective sialyl-Lewis X fucosylation is LAD type 2, which affects selectin-mediated rolling and is much rarer.",
+   "related": [
+    "Leukocyte adhesion deficiency",
+    "Integrins and ICAM-1"
+   ]
+  },
+  {
+   "id": "in-025",
+   "sub": "phagocytosis",
+   "diff": "hard",
+   "q": "A 4-year-old boy has recurrent infections with Staphylococcus aureus and Aspergillus, with granulomas in lymph nodes. His neutrophils ingest bacteria normally but generate no respiratory burst. Which component is defective?",
+   "opts": [
+    "Myeloperoxidase",
+    "NADPH oxidase (phagocyte oxidase)",
+    "β2-integrin (CD18)",
+    "Lysosomal trafficking regulator (LYST)"
+   ],
+   "ans": 1,
+   "exp": "Normal ingestion without a respiratory burst means superoxide cannot be produced, which is chronic granulomatous disease from an inherited defect in phagocyte oxidase (often X-linked). Uncleared microbes drive chronic inflammation with granulomas. Myeloperoxidase deficiency leaves the respiratory burst intact and is usually mild.",
+   "related": [
+    "Chronic granulomatous disease",
+    "Respiratory burst"
+   ]
+  },
+  {
+   "id": "in-026",
+   "sub": "phagocytosis",
+   "diff": "hard",
+   "q": "A child with partial oculocutaneous albinism, recurrent pyogenic infections and peripheral neuropathy has giant cytoplasmic granules in neutrophils on a blood smear. The basic defect is in:",
+   "opts": [
+    "Generation of superoxide by NADPH oxidase",
+    "Firm adhesion mediated by β2-integrins",
+    "Production of hypochlorous acid by myeloperoxidase",
+    "Phagosome–lysosome fusion, from a LYST mutation"
+   ],
+   "ans": 3,
+   "exp": "This is Chédiak–Higashi syndrome: mutation of the lysosomal trafficking regulator (LYST) disturbs intracellular trafficking, so phagosomes fail to fuse with lysosomes. Giant granules, albinism (melanocytes), nerve defects and bleeding (platelets) follow. CGD also causes recurrent infections but has no giant granules or albinism.",
+   "related": [
+    "Chédiak–Higashi syndrome",
+    "Defects in leukocyte function"
+   ]
+  },
+  {
+   "id": "in-027",
+   "sub": "mediators",
+   "diff": "hard",
+   "q": "A 22-year-old has recurrent episodes of non-itchy swelling of the face and larynx and attacks of abdominal pain; his father has the same problem. Serum C4 is low. Excess of which mediator causes the swelling?",
+   "opts": [
+    "Bradykinin",
+    "Histamine",
+    "Leukotriene C4",
+    "Prostaglandin E2"
+   ],
+   "ans": 0,
+   "exp": "Familial non-pruritic angioedema with low C4 indicates hereditary angioedema, caused by deficiency of C1 inhibitor. Without it, kallikrein and the kinin system are unchecked, and bradykinin increases vascular permeability. Histamine-driven swelling is usually itchy with urticaria and responds to antihistamines.",
+   "related": [
+    "Kinin system",
+    "Complement regulation"
+   ]
+  },
+  {
+   "id": "in-028",
+   "sub": "mediators",
+   "diff": "hard",
+   "q": "A drug suppresses inflamed tissue's production of both prostaglandins and leukotrienes and also reduces IL-1 and TNF. Which drug class is it most likely to be?",
+   "opts": [
+    "Aspirin",
+    "Selective COX-2 inhibitors",
+    "Glucocorticoids",
+    "5-lipoxygenase inhibitors (zileuton)"
+   ],
+   "ans": 2,
+   "exp": "Glucocorticoids reduce transcription of genes encoding COX-2, phospholipase A2, proinflammatory cytokines (IL-1, TNF) and iNOS, so both arms of arachidonic acid metabolism and cytokine output fall. Aspirin inhibits only cyclooxygenase, so prostaglandins fall but leukotriene synthesis is not blocked.",
+   "related": [
+    "Arachidonic acid metabolites",
+    "Anti-inflammatory drugs"
+   ]
+  },
+  {
+   "id": "in-029",
+   "sub": "systemic",
+   "diff": "hard",
+   "q": "A patient with lobar pneumonia has a temperature of 39.5 °C that falls after aspirin. The antipyretic effect results from:",
+   "opts": [
+    "Blocking IL-1 release from macrophages",
+    "Blocking LPS binding to Toll-like receptors",
+    "Reduced PGE2 synthesis in the hypothalamus",
+    "Inhibiting leukotriene synthesis"
+   ],
+   "ans": 2,
+   "exp": "Pyrogens such as LPS induce IL-1 and TNF, which raise cyclooxygenase activity in perivascular cells of the hypothalamus; the resulting PGE2 resets the temperature set point. NSAIDs block cyclooxygenase and therefore PGE2. They do not stop IL-1 release, which still occurs upstream.",
+   "related": [
+    "Fever",
+    "Prostaglandins"
+   ]
+  },
+  {
+   "id": "in-030",
+   "sub": "systemic",
+   "diff": "hard",
+   "q": "A 6-year-old with severe bacterial sepsis has a total leukocyte count of 55,000/µL with many band forms, metamyelocytes and myelocytes. There are no nucleated red cells or blasts, and the count normalizes after treatment. This is best termed:",
+   "opts": [
+    "Leukemoid reaction",
+    "Leukoerythroblastic reaction",
+    "Agranulocytosis",
+    "Leukopenia"
+   ],
+   "ans": 0,
+   "exp": "A leukocyte count of 40,000–100,000/µL with immature granulocytes in response to infection mimics leukemia and is called a leukemoid reaction; it resolves when the cause is treated. A leukoerythroblastic picture requires nucleated red cells along with immature myeloid cells, typically from marrow infiltration.",
+   "related": [
+    "Leukocytosis",
+    "Shift to the left"
+   ]
+  },
+  {
+   "id": "in-031",
+   "sub": "granuloma",
+   "diff": "hard",
+   "q": "A 30-year-old woman has a dry cough and bilateral hilar lymphadenopathy. Acid-fast stains and cultures are negative. A transbronchial biopsy most likely shows:",
+   "opts": [
+    "Caseating granulomas with acid-fast bacilli",
+    "Granulomas with central neutrophils and necrotic granular debris",
+    "Foreign-body granulomas with birefringent material",
+    "Noncaseating granulomas with epithelioid and giant cells"
+   ],
+   "ans": 3,
+   "exp": "Bilateral hilar lymphadenopathy in a young adult with negative mycobacterial studies suggests sarcoidosis, whose granulomas are noncaseating. Caseating granulomas with acid-fast bacilli would mean tuberculosis, which the negative stains and cultures argue against.",
+   "related": [
+    "Sarcoidosis",
+    "Granulomatous inflammation"
+   ]
+  },
+  {
+   "id": "in-032",
+   "sub": "granuloma",
+   "diff": "hard",
+   "q": "A patient with rheumatoid arthritis develops disseminated tuberculosis a few months after starting infliximab (anti-TNF antibody). Why does TNF blockade cause this?",
+   "opts": [
+    "TNF is the main inducer of M2 macrophages",
+    "TNF is needed to form and maintain granulomas",
+    "TNF is required for B-cell antibody production against mycobacteria",
+    "TNF blockade reduces IL-4, which kills mycobacteria"
+   ],
+   "ans": 1,
+   "exp": "Macrophage activation and the integrity of granulomas that wall off M. tuberculosis depend on TNF along with IFN-γ, so TNF antagonists can reactivate latent tuberculosis. M2 macrophages are induced by IL-4 and IL-13, not TNF, and antibody plays little role against intracellular mycobacteria.",
+   "related": [
+    "Immune granulomas",
+    "Tuberculosis"
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "in-c001",
+   "sub": "overview",
+   "front": "What are the four cardinal signs of inflammation described by Celsus?",
+   "back": "Rubor (redness), tumor (swelling), calor (heat) and dolor (pain)."
+  },
+  {
+   "id": "in-c002",
+   "sub": "overview",
+   "front": "Which receptors on cells recognize pathogen-associated molecular patterns (PAMPs)?",
+   "back": "Toll-like receptors (TLRs), located on the plasma membrane and in endosomes."
+  },
+  {
+   "id": "in-c003",
+   "sub": "overview",
+   "front": "What does the NLRP3 inflammasome activate, and with what result?",
+   "back": "Caspase-1, which cleaves pro-IL-1β into active IL-1β, driving leukocyte recruitment and fever."
+  },
+  {
+   "id": "in-c004",
+   "sub": "overview",
+   "front": "Which crystals activate the inflammasome in gout?",
+   "back": "Monosodium urate crystals."
+  },
+  {
+   "id": "in-c005",
+   "sub": "overview",
+   "front": "What are the main causes of acute inflammation?",
+   "back": "Infections and microbial toxins, tissue necrosis, foreign bodies and immune reactions (hypersensitivity)."
+  },
+  {
+   "id": "in-c006",
+   "sub": "vascular",
+   "front": "Which vessels dilate first in acute inflammation, and which mediators are chiefly responsible?",
+   "back": "Arterioles dilate first, mainly due to histamine and nitric oxide acting on vascular smooth muscle."
+  },
+  {
+   "id": "in-c007",
+   "sub": "vascular",
+   "front": "Which vessels are the main site of endothelial contraction and leakage in acute inflammation?",
+   "back": "Postcapillary venules."
+  },
+  {
+   "id": "in-c008",
+   "sub": "vascular",
+   "front": "How long does the immediate transient response of vascular leakage last?",
+   "back": "About 15–30 minutes; it is caused by endothelial contraction induced by histamine, bradykinin, leukotrienes and similar mediators."
+  },
+  {
+   "id": "in-c009",
+   "sub": "vascular",
+   "front": "What is stasis in acute inflammation, and what does it lead to?",
+   "back": "Slowing of blood flow from fluid loss and vasodilation; it causes leukocytes, mainly neutrophils, to accumulate along the endothelium (margination)."
+  },
+  {
+   "id": "in-c010",
+   "sub": "vascular",
+   "front": "What is the specific gravity of a transudate?",
+   "back": "Less than 1.012; it is a protein-poor ultrafiltrate, mostly albumin."
+  },
+  {
+   "id": "in-c011",
+   "sub": "vascular",
+   "front": "What are red streaks along the skin near an infected wound called?",
+   "back": "Lymphangitis: inflamed lymphatic channels draining the site, often accompanied by painful enlarged nodes (lymphadenitis)."
+  },
+  {
+   "id": "in-c012",
+   "sub": "recruitment",
+   "front": "What is the ligand on leukocytes for E- and P-selectin?",
+   "back": "Sialylated oligosaccharides such as sialyl-Lewis X on leukocyte glycoproteins."
+  },
+  {
+   "id": "in-c013",
+   "sub": "recruitment",
+   "front": "Where is P-selectin stored in endothelial cells?",
+   "back": "In Weibel–Palade bodies; it is redistributed to the surface within minutes after histamine or thrombin stimulation."
+  },
+  {
+   "id": "in-c014",
+   "sub": "recruitment",
+   "front": "Which endothelial ligand does the leukocyte integrin LFA-1 bind?",
+   "back": "ICAM-1."
+  },
+  {
+   "id": "in-c015",
+   "sub": "recruitment",
+   "front": "Which endothelial ligand does the integrin VLA-4 bind?",
+   "back": "VCAM-1."
+  },
+  {
+   "id": "in-c016",
+   "sub": "recruitment",
+   "front": "Which cytokines induce endothelial expression of E-selectin and integrin ligands?",
+   "back": "TNF and IL-1."
+  },
+  {
+   "id": "in-c017",
+   "sub": "recruitment",
+   "front": "Name three endogenous chemoattractants for neutrophils.",
+   "back": "IL-8 (CXCL8) and other chemokines, C5a and leukotriene B4."
+  },
+  {
+   "id": "in-c018",
+   "sub": "recruitment",
+   "front": "What is the main exogenous chemoattractant from bacteria?",
+   "back": "Bacterial products, particularly peptides with N-formylmethionine termini."
+  },
+  {
+   "id": "in-c019",
+   "sub": "recruitment",
+   "front": "In which infections do neutrophils persist as the predominant cell for several days?",
+   "back": "Pseudomonas infections."
+  },
+  {
+   "id": "in-c020",
+   "sub": "phagocytosis",
+   "front": "Name the three steps of phagocytosis.",
+   "back": "Recognition and attachment of the particle, engulfment with phagocytic vacuole formation, and killing/degradation of the ingested material."
+  },
+  {
+   "id": "in-c021",
+   "sub": "phagocytosis",
+   "front": "Name three major opsonins.",
+   "back": "IgG antibodies, the complement fragment C3b, and plasma lectins such as mannose-binding lectin (collectins)."
+  },
+  {
+   "id": "in-c022",
+   "sub": "phagocytosis",
+   "front": "What does NADPH oxidase (phagocyte oxidase) produce during the respiratory burst?",
+   "back": "Superoxide anion from oxygen, which is converted to hydrogen peroxide."
+  },
+  {
+   "id": "in-c023",
+   "sub": "phagocytosis",
+   "front": "Which bactericidal system of neutrophils is the most efficient?",
+   "back": "The H2O2–myeloperoxidase–halide system, which produces hypochlorous acid."
+  },
+  {
+   "id": "in-c024",
+   "sub": "phagocytosis",
+   "front": "What happens to the neutrophil that forms NETs?",
+   "back": "Its nucleus is lost and the cell dies."
+  },
+  {
+   "id": "in-c025",
+   "sub": "phagocytosis",
+   "front": "What is the defect in leukocyte adhesion deficiency type 1?",
+   "back": "Defective synthesis of the β2-integrin chain (CD18) shared by LFA-1 and Mac-1, causing impaired firm adhesion."
+  },
+  {
+   "id": "in-c026",
+   "sub": "phagocytosis",
+   "front": "What is the defect in leukocyte adhesion deficiency type 2?",
+   "back": "Absence of sialyl-Lewis X from a defect in fucosyl transferase, causing defective selectin-mediated rolling."
+  },
+  {
+   "id": "in-c027",
+   "sub": "phagocytosis",
+   "front": "What is the defect in Chédiak–Higashi syndrome?",
+   "back": "Mutation of LYST, impairing phagosome–lysosome fusion; neutrophils contain giant granules."
+  },
+  {
+   "id": "in-c028",
+   "sub": "mediators",
+   "front": "Which receptor mediates most vascular effects of histamine in inflammation?",
+   "back": "The H1 receptor on microvascular endothelial cells."
+  },
+  {
+   "id": "in-c029",
+   "sub": "mediators",
+   "front": "What are the main sources of serotonin in inflammation?",
+   "back": "Platelets (released during platelet aggregation) and some neuroendocrine cells."
+  },
+  {
+   "id": "in-c030",
+   "sub": "mediators",
+   "front": "Which enzyme releases arachidonic acid from membrane phospholipids?",
+   "back": "Phospholipase A2."
+  },
+  {
+   "id": "in-c031",
+   "sub": "mediators",
+   "front": "What are the main actions of prostacyclin (PGI2)?",
+   "back": "Vasodilation and inhibition of platelet aggregation; it is made by vascular endothelium."
+  },
+  {
+   "id": "in-c032",
+   "sub": "mediators",
+   "front": "What are the main actions of thromboxane A2?",
+   "back": "Platelet aggregation and vasoconstriction; it is made by platelets."
+  },
+  {
+   "id": "in-c033",
+   "sub": "mediators",
+   "front": "Which prostaglandin is most important in pain and fever?",
+   "back": "PGE2."
+  },
+  {
+   "id": "in-c034",
+   "sub": "mediators",
+   "front": "How does aspirin inhibit prostaglandin synthesis?",
+   "back": "It irreversibly acetylates and inactivates cyclooxygenase (COX-1 and COX-2)."
+  },
+  {
+   "id": "in-c035",
+   "sub": "mediators",
+   "front": "What is the major action of leukotriene B4?",
+   "back": "Potent chemotaxis and activation of neutrophils."
+  },
+  {
+   "id": "in-c036",
+   "sub": "mediators",
+   "front": "Which cytokine from activated macrophages is a major cause of cachexia in chronic inflammation?",
+   "back": "TNF."
+  },
+  {
+   "id": "in-c037",
+   "sub": "mediators",
+   "front": "Which chemokine selectively recruits eosinophils?",
+   "back": "Eotaxin (a CC chemokine)."
+  },
+  {
+   "id": "in-c038",
+   "sub": "mediators",
+   "front": "What is the main function of C3b?",
+   "back": "Opsonization: it coats microbes and promotes their phagocytosis through complement receptors."
+  },
+  {
+   "id": "in-c039",
+   "sub": "mediators",
+   "front": "What is the membrane attack complex, and which infections increase if it is deficient?",
+   "back": "C5b–C9, which makes pores in microbial membranes; deficiency predisposes to Neisseria infections."
+  },
+  {
+   "id": "in-c040",
+   "sub": "mediators",
+   "front": "What are the actions of bradykinin?",
+   "back": "Increased vascular permeability, arteriolar dilation, bronchial smooth muscle contraction and pain."
+  },
+  {
+   "id": "in-c041",
+   "sub": "mediators",
+   "front": "What are the inflammatory actions of nitric oxide?",
+   "back": "Vasodilation by relaxing vascular smooth muscle, killing of microbes in activated macrophages, and reduced leukocyte recruitment."
+  },
+  {
+   "id": "in-c042",
+   "sub": "patterns",
+   "front": "What is serous inflammation, and give one example?",
+   "back": "Exudation of thin, cell-poor fluid into spaces created by injury or into body cavities (peritoneum, pleura, pericardium), e.g. the skin blister of a burn."
+  },
+  {
+   "id": "in-c043",
+   "sub": "patterns",
+   "front": "What are the possible fates of a fibrinous exudate?",
+   "back": "Removal by fibrinolysis and macrophages (resolution), or organization into scar if the fibrin is not cleared."
+  },
+  {
+   "id": "in-c044",
+   "sub": "patterns",
+   "front": "Describe the structure of an abscess.",
+   "back": "A central necrotic mass of dead neutrophils and tissue (pus), a surrounding zone of preserved neutrophils, then vascular dilation and fibroblast proliferation; it may become walled off by fibrous tissue."
+  },
+  {
+   "id": "in-c045",
+   "sub": "patterns",
+   "front": "Which organisms typically cause purulent (suppurative) inflammation?",
+   "back": "Pyogenic (pus-producing) bacteria such as staphylococci."
+  },
+  {
+   "id": "in-c046",
+   "sub": "patterns",
+   "front": "What are the three possible outcomes of acute inflammation?",
+   "back": "Complete resolution, healing by connective tissue replacement (fibrosis), or progression to chronic inflammation."
+  },
+  {
+   "id": "in-c047",
+   "sub": "chronic",
+   "front": "What are the main causes of chronic inflammation?",
+   "back": "Persistent infections, hypersensitivity diseases (autoimmune and allergic), and prolonged exposure to toxic agents such as silica or cholesterol."
+  },
+  {
+   "id": "in-c048",
+   "sub": "chronic",
+   "front": "What induces classically activated (M1) macrophages?",
+   "back": "Microbial products (via TLRs) and IFN-γ from T cells."
+  },
+  {
+   "id": "in-c049",
+   "sub": "chronic",
+   "front": "What are the main functions of M1 vs M2 macrophages?",
+   "back": "M1 kill microbes and promote inflammation (ROS, NO, lysosomal enzymes); M2 promote tissue repair and fibrosis and suppress inflammation (IL-10, TGF-β)."
+  },
+  {
+   "id": "in-c050",
+   "sub": "chronic",
+   "front": "Which Th cell subset recruits neutrophils, and through which cytokine?",
+   "back": "Th17 cells, through IL-17."
+  },
+  {
+   "id": "in-c051",
+   "sub": "chronic",
+   "front": "How are mast cells activated in allergic reactions?",
+   "back": "Cross-linking of IgE bound to Fc receptors on their surface, causing degranulation."
+  },
+  {
+   "id": "in-c052",
+   "sub": "granuloma",
+   "front": "What is a granuloma?",
+   "back": "A focus of chronic inflammation made of aggregated activated macrophages (epithelioid cells), often with giant cells, surrounded by lymphocytes."
+  },
+  {
+   "id": "in-c053",
+   "sub": "granuloma",
+   "front": "Describe a Langhans giant cell.",
+   "back": "A multinucleate giant cell formed by fusion of epithelioid cells, with nuclei arranged around the periphery in a horseshoe pattern."
+  },
+  {
+   "id": "in-c054",
+   "sub": "granuloma",
+   "front": "Which cytokine from Th1 cells converts macrophages into epithelioid cells in immune granulomas?",
+   "back": "Interferon-γ."
+  },
+  {
+   "id": "in-c055",
+   "sub": "granuloma",
+   "front": "How do foreign-body granulomas differ from immune granulomas?",
+   "back": "They form around inert material too large to be phagocytosed (talc, sutures) without a T-cell–mediated immune response."
+  },
+  {
+   "id": "in-c056",
+   "sub": "granuloma",
+   "front": "Name three causes of noncaseating granulomas.",
+   "back": "Sarcoidosis, Crohn disease and foreign bodies."
+  },
+  {
+   "id": "in-c057",
+   "sub": "granuloma",
+   "front": "What kind of granuloma does cat-scratch disease produce?",
+   "back": "Rounded or stellate granulomas with central granular debris and recognizable neutrophils."
+  },
+  {
+   "id": "in-c058",
+   "sub": "systemic",
+   "front": "Name three acute-phase proteins.",
+   "back": "C-reactive protein, fibrinogen and serum amyloid A."
+  },
+  {
+   "id": "in-c059",
+   "sub": "systemic",
+   "front": "How does inflammation cause anemia of chronic disease?",
+   "back": "Raised hepcidin (an acute-phase reactant) reduces iron availability for red cell production."
+  },
+  {
+   "id": "in-c060",
+   "sub": "systemic",
+   "front": "What long-term complication can follow chronically raised serum amyloid A?",
+   "back": "Secondary (AA) amyloidosis."
+  },
+  {
+   "id": "in-c061",
+   "sub": "systemic",
+   "front": "What are the endogenous pyrogens?",
+   "back": "IL-1 and TNF, released by leukocytes in response to exogenous pyrogens such as LPS."
+  },
+  {
+   "id": "in-c062",
+   "sub": "systemic",
+   "front": "What is a shift to the left?",
+   "back": "Increased immature neutrophils (bands) in blood, caused by accelerated release from the bone marrow reserve pool in infection."
+  },
+  {
+   "id": "in-c063",
+   "sub": "systemic",
+   "front": "Which infections typically cause leukopenia?",
+   "back": "Typhoid fever and infections by some viruses, rickettsiae and certain protozoa."
+  },
+  {
+   "id": "in-c064",
+   "sub": "systemic",
+   "front": "Which conditions typically cause eosinophilia?",
+   "back": "Allergic disorders such as asthma and hay fever, and parasitic infections."
+  },
+  {
+   "id": "in-c065",
+   "sub": "systemic",
+   "front": "What is the clinical triad of severe sepsis caused by high cytokine levels?",
+   "back": "Disseminated intravascular coagulation, hypotensive shock, and metabolic disturbances including insulin resistance and hyperglycemia."
+  }
+ ]
+}

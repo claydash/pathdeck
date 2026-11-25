@@ -1,0 +1,590 @@
+{
+ "id": "adaptations",
+ "title": "Cellular adaptations",
+ "competency": "PA2.6",
+ "ref": "Robbins Basic Pathology, ch. 1 (Cell Injury, Cell Death, and Adaptations)",
+ "subtopics": [
+  {
+   "id": "hypertrophy",
+   "title": "Hypertrophy"
+  },
+  {
+   "id": "hyperplasia",
+   "title": "Hyperplasia"
+  },
+  {
+   "id": "atrophy",
+   "title": "Atrophy"
+  },
+  {
+   "id": "metaplasia",
+   "title": "Metaplasia"
+  },
+  {
+   "id": "dysplasia",
+   "title": "Dysplasia as a precursor of cancer"
+  }
+ ],
+ "mcqs": [
+  {
+   "id": "ad-001",
+   "sub": "hypertrophy",
+   "diff": "easy",
+   "q": "Enlargement of the heart in long-standing systemic hypertension is mainly due to",
+   "opts": [
+    "Hyperplasia of cardiac myocytes",
+    "Hypertrophy of cardiac myocytes",
+    "Metaplasia of cardiac myocytes",
+    "Interstitial edema and fatty infiltration"
+   ],
+   "ans": 1,
+   "exp": "Adult cardiac myocytes have very limited capacity to divide, so they adapt to increased workload by increasing their size (hypertrophy), adding structural proteins and myofilaments. Hyperplasia needs cells that can divide, which is why it is not the mechanism in the heart.",
+   "related": [
+    "Pathologic cardiac hypertrophy",
+    "Hyperplasia"
+   ]
+  },
+  {
+   "id": "ad-002",
+   "sub": "hypertrophy",
+   "diff": "easy",
+   "q": "Which tissue responds to increased workload almost solely by hypertrophy rather than hyperplasia?",
+   "opts": [
+    "Liver",
+    "Endometrium",
+    "Breast glandular epithelium",
+    "Cardiac muscle"
+   ],
+   "ans": 3,
+   "exp": "Striated muscle cells in the heart and skeletal muscle have limited ability to divide, so increased demand is met by hypertrophy. Liver, endometrium and breast epithelium can divide, so they adapt mainly by hyperplasia.",
+   "related": [
+    "Hyperplasia",
+    "Physiologic hypertrophy"
+   ]
+  },
+  {
+   "id": "ad-003",
+   "sub": "hyperplasia",
+   "diff": "easy",
+   "q": "Proliferation of glandular epithelium of the female breast at puberty and during pregnancy is an example of",
+   "opts": [
+    "Physiologic hormonal hyperplasia",
+    "Compensatory hyperplasia after tissue loss",
+    "Pathologic hyperplasia",
+    "Metaplasia"
+   ],
+   "ans": 0,
+   "exp": "Hormone-driven growth of breast glandular epithelium at puberty and in pregnancy is the classic example of physiologic hormonal hyperplasia. Compensatory hyperplasia is regrowth of residual tissue after part of an organ is lost, as in the liver after partial hepatectomy.",
+   "related": [
+    "Compensatory hyperplasia",
+    "Pathologic hyperplasia"
+   ]
+  },
+  {
+   "id": "ad-004",
+   "sub": "hyperplasia",
+   "diff": "easy",
+   "q": "Regrowth of the liver after partial hepatectomy for living-donor transplantation is an example of",
+   "opts": [
+    "Physiologic hormonal hyperplasia",
+    "Pathologic hyperplasia",
+    "Compensatory hyperplasia",
+    "Metaplasia"
+   ],
+   "ans": 2,
+   "exp": "When part of the liver is removed, the remaining hepatocytes (and progenitor cells) proliferate until the original mass is restored; this is compensatory hyperplasia. Hormonal hyperplasia is driven by hormones such as estrogen acting on the breast or endometrium, not by tissue loss.",
+   "related": [
+    "Liver regeneration",
+    "Cell cycle"
+   ]
+  },
+  {
+   "id": "ad-005",
+   "sub": "atrophy",
+   "diff": "easy",
+   "q": "Which of the following is an example of physiologic atrophy?",
+   "opts": [
+    "Shrinkage of the uterus shortly after childbirth",
+    "Muscle wasting after nerve damage",
+    "Brain shrinkage in cerebral atherosclerosis",
+    "Muscle wasting after limb immobilisation in a cast"
+   ],
+   "ans": 0,
+   "exp": "Physiologic atrophy is common in normal life, such as embryonic structures like the notochord, and the decrease in uterine size after parturition. Muscle wasting after denervation or immobilisation and brain shrinkage from reduced blood supply are pathologic atrophy.",
+   "related": [
+    "Causes of atrophy",
+    "Disuse atrophy"
+   ]
+  },
+  {
+   "id": "ad-006",
+   "sub": "metaplasia",
+   "diff": "easy",
+   "q": "The most common epithelial metaplasia in the airways of a habitual cigarette smoker is",
+   "opts": [
+    "Squamous to columnar",
+    "Columnar to transitional",
+    "Squamous to cuboidal",
+    "Columnar to squamous"
+   ],
+   "ans": 3,
+   "exp": "Chronic irritation by smoke replaces the normal ciliated columnar epithelium of the trachea and bronchi with stratified squamous epithelium, which survives better but loses mucus secretion and ciliary clearance. Squamous-to-columnar change is the reverse pattern, seen in Barrett esophagus.",
+   "related": [
+    "Barrett esophagus",
+    "Squamous cell carcinoma of lung"
+   ]
+  },
+  {
+   "id": "ad-007",
+   "sub": "metaplasia",
+   "diff": "easy",
+   "q": "Barrett esophagus is best described as",
+   "opts": [
+    "Columnar epithelium replaced by stratified squamous epithelium",
+    "Squamous epithelium replaced by intestinal-type columnar epithelium",
+    "Basal cell hyperplasia and elongated papillae of squamous epithelium",
+    "Full-thickness dysplasia of the squamous epithelium"
+   ],
+   "ans": 1,
+   "exp": "In chronic gastroesophageal reflux, the squamous epithelium of the lower esophagus is replaced by intestinal-type columnar epithelium with goblet cells: squamous-to-columnar metaplasia. Columnar-to-squamous change is the opposite direction, typical of smokers' airways.",
+   "related": [
+    "Gastroesophageal reflux disease",
+    "Esophageal adenocarcinoma"
+   ]
+  },
+  {
+   "id": "ad-008",
+   "sub": "hypertrophy",
+   "diff": "medium",
+   "q": "In pathologic cardiac hypertrophy, a switch of contractile proteins to fetal forms occurs. Which change is typical?",
+   "opts": [
+    "The β myosin heavy chain isoform is replaced by the faster α isoform",
+    "Actin is replaced by desmin",
+    "The α myosin heavy chain is replaced by the slower β isoform",
+    "Myosin is replaced by keratin intermediate filaments"
+   ],
+   "ans": 2,
+   "exp": "In hypertrophied myocytes, α-myosin heavy chain is replaced by the β isoform, which contracts more slowly and economically; fetal genes such as atrial natriuretic factor are also re-expressed. The reverse switch (β to α) is the tempting trap and is wrong.",
+   "related": [
+    "Atrial natriuretic factor",
+    "Heart failure"
+   ]
+  },
+  {
+   "id": "ad-009",
+   "sub": "hypertrophy",
+   "diff": "medium",
+   "q": "What are the main triggers of cardiac hypertrophy?",
+   "opts": [
+    "Reduced workload with loss of trophic and growth factor signals",
+    "Mechanical stretch, growth factors and agonists such as angiotensin II",
+    "Reprogramming of local stem cells to differentiate into a new cell type",
+    "Increased protein breakdown by the ubiquitin–proteasome pathway"
+   ],
+   "ans": 1,
+   "exp": "Hypertrophy is triggered by mechanical sensors that detect increased load and by growth factors (TGF-β, IGF-1, FGF) and vasoactive agents (α-adrenergic agonists, endothelin-1, angiotensin II); these increase protein synthesis. Increased proteasomal breakdown and reduced workload cause atrophy, the opposite adaptation.",
+   "related": [
+    "Pathologic cardiac hypertrophy",
+    "Atrophy"
+   ]
+  },
+  {
+   "id": "ad-010",
+   "sub": "hyperplasia",
+   "diff": "medium",
+   "q": "Skin warts caused by papillomaviruses are an example of",
+   "opts": [
+    "Compensatory hyperplasia of the epidermis after loss of surface tissue",
+    "Squamous metaplasia",
+    "Hypertrophy of keratinocytes without increase in their number",
+    "Epithelial hyperplasia driven by viral growth-factor-like stimulation"
+   ],
+   "ans": 3,
+   "exp": "Robbins cites papillomavirus warts as hyperplasia associated with viral infection: masses of hyperplastic epithelium produced by growth-factor–type stimulation. Compensatory hyperplasia follows loss of tissue, as in the liver, and does not apply here.",
+   "related": [
+    "Human papillomavirus",
+    "Pathologic hyperplasia"
+   ]
+  },
+  {
+   "id": "ad-011",
+   "sub": "atrophy",
+   "diff": "medium",
+   "q": "In atrophic skeletal muscle, increased protein breakdown occurs mainly through",
+   "opts": [
+    "The ubiquitin–proteasome pathway",
+    "The caspase cascade",
+    "Matrix metalloproteinases",
+    "Granzyme-mediated proteolysis"
+   ],
+   "ans": 0,
+   "exp": "Atrophy results from reduced protein synthesis and increased protein degradation; degradation occurs mainly by the ubiquitin–proteasome pathway, where proteins tagged with ubiquitin are destroyed in proteasomes. Caspases execute apoptosis; they are not the main route of protein loss in atrophy.",
+   "related": [
+    "Autophagy",
+    "Cachexia"
+   ]
+  },
+  {
+   "id": "ad-012",
+   "sub": "atrophy",
+   "diff": "medium",
+   "q": "In atrophic cells, some autophagic vacuoles persist as residual bodies. Which pigment do they contain?",
+   "opts": [
+    "Hemosiderin",
+    "Melanin",
+    "Lipofuscin",
+    "Bilirubin"
+   ],
+   "ans": 2,
+   "exp": "Atrophy is often accompanied by increased autophagy; undigested debris remains in membrane-bound residual bodies as lipofuscin granules, and when abundant they give the tissue a brown colour (brown atrophy). Hemosiderin is an iron pigment from hemoglobin breakdown, not from autophagic debris.",
+   "related": [
+    "Lipofuscin",
+    "Brown atrophy"
+   ]
+  },
+  {
+   "id": "ad-013",
+   "sub": "metaplasia",
+   "diff": "medium",
+   "q": "Metaplasia arises by",
+   "opts": [
+    "Direct conversion of mature differentiated cells into another cell type",
+    "Fusion of epithelial cells with stromal cells",
+    "Mutation of TP53 in mature epithelial cells",
+    "Reprogramming of stem cells to differentiate along a new pathway"
+   ],
+   "ans": 3,
+   "exp": "Metaplasia does not come from a change in an already differentiated cell; it results from reprogramming of tissue stem cells or undifferentiated mesenchymal cells, driven by signals in the cell's environment. The tempting idea that mature columnar cells directly become squamous cells is wrong.",
+   "related": [
+    "Stem cells",
+    "Squamous metaplasia"
+   ]
+  },
+  {
+   "id": "ad-014",
+   "sub": "metaplasia",
+   "diff": "medium",
+   "q": "Vitamin A (retinoic acid) deficiency is classically associated with",
+   "opts": [
+    "Squamous metaplasia of respiratory epithelium",
+    "Intestinal metaplasia of the stomach",
+    "Osseous metaplasia in skeletal muscle",
+    "Columnar metaplasia of the esophagus"
+   ],
+   "ans": 0,
+   "exp": "Vitamin A deficiency induces squamous metaplasia in the respiratory epithelium (and the eye), because retinoic acid regulates the differentiation of epithelial stem cells. Columnar metaplasia of the esophagus is Barrett esophagus, which is caused by acid reflux, not vitamin deficiency.",
+   "related": [
+    "Vitamin A deficiency",
+    "Squamous metaplasia"
+   ]
+  },
+  {
+   "id": "ad-015",
+   "sub": "metaplasia",
+   "diff": "medium",
+   "q": "What is the main disadvantage of squamous metaplasia in the bronchi of a smoker?",
+   "opts": [
+    "Excess mucus production by hyperplastic goblet cells",
+    "Loss of mucus and ciliary clearance, and risk of carcinoma",
+    "Increased ciliary beating that damages the distal alveoli",
+    "Immediate invasion of the basement membrane by squamous cells"
+   ],
+   "ans": 1,
+   "exp": "Squamous epithelium resists smoke better, but it loses protective mechanisms (mucus secretion and ciliary clearance), and persistent influences that cause metaplasia may lead to squamous cell carcinoma. Metaplasia itself is not invasive; invasion of the basement membrane defines carcinoma.",
+   "related": [
+    "Squamous cell carcinoma of lung",
+    "Dysplasia"
+   ]
+  },
+  {
+   "id": "ad-016",
+   "sub": "dysplasia",
+   "diff": "medium",
+   "q": "Dysplasia involving the full thickness of an epithelium without breaching the basement membrane is called",
+   "opts": [
+    "Invasive carcinoma",
+    "Metaplasia",
+    "Carcinoma in situ",
+    "Low-grade dysplasia"
+   ],
+   "ans": 2,
+   "exp": "When dysplastic changes are marked and involve the entire thickness of the epithelium but the lesion stays confined by the basement membrane, it is a preinvasive neoplasm called carcinoma in situ. Once tumor cells cross the basement membrane the tumor is invasive.",
+   "related": [
+    "Invasion and metastasis",
+    "Grading and staging"
+   ]
+  },
+  {
+   "id": "ad-017",
+   "sub": "dysplasia",
+   "diff": "medium",
+   "q": "Which set of features defines dysplasia?",
+   "opts": [
+    "Loss of cell uniformity and architectural orientation, with pleomorphism",
+    "Replacement of one adult cell type by another, better-adapted adult cell type",
+    "Increase in cell size without an increase in number",
+    "Increase in cell number with normal maturation and orientation"
+   ],
+   "ans": 0,
+   "exp": "Dysplasia means disordered growth: cells lose uniformity and orientation (loss of polarity), show pleomorphism, hyperchromatic nuclei and increased mitoses. Replacement of one adult cell type by another is metaplasia, which keeps normal cell maturation.",
+   "related": [
+    "Carcinoma in situ",
+    "Anaplasia"
+   ]
+  },
+  {
+   "id": "ad-018",
+   "sub": "hyperplasia",
+   "diff": "hard",
+   "q": "A 52-year-old obese woman with anovulatory cycles has irregular heavy bleeding. Endometrial biopsy shows crowded, proliferating glands. Which statement is correct?",
+   "opts": [
+    "Physiologic hormonal hyperplasia that carries no added risk of cancer",
+    "Compensatory hyperplasia after shedding of endometrium in menses",
+    "Squamous metaplasia of the endometrium",
+    "Pathologic hyperplasia from unopposed estrogen, raising cancer risk"
+   ],
+   "ans": 3,
+   "exp": "Without ovulation there is no progesterone to oppose estrogen, so the endometrium shows pathologic hyperplasia. Robbins notes that pathologic hyperplasia is fertile soil for cancer, and endometrial hyperplasia increases the risk of endometrial carcinoma. It is not physiologic, because the hormonal balance is abnormal.",
+   "related": [
+    "Endometrial carcinoma",
+    "Pathologic hyperplasia"
+   ]
+  },
+  {
+   "id": "ad-019",
+   "sub": "hypertrophy",
+   "diff": "hard",
+   "q": "A 70-year-old man with long-standing aortic stenosis had a thick-walled left ventricle for years and now has heart failure. Why did the hypertrophy eventually fail?",
+   "opts": [
+    "The myocytes switched to hyperplasia and exhausted their stem cells",
+    "The myocytes became fibroblasts by metaplasia",
+    "Myocytes degenerated as growth outstripped their blood supply",
+    "Hypertrophy is irreversible injury from the start"
+   ],
+   "ans": 2,
+   "exp": "Hypertrophy compensates only up to a limit. Beyond it, myocytes undergo degenerative changes such as loss of myofibrillar elements and death, the enlarged muscle outgrows its vascular supply, and the heart fails. Myocytes do not change into fibroblasts; fibrosis comes from existing fibroblasts laying down scar.",
+   "related": [
+    "Heart failure",
+    "Pathologic cardiac hypertrophy"
+   ]
+  },
+  {
+   "id": "ad-020",
+   "sub": "atrophy",
+   "diff": "hard",
+   "q": "A 78-year-old man with advanced cerebral atherosclerosis has progressive memory loss. At autopsy the brain is small, with narrow gyri and wide sulci. Which cause of atrophy is most likely?",
+   "opts": [
+    "Decreased workload (disuse)",
+    "Diminished blood supply",
+    "Loss of innervation",
+    "Pressure from an expanding mass"
+   ],
+   "ans": 1,
+   "exp": "Gradual reduction of blood supply from atherosclerosis causes atrophy of the brain in old age (senile atrophy), which Robbins gives as the example of atrophy from diminished blood supply. Disuse atrophy is the type seen in immobilised skeletal muscle, not in the brain.",
+   "related": [
+    "Atherosclerosis",
+    "Cellular aging"
+   ]
+  },
+  {
+   "id": "ad-021",
+   "sub": "metaplasia",
+   "diff": "hard",
+   "q": "A 20-year-old footballer had a large thigh bruise after a tackle. Months later a hard mass is felt in the muscle, and biopsy shows mature bone with lamellae in the muscle. What is the process?",
+   "opts": [
+    "Dystrophic calcification of the old hematoma",
+    "Osseous metaplasia (myositis ossificans)",
+    "Metastatic calcification due to hypercalcemia",
+    "Osteosarcoma arising in muscle"
+   ],
+   "ans": 1,
+   "exp": "Metaplasia can occur in mesenchymal cells; bone formation in muscle after intramuscular hemorrhage is myositis ossificans. Dystrophic calcification is the tempting choice, but it only deposits calcium salts in damaged tissue and does not form organised bone.",
+   "related": [
+    "Dystrophic calcification",
+    "Tissue repair"
+   ]
+  },
+  {
+   "id": "ad-022",
+   "sub": "metaplasia",
+   "diff": "hard",
+   "q": "A 55-year-old man with heartburn for 15 years has salmon-pink mucosa above the gastroesophageal junction on endoscopy, and biopsy shows columnar epithelium with goblet cells. This change most increases his risk of",
+   "opts": [
+    "Esophageal squamous cell carcinoma",
+    "Gastrointestinal stromal tumor",
+    "Esophageal adenocarcinoma",
+    "Small cell carcinoma of the esophagus"
+   ],
+   "ans": 2,
+   "exp": "Chronic reflux has caused Barrett esophagus, squamous-to-intestinal columnar metaplasia, and adenocarcinomas of the esophagus arise from this metaplastic epithelium. Squamous cell carcinoma comes from the normal squamous epithelium and is linked to smoking and alcohol, not to Barrett metaplasia.",
+   "related": [
+    "Barrett esophagus",
+    "Dysplasia"
+   ]
+  },
+  {
+   "id": "ad-023",
+   "sub": "dysplasia",
+   "diff": "hard",
+   "q": "A 45-year-old smoker's bronchial biopsy shows squamous epithelium with disorderly maturation and atypical hyperchromatic nuclei in its lower half; the basement membrane is intact. He stops smoking. Which statement is most accurate?",
+   "opts": [
+    "This is invasive carcinoma and will metastasise",
+    "Dysplasia always progresses to carcinoma",
+    "This is carcinoma in situ, because nuclei are atypical",
+    "This dysplasia is not full-thickness and may regress"
+   ],
+   "ans": 3,
+   "exp": "Dysplasia can precede cancer but does not always progress; mild to moderate changes that do not involve the full thickness may be reversible once the inciting cause is removed. Carcinoma in situ requires full-thickness involvement, and invasion requires breach of the basement membrane, so neither fits here.",
+   "related": [
+    "Carcinoma in situ",
+    "Squamous metaplasia"
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "ad-c001",
+   "sub": "hypertrophy",
+   "front": "What is hypertrophy?",
+   "back": "An increase in the size of cells that increases the size of the organ, with no new cells; due to more structural proteins and organelles."
+  },
+  {
+   "id": "ad-c002",
+   "sub": "hypertrophy",
+   "front": "What is an example of physiologic skeletal muscle hypertrophy?",
+   "back": "The bulging muscles of bodybuilders, from enlargement of individual muscle fibres in response to increased demand."
+  },
+  {
+   "id": "ad-c003",
+   "sub": "hypertrophy",
+   "front": "Which fetal gene is re-expressed in hypertrophied cardiac myocytes, and what does its product do?",
+   "back": "Atrial natriuretic factor (ANF); it promotes salt excretion by the kidney, reducing blood volume and pressure and so the heart's load."
+  },
+  {
+   "id": "ad-c004",
+   "sub": "hypertrophy",
+   "front": "Which signalling pathways drive physiologic and pathologic cardiac hypertrophy?",
+   "back": "Physiologic (exercise) hypertrophy mainly through the PI3K/AKT pathway; pathologic hypertrophy mainly through G-protein–coupled receptor signalling."
+  },
+  {
+   "id": "ad-c005",
+   "sub": "hypertrophy",
+   "front": "What is the usual stimulus for pathologic cardiac hypertrophy?",
+   "back": "Increased workload, most often pressure overload from chronic hypertension or aortic valve disease (e.g., aortic stenosis)."
+  },
+  {
+   "id": "ad-c006",
+   "sub": "hyperplasia",
+   "front": "What is hyperplasia?",
+   "back": "An increase in the number of cells in an organ or tissue, in response to a stimulus, occurring only in cells capable of dividing."
+  },
+  {
+   "id": "ad-c007",
+   "sub": "hyperplasia",
+   "front": "What are the two types of physiologic hyperplasia?",
+   "back": "Hormonal hyperplasia (e.g., breast epithelium at puberty and pregnancy) and compensatory hyperplasia (e.g., liver after partial hepatectomy)."
+  },
+  {
+   "id": "ad-c008",
+   "sub": "hyperplasia",
+   "front": "What usually causes pathologic hyperplasia?",
+   "back": "Excessive or inappropriate hormonal or growth factor stimulation of target cells, e.g., endometrial hyperplasia from excess estrogen."
+  },
+  {
+   "id": "ad-c009",
+   "sub": "hyperplasia",
+   "front": "What drives benign prostatic hyperplasia?",
+   "back": "Excessive hormonal stimulation of prostate cells by androgens; it is a common example of pathologic hyperplasia."
+  },
+  {
+   "id": "ad-c010",
+   "sub": "hyperplasia",
+   "front": "How does pathologic hyperplasia differ from cancer?",
+   "back": "Hyperplasia stays controlled and regresses when the stimulus is removed, though it can be a fertile soil from which cancer later arises."
+  },
+  {
+   "id": "ad-c011",
+   "sub": "atrophy",
+   "front": "What is atrophy?",
+   "back": "Reduced size of an organ or tissue from a decrease in cell size and number, with fewer organelles and less structural protein."
+  },
+  {
+   "id": "ad-c012",
+   "sub": "atrophy",
+   "front": "What are the causes of pathologic atrophy?",
+   "back": "Decreased workload (disuse), loss of innervation, diminished blood supply, inadequate nutrition, loss of endocrine stimulation and pressure."
+  },
+  {
+   "id": "ad-c013",
+   "sub": "atrophy",
+   "front": "What is the mechanism of atrophy?",
+   "back": "Decreased protein synthesis and increased protein breakdown, mainly via the ubiquitin–proteasome pathway, often with increased autophagy."
+  },
+  {
+   "id": "ad-c014",
+   "sub": "atrophy",
+   "front": "Which mediator is thought to cause muscle wasting in cachexia of chronic disease?",
+   "back": "Tumor necrosis factor (TNF), which suppresses appetite and depletes lipid; cachexia occurs in chronic inflammation and cancer."
+  },
+  {
+   "id": "ad-c015",
+   "sub": "atrophy",
+   "front": "What is brown atrophy?",
+   "back": "Atrophy, often of the heart in old age or cachexia, in which abundant lipofuscin in residual bodies gives the shrunken organ a brown colour."
+  },
+  {
+   "id": "ad-c016",
+   "sub": "metaplasia",
+   "front": "What is metaplasia?",
+   "back": "A reversible change in which one differentiated (adult) cell type is replaced by another, usually better able to withstand the stress."
+  },
+  {
+   "id": "ad-c017",
+   "sub": "metaplasia",
+   "front": "Besides smoking, which conditions cause squamous metaplasia in glandular ducts?",
+   "back": "Stones in the excretory ducts of salivary glands, pancreas or bile ducts can replace columnar epithelium with stratified squamous epithelium."
+  },
+  {
+   "id": "ad-c018",
+   "sub": "metaplasia",
+   "front": "What is myositis ossificans?",
+   "back": "Connective tissue (osseous) metaplasia: bone forms in skeletal muscle, sometimes after intramuscular hemorrhage."
+  },
+  {
+   "id": "ad-c019",
+   "sub": "metaplasia",
+   "front": "Is metaplasia reversible?",
+   "back": "Yes; if the stimulus is removed, metaplasia can reverse. If it persists, it may predispose to malignant transformation."
+  },
+  {
+   "id": "ad-c020",
+   "sub": "metaplasia",
+   "front": "Which cancers can arise from metaplastic epithelium of the bronchus and the esophagus?",
+   "back": "Squamous cell carcinoma from bronchial squamous metaplasia; adenocarcinoma from Barrett (intestinal columnar) metaplasia of the esophagus."
+  },
+  {
+   "id": "ad-c021",
+   "sub": "dysplasia",
+   "front": "What does dysplasia mean?",
+   "back": "Disordered growth: loss of uniformity of individual cells and loss of architectural orientation, usually in epithelium."
+  },
+  {
+   "id": "ad-c022",
+   "sub": "dysplasia",
+   "front": "What cytologic features are seen in dysplastic epithelium?",
+   "back": "Pleomorphism, large hyperchromatic nuclei, high nuclear–cytoplasmic ratio, increased mitoses (sometimes above the basal layer) and loss of polarity."
+  },
+  {
+   "id": "ad-c023",
+   "sub": "dysplasia",
+   "front": "Does dysplasia always progress to cancer?",
+   "back": "No; it may precede cancer, but mild to moderate dysplasia can regress when the inciting cause is removed."
+  },
+  {
+   "id": "ad-c024",
+   "sub": "dysplasia",
+   "front": "What is carcinoma in situ?",
+   "back": "Marked dysplasia involving the full thickness of the epithelium but confined by an intact basement membrane; a preinvasive neoplasm."
+  }
+ ]
+}

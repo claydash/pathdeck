@@ -1,0 +1,1406 @@
+{
+ "id": "neoplasia",
+ "title": "Neoplasia",
+ "competency": "PA7.1–7.5",
+ "ref": "Robbins Basic Pathology, ch. 6 (Neoplasia)",
+ "subtopics": [
+  {
+   "id": "nomenclature",
+   "title": "Nomenclature"
+  },
+  {
+   "id": "benign-malignant",
+   "title": "Benign vs malignant tumours"
+  },
+  {
+   "id": "spread",
+   "title": "Spread of tumours and metastasis"
+  },
+  {
+   "id": "epidemiology",
+   "title": "Epidemiology and predisposition"
+  },
+  {
+   "id": "oncogenes",
+   "title": "Oncogenes and growth signals"
+  },
+  {
+   "id": "tumour-suppressors",
+   "title": "Tumour suppressor genes"
+  },
+  {
+   "id": "hallmarks",
+   "title": "Other hallmarks of cancer"
+  },
+  {
+   "id": "carcinogens",
+   "title": "Chemical and radiation carcinogenesis"
+  },
+  {
+   "id": "microbial",
+   "title": "Viral and microbial carcinogenesis"
+  },
+  {
+   "id": "host-effects",
+   "title": "Effects of tumour on the host"
+  },
+  {
+   "id": "grading-staging",
+   "title": "Grading and staging"
+  },
+  {
+   "id": "lab-diagnosis",
+   "title": "Laboratory diagnosis and tumour markers"
+  }
+ ],
+ "mcqs": [
+  {
+   "id": "ne-001",
+   "sub": "nomenclature",
+   "diff": "easy",
+   "q": "Which of the following tumours is malignant even though its name ends in '-oma'?",
+   "opts": [
+    "Melanoma",
+    "Lipoma",
+    "Leiomyoma",
+    "Chondroma"
+   ],
+   "ans": 0,
+   "exp": "Melanoma is a malignant tumour of melanocytes; the correct name would be melanocarcinoma, so it is a classic misnomer like lymphoma, mesothelioma and seminoma. Lipoma, leiomyoma and chondroma follow the normal rule: '-oma' attached to the cell of origin means a benign tumour.",
+   "related": [
+    "Nomenclature of malignant tumours",
+    "Misnomers in tumour naming"
+   ]
+  },
+  {
+   "id": "ne-002",
+   "sub": "nomenclature",
+   "diff": "medium",
+   "q": "A small nodule in the wall of the stomach is found to consist of normal-looking pancreatic acini and ducts. What is the best term for this lesion?",
+   "opts": [
+    "Hamartoma",
+    "Choristoma",
+    "Teratoma",
+    "Adenoma"
+   ],
+   "ans": 1,
+   "exp": "A choristoma is a heterotopic rest of normal tissue in an abnormal location, such as pancreatic tissue in the stomach or small-bowel wall. A hamartoma is the tempting choice, but it is a disorganised mass of tissue that is native to the site, not tissue displaced from another organ.",
+   "related": [
+    "Hamartoma",
+    "Teratoma"
+   ]
+  },
+  {
+   "id": "ne-003",
+   "sub": "nomenclature",
+   "diff": "hard",
+   "q": "A 25-year-old woman has an ovarian cyst containing hair, sebaceous material and a tooth. Histology shows mature skin, cartilage and thyroid tissue. Which statement about this tumour is correct?",
+   "opts": [
+    "It arises from a single germ layer and is a malignant mixed tumour",
+    "It arises from surface epithelium and is a borderline tumour",
+    "It arises from totipotent germ cells and is usually benign",
+    "It is heterotopic tissue (a choristoma) with no neoplastic nature"
+   ],
+   "ans": 2,
+   "exp": "This is a mature cystic teratoma (dermoid cyst): it arises from totipotent germ cells, contains tissues from more than one germ layer and in the ovary is usually benign. A mixed tumour such as pleomorphic adenoma is the tempting distractor, but mixed tumours derive from a single germ layer.",
+   "related": [
+    "Teratoma",
+    "Mixed tumours"
+   ]
+  },
+  {
+   "id": "ne-004",
+   "sub": "benign-malignant",
+   "diff": "easy",
+   "q": "Which single feature most reliably marks a tumour as malignant?",
+   "opts": [
+    "Local invasion",
+    "Nuclear pleomorphism",
+    "Rapid rate of growth",
+    "Metastasis"
+   ],
+   "ans": 3,
+   "exp": "Metastasis unequivocally marks a tumour as malignant, because benign tumours do not metastasise. Local invasion is the next most reliable feature, but some malignant tumours (e.g. basal cell carcinoma) rarely metastasise and invasion alone is less decisive.",
+   "related": [
+    "Invasion and metastasis",
+    "Anaplasia"
+   ]
+  },
+  {
+   "id": "ne-005",
+   "sub": "benign-malignant",
+   "diff": "medium",
+   "q": "Which of the following is a feature of anaplasia?",
+   "opts": [
+    "Nuclear-to-cytoplasmic ratio approaching 1:1",
+    "Nuclei uniform in size and shape",
+    "Cells maintaining orientation to the basement membrane",
+    "Nuclear-to-cytoplasmic ratio of 1:4 to 1:6"
+   ],
+   "ans": 0,
+   "exp": "Anaplastic cells have large hyperchromatic nuclei, so the N:C ratio approaches 1:1. A ratio of 1:4 to 1:6 is the normal value, and uniform nuclei with preserved polarity indicate good differentiation, not anaplasia.",
+   "related": [
+    "Pleomorphism",
+    "Loss of polarity",
+    "Dysplasia"
+   ]
+  },
+  {
+   "id": "ne-006",
+   "sub": "benign-malignant",
+   "diff": "hard",
+   "q": "A cervical biopsy shows atypical cells with loss of polarity and mitoses throughout the full thickness of the epithelium; the basement membrane is intact. Which statement is correct?",
+   "opts": [
+    "This is invasive carcinoma because the full thickness is involved",
+    "This is carcinoma in situ, which cannot yet metastasise",
+    "This is squamous metaplasia, a reversible adaptation",
+    "This is mild dysplasia, which is confined to the basal third"
+   ],
+   "ans": 1,
+   "exp": "When dysplastic changes involve the full thickness of the epithelium but the basement membrane is intact, the lesion is carcinoma in situ, a preinvasive stage. Full-thickness change is tempting to call invasive, but invasion requires breaching the basement membrane, which has not happened here.",
+   "related": [
+    "Dysplasia",
+    "Carcinoma in situ",
+    "Local invasion"
+   ]
+  },
+  {
+   "id": "ne-007",
+   "sub": "spread",
+   "diff": "easy",
+   "q": "Carcinomas most typically spread first by which route?",
+   "opts": [
+    "Bloodstream",
+    "Seeding of body cavities",
+    "Lymphatics",
+    "Implantation by surgical instruments"
+   ],
+   "ans": 2,
+   "exp": "Lymphatic spread is the most common initial pathway for carcinomas, and regional lymph nodes are involved first. Haematogenous spread is typical of sarcomas, although carcinomas can also use it.",
+   "related": [
+    "Sentinel lymph node",
+    "Haematogenous spread"
+   ]
+  },
+  {
+   "id": "ne-008",
+   "sub": "spread",
+   "diff": "medium",
+   "q": "Spread of tumour by seeding of body cavities is most characteristic of which tumour?",
+   "opts": [
+    "Renal cell carcinoma",
+    "Follicular carcinoma of thyroid",
+    "Osteosarcoma",
+    "Ovarian carcinoma"
+   ],
+   "ans": 3,
+   "exp": "Seeding of body cavities occurs when a tumour penetrates into an open space such as the peritoneal cavity; ovarian carcinoma classically coats peritoneal surfaces this way. Renal cell carcinoma is tempting because it spreads aggressively, but its classic route is invasion of the renal vein (haematogenous).",
+   "related": [
+    "Pseudomyxoma peritonei",
+    "Metastasis routes"
+   ]
+  },
+  {
+   "id": "ne-009",
+   "sub": "spread",
+   "diff": "hard",
+   "q": "A 62-year-old man with weight loss and early satiety is found to have a hard, enlarged left supraclavicular lymph node. Which primary tumour and eponym fit best?",
+   "opts": [
+    "Gastric carcinoma; Virchow node",
+    "Breast carcinoma; sentinel node",
+    "Ovarian carcinoma; Sister Mary Joseph nodule",
+    "Gastric carcinoma; Krukenberg tumour"
+   ],
+   "ans": 0,
+   "exp": "An enlarged left supraclavicular node (Virchow node) is a classic sign of metastatic abdominal cancer, especially gastric carcinoma, spreading via the thoracic duct. Krukenberg tumour is also linked to gastric carcinoma, but it refers to metastasis to the ovaries, not to a lymph node.",
+   "related": [
+    "Lymphatic spread",
+    "Gastric carcinoma"
+   ]
+  },
+  {
+   "id": "ne-010",
+   "sub": "epidemiology",
+   "diff": "easy",
+   "q": "Which of the following cancer-predisposing syndromes is inherited in an autosomal recessive pattern?",
+   "opts": [
+    "Familial adenomatous polyposis",
+    "Xeroderma pigmentosum",
+    "Li-Fraumeni syndrome",
+    "Von Hippel-Lindau syndrome"
+   ],
+   "ans": 1,
+   "exp": "Xeroderma pigmentosum is an autosomal recessive defect in nucleotide excision repair, like other DNA-repair syndromes such as Bloom syndrome and ataxia-telangiectasia. FAP, Li-Fraumeni and VHL are autosomal dominant syndromes caused by germline loss of one copy of a tumour suppressor gene.",
+   "related": [
+    "Hereditary cancer syndromes",
+    "Defective DNA repair"
+   ]
+  },
+  {
+   "id": "ne-011",
+   "sub": "epidemiology",
+   "diff": "medium",
+   "q": "Which of the following is an acquired condition that predisposes to cancer?",
+   "opts": [
+    "Benign prostatic hyperplasia",
+    "Leiomyoma of the uterus",
+    "Barrett oesophagus",
+    "Lipoma"
+   ],
+   "ans": 2,
+   "exp": "Barrett oesophagus (intestinal metaplasia due to chronic reflux) is a precursor of oesophageal adenocarcinoma. Benign prostatic hyperplasia is tempting as a 'growth' of an organ that also develops cancer, but it is not a precursor of prostatic carcinoma.",
+   "related": [
+    "Chronic inflammation and cancer",
+    "Metaplasia and dysplasia"
+   ]
+  },
+  {
+   "id": "ne-012",
+   "sub": "oncogenes",
+   "diff": "easy",
+   "q": "The Philadelphia chromosome t(9;22) in chronic myeloid leukaemia produces which fusion gene?",
+   "opts": [
+    "IGH-BCL2",
+    "IGH-MYC",
+    "PML-RARA",
+    "BCR-ABL"
+   ],
+   "ans": 3,
+   "exp": "t(9;22) fuses BCR with ABL, creating a constitutively active tyrosine kinase that is inhibited by imatinib. PML-RARA is a fusion product too, but of t(15;17) in acute promyelocytic leukaemia.",
+   "related": [
+    "Tyrosine kinase inhibitors",
+    "Chromosomal translocations in cancer"
+   ]
+  },
+  {
+   "id": "ne-013",
+   "sub": "oncogenes",
+   "diff": "medium",
+   "q": "Which is the most commonly mutated oncogene in human tumours?",
+   "opts": [
+    "RAS",
+    "MYC",
+    "ERBB2 (HER2)",
+    "ABL"
+   ],
+   "ans": 0,
+   "exp": "Point mutations of RAS family genes are the most common oncogene abnormality in human tumours (e.g. KRAS in most pancreatic adenocarcinomas). MYC is often activated, but mainly by translocation or amplification rather than being the most frequently mutated oncogene.",
+   "related": [
+    "RAS signalling",
+    "Proto-oncogene activation"
+   ]
+  },
+  {
+   "id": "ne-014",
+   "sub": "oncogenes",
+   "diff": "medium",
+   "q": "How does a typical point mutation make RAS oncogenic?",
+   "opts": [
+    "It increases the binding of RAS to GDP, keeping it inactive",
+    "It blocks RAS GTPase activity, so RAS stays bound to GTP",
+    "It amplifies the RAS gene to many copies",
+    "It places RAS under the control of an immunoglobulin promoter"
+   ],
+   "ans": 1,
+   "exp": "RAS is active when bound to GTP and switches itself off by hydrolysing GTP to GDP; oncogenic point mutations block this GTPase activity, so growth signals never stop. Amplification is a real way of activating other oncogenes (ERBB2, N-MYC) but is not the usual mechanism for RAS.",
+   "related": [
+    "NF1 and GTPase-activating proteins",
+    "Growth factor signalling"
+   ]
+  },
+  {
+   "id": "ne-015",
+   "sub": "oncogenes",
+   "diff": "hard",
+   "q": "A 9-year-old boy from equatorial Africa has a rapidly growing jaw mass. Biopsy shows sheets of intermediate-sized lymphoid cells with a 'starry sky' appearance. Which translocation and activated gene are expected?",
+   "opts": [
+    "t(14;18), BCL2",
+    "t(11;14), cyclin D1",
+    "t(8;14), MYC",
+    "t(9;22), BCR-ABL"
+   ],
+   "ans": 2,
+   "exp": "This is endemic Burkitt lymphoma, in which t(8;14) moves MYC next to the immunoglobulin heavy-chain locus and drives its overexpression. t(14;18) also involves the IgH locus but activates BCL2 in follicular lymphoma.",
+   "related": [
+    "Burkitt lymphoma",
+    "Epstein-Barr virus"
+   ]
+  },
+  {
+   "id": "ne-016",
+   "sub": "tumour-suppressors",
+   "diff": "easy",
+   "q": "Which protein is called the 'guardian of the genome'?",
+   "opts": [
+    "RB",
+    "MDM2",
+    "BCL2",
+    "p53"
+   ],
+   "ans": 3,
+   "exp": "p53 senses DNA damage and responds by arresting the cell cycle, promoting DNA repair, or triggering senescence or apoptosis if damage cannot be repaired. RB is also a key tumour suppressor, but it is the governor of the G1/S checkpoint, not the DNA-damage sensor.",
+   "related": [
+    "TP53 functions",
+    "Li-Fraumeni syndrome"
+   ]
+  },
+  {
+   "id": "ne-017",
+   "sub": "tumour-suppressors",
+   "diff": "medium",
+   "q": "Knudson's 'two-hit' hypothesis was developed from the study of which tumour?",
+   "opts": [
+    "Retinoblastoma",
+    "Wilms tumour",
+    "Familial adenomatous polyposis",
+    "Neuroblastoma"
+   ],
+   "ans": 0,
+   "exp": "Knudson explained familial and sporadic retinoblastoma by proposing that both copies of the RB gene must be lost: familial cases inherit one defective copy, so only one more 'hit' is needed. Wilms tumour (WT1) also fits the two-hit model but was not the basis of the hypothesis.",
+   "related": [
+    "RB gene",
+    "Tumour suppressor genes"
+   ]
+  },
+  {
+   "id": "ne-018",
+   "sub": "tumour-suppressors",
+   "diff": "medium",
+   "q": "Loss of APC function promotes colon cancer mainly by which mechanism?",
+   "opts": [
+    "RAS stays GTP-bound because a GTPase-activating protein is lost",
+    "β-catenin escapes degradation and activates MYC and cyclin D1",
+    "HIF-1α accumulates and drives VEGF transcription",
+    "PI3K/AKT signalling is no longer opposed by a phosphatase"
+   ],
+   "ans": 1,
+   "exp": "APC is part of the destruction complex that degrades β-catenin in the WNT pathway; without APC, β-catenin builds up and switches on proliferation genes. Loss of a RAS GTPase-activating protein is the mechanism of NF1, not APC.",
+   "related": [
+    "Familial adenomatous polyposis",
+    "WNT signalling"
+   ]
+  },
+  {
+   "id": "ne-019",
+   "sub": "tumour-suppressors",
+   "diff": "hard",
+   "q": "A 30-year-old woman has breast cancer. Her brother had osteosarcoma at 14, her mother died of adrenocortical carcinoma, and a cousin had a brain tumour. A germline mutation in which gene is most likely?",
+   "opts": [
+    "BRCA1",
+    "RB1",
+    "TP53",
+    "APC"
+   ],
+   "ans": 2,
+   "exp": "Early breast cancer plus sarcomas, adrenocortical carcinoma and brain tumours in one family is Li-Fraumeni syndrome, caused by a germline TP53 mutation. BRCA1 is tempting because of the breast cancer, but it does not explain the sarcoma, adrenocortical and brain tumours.",
+   "related": [
+    "Li-Fraumeni syndrome",
+    "p53 functions"
+   ]
+  },
+  {
+   "id": "ne-020",
+   "sub": "hallmarks",
+   "diff": "easy",
+   "q": "The t(14;18) translocation of follicular lymphoma causes overexpression of which protein?",
+   "opts": [
+    "MYC",
+    "Cyclin D1",
+    "BAX",
+    "BCL2"
+   ],
+   "ans": 3,
+   "exp": "t(14;18) places BCL2 next to the immunoglobulin heavy-chain locus, so the anti-apoptotic protein BCL2 is overexpressed and cells evade apoptosis. MYC is overexpressed in t(8;14) Burkitt lymphoma, which drives proliferation rather than blocking apoptosis.",
+   "related": [
+    "Evasion of apoptosis",
+    "Follicular lymphoma"
+   ]
+  },
+  {
+   "id": "ne-021",
+   "sub": "hallmarks",
+   "diff": "medium",
+   "q": "What is the Warburg effect?",
+   "opts": [
+    "Cancer cells rely on glycolysis even when oxygen is plentiful",
+    "Cancer cells increase oxidative phosphorylation to make more ATP",
+    "Cancer cells switch to fatty-acid oxidation as their main fuel",
+    "Cancer cells use glycolysis only in the hypoxic centre of the tumour"
+   ],
+   "ans": 0,
+   "exp": "The Warburg effect (aerobic glycolysis) is the switch of cancer cells to glycolysis despite adequate oxygen, which supplies building blocks for growth; it is the basis of FDG-PET imaging. Glycolysis restricted to hypoxic areas is ordinary anaerobic metabolism, not the Warburg effect.",
+   "related": [
+    "Altered cellular metabolism",
+    "PET imaging"
+   ]
+  },
+  {
+   "id": "ne-022",
+   "sub": "hallmarks",
+   "diff": "medium",
+   "q": "Pembrolizumab and nivolumab, used in melanoma and lung cancer, act by blocking which molecule?",
+   "opts": [
+    "CTLA-4 on T cells",
+    "PD-1 on T cells",
+    "VEGF in the tumour stroma",
+    "HER2 on tumour cells"
+   ],
+   "ans": 1,
+   "exp": "Tumours express PD-L1, which binds PD-1 on T cells and switches them off; antibodies against PD-1 release this brake and restore anti-tumour immunity. CTLA-4 is also an immune checkpoint, but it is blocked by a different antibody (ipilimumab).",
+   "related": [
+    "Immune evasion by tumours",
+    "Immune checkpoint inhibitors"
+   ]
+  },
+  {
+   "id": "ne-023",
+   "sub": "hallmarks",
+   "diff": "medium",
+   "q": "Inactivation of the VHL gene in clear cell renal cell carcinoma promotes angiogenesis because:",
+   "opts": [
+    "β-catenin accumulates and drives VEGF production",
+    "Telomerase is reactivated in endothelial cells",
+    "HIF-1α is not degraded and drives VEGF production",
+    "E-cadherin is lost from tumour cells"
+   ],
+   "ans": 2,
+   "exp": "The VHL protein targets HIF-1α for degradation; without it, HIF-1α accumulates even with normal oxygen and switches on VEGF and other angiogenic genes. β-catenin accumulation is the consequence of APC loss, not VHL loss.",
+   "related": [
+    "Angiogenesis in tumours",
+    "Von Hippel-Lindau syndrome"
+   ]
+  },
+  {
+   "id": "ne-024",
+   "sub": "hallmarks",
+   "diff": "hard",
+   "q": "A 35-year-old man has carcinoma of the caecum. His father had colon cancer at 45 and his aunt had endometrial carcinoma. The tumour shows microsatellite instability. What is the most likely inherited defect?",
+   "opts": [
+    "APC gene",
+    "Nucleotide excision repair genes",
+    "BRCA2 and homologous recombination",
+    "DNA mismatch repair genes such as MSH2 or MLH1"
+   ],
+   "ans": 3,
+   "exp": "Early right-sided colon cancer with endometrial cancer in relatives and microsatellite instability is Lynch syndrome (HNPCC), caused by germline mutations in mismatch repair genes. APC is tempting for familial colon cancer, but FAP presents with hundreds of polyps and its tumours are not typically microsatellite-unstable.",
+   "related": [
+    "Lynch syndrome",
+    "Genomic instability"
+   ]
+  },
+  {
+   "id": "ne-025",
+   "sub": "carcinogens",
+   "diff": "easy",
+   "q": "Occupational exposure to vinyl chloride is associated with which tumour?",
+   "opts": [
+    "Angiosarcoma of the liver",
+    "Hepatocellular carcinoma",
+    "Mesothelioma",
+    "Urothelial carcinoma of the bladder"
+   ],
+   "ans": 0,
+   "exp": "Vinyl chloride, used in PVC manufacture, is classically linked to hepatic angiosarcoma, a malignant tumour of blood vessels. Hepatocellular carcinoma is the tempting liver answer, but its classic chemical association is aflatoxin B1.",
+   "related": [
+    "Chemical carcinogens",
+    "Aflatoxin B1"
+   ]
+  },
+  {
+   "id": "ne-026",
+   "sub": "carcinogens",
+   "diff": "medium",
+   "q": "Which of the following carcinogens is direct-acting, needing no metabolic activation?",
+   "opts": [
+    "Benzo[a]pyrene",
+    "Alkylating agents such as nitrogen mustards",
+    "β-Naphthylamine",
+    "Aflatoxin B1"
+   ],
+   "ans": 1,
+   "exp": "Direct-acting carcinogens, such as alkylating and acylating agents (including some anticancer drugs), react with DNA without conversion. Benzo[a]pyrene, β-naphthylamine and aflatoxin B1 are indirect-acting procarcinogens that need activation, mainly by cytochrome P-450 enzymes.",
+   "related": [
+    "Initiation and promotion",
+    "Cytochrome P-450 activation"
+   ]
+  },
+  {
+   "id": "ne-027",
+   "sub": "carcinogens",
+   "diff": "medium",
+   "q": "In two-stage chemical carcinogenesis on mouse skin, which sequence produces tumours?",
+   "opts": [
+    "A promoter applied repeatedly, followed by an initiator",
+    "A single dose of an initiator with no later promoter",
+    "An initiator followed by repeated doses of a promoter",
+    "Repeated applications of a promoter alone"
+   ],
+   "ans": 2,
+   "exp": "Initiation is a permanent DNA change, and promoters (e.g. phorbol esters) then drive proliferation of the initiated cells, so tumours appear only when the promoter follows the initiator. Promoter before initiator is the classic trap: promoters are not mutagenic, so applying them first does not produce tumours.",
+   "related": [
+    "Initiation and promotion",
+    "Multistep carcinogenesis"
+   ]
+  },
+  {
+   "id": "ne-028",
+   "sub": "carcinogens",
+   "diff": "hard",
+   "q": "A groundnut farmer from a hot, humid region develops hepatocellular carcinoma. Tumour DNA shows a characteristic mutation at codon 249 of TP53. Which agent is most likely responsible?",
+   "opts": [
+    "Nitrosamines",
+    "Vinyl chloride",
+    "Polycyclic aromatic hydrocarbons",
+    "Aflatoxin B1"
+   ],
+   "ans": 3,
+   "exp": "Aflatoxin B1, made by Aspergillus growing on badly stored grains and nuts, produces a signature mutation at codon 249 of TP53 and causes hepatocellular carcinoma, especially with hepatitis B. Vinyl chloride also causes liver cancer, but it causes angiosarcoma and lacks this TP53 signature.",
+   "related": [
+    "Aflatoxin and hepatitis B",
+    "Indirect-acting carcinogens"
+   ]
+  },
+  {
+   "id": "ne-029",
+   "sub": "microbial",
+   "diff": "easy",
+   "q": "Adult T-cell leukaemia/lymphoma is caused by which virus?",
+   "opts": [
+    "HTLV-1",
+    "HIV-1",
+    "Epstein-Barr virus",
+    "HHV-8"
+   ],
+   "ans": 0,
+   "exp": "HTLV-1 is a retrovirus that infects CD4+ T cells and causes adult T-cell leukaemia/lymphoma; its Tax protein drives T-cell proliferation. HIV-1 is the tempting retrovirus, but it causes immunodeficiency and is not directly oncogenic in this way.",
+   "related": [
+    "HTLV-1 Tax protein",
+    "Oncogenic viruses"
+   ]
+  },
+  {
+   "id": "ne-030",
+   "sub": "microbial",
+   "diff": "medium",
+   "q": "The HPV E6 oncoprotein contributes to cervical carcinogenesis mainly by:",
+   "opts": [
+    "Binding RB and releasing E2F",
+    "Binding p53 and promoting its degradation",
+    "Acting like a constantly active CD40 receptor",
+    "Activating host genes through the Tax protein"
+   ],
+   "ans": 1,
+   "exp": "High-risk HPV E6 binds p53 and targets it for degradation, removing a key checkpoint. Binding RB and releasing E2F is the action of the other HPV oncoprotein, E7.",
+   "related": [
+    "HPV E7 and RB",
+    "Cervical carcinoma"
+   ]
+  },
+  {
+   "id": "ne-031",
+   "sub": "microbial",
+   "diff": "medium",
+   "q": "Kaposi sarcoma and primary effusion lymphoma are associated with which virus?",
+   "opts": [
+    "Epstein-Barr virus",
+    "HTLV-1",
+    "HHV-8 (KSHV)",
+    "Cytomegalovirus"
+   ],
+   "ans": 2,
+   "exp": "Kaposi sarcoma herpesvirus (HHV-8) causes Kaposi sarcoma and primary effusion lymphoma, especially in immunosuppressed patients. EBV is the tempting herpesvirus and also causes lymphomas, but it is not the cause of Kaposi sarcoma.",
+   "related": [
+    "Oncogenic viruses",
+    "Kaposi sarcoma"
+   ]
+  },
+  {
+   "id": "ne-032",
+   "sub": "microbial",
+   "diff": "hard",
+   "q": "A patient with long-standing H. pylori gastritis has a gastric biopsy showing a monoclonal infiltrate of small marginal-zone B cells invading gastric glands. What is the diagnosis and its expected behaviour?",
+   "opts": [
+    "Diffuse gastric adenocarcinoma, which regresses after H. pylori is eradicated",
+    "Burkitt lymphoma, driven by EBV",
+    "Gastrointestinal stromal tumour, driven by KIT mutation",
+    "MALT lymphoma, which may regress after H. pylori is eradicated"
+   ],
+   "ans": 3,
+   "exp": "H. pylori drives B-cell proliferation in the stomach that can become a MALT (marginal zone) lymphoma; early tumours depend on T-cell help from the infection and may regress after antibiotic eradication. H. pylori also causes gastric adenocarcinoma, but adenocarcinoma does not regress with eradication.",
+   "related": [
+    "Helicobacter pylori and cancer",
+    "Marginal zone lymphoma"
+   ]
+  },
+  {
+   "id": "ne-033",
+   "sub": "host-effects",
+   "diff": "medium",
+   "q": "Small cell carcinoma of the lung is a classic cause of which paraneoplastic syndrome?",
+   "opts": [
+    "Cushing syndrome due to ectopic ACTH",
+    "Hypercalcaemia due to PTH-related protein",
+    "Polycythaemia due to erythropoietin",
+    "Hypoglycaemia due to insulin-like substances"
+   ],
+   "ans": 0,
+   "exp": "Small cell carcinoma is a neuroendocrine tumour that can secrete ACTH (Cushing syndrome) and ADH (SIADH). Hypercalcaemia from PTHrP is the tempting lung-cancer answer, but it is classic for squamous cell carcinoma, not small cell carcinoma.",
+   "related": [
+    "Paraneoplastic syndromes",
+    "Small cell carcinoma"
+   ]
+  },
+  {
+   "id": "ne-034",
+   "sub": "host-effects",
+   "diff": "medium",
+   "q": "Cancer cachexia is mainly caused by:",
+   "opts": [
+    "The nutritional demands of the growing tumour",
+    "Cytokines such as TNF from tumour and host cells",
+    "Reduced food intake alone",
+    "Excess thyroid hormone produced by the tumour cells"
+   ],
+   "ans": 1,
+   "exp": "Cachexia (loss of fat and lean muscle with weakness and anorexia) is driven by soluble factors, mainly cytokines like TNF released by macrophages and other cells. The tumour's own nutritional demands are the tempting answer, but Robbins notes they do not explain cachexia.",
+   "related": [
+    "Host effects of tumours",
+    "Tumour necrosis factor"
+   ]
+  },
+  {
+   "id": "ne-035",
+   "sub": "host-effects",
+   "diff": "hard",
+   "q": "A 65-year-old smoker has confusion and a serum calcium of 13.5 mg/dL. Serum PTH is low and a bone scan shows no metastases. Biopsy of a central lung mass shows keratin pearls. What is the mechanism of hypercalcaemia?",
+   "opts": [
+    "Ectopic ACTH secretion by small cell carcinoma",
+    "Osteolytic bone metastases",
+    "PTH-related protein from squamous cell carcinoma",
+    "Primary hyperparathyroidism from a parathyroid adenoma"
+   ],
+   "ans": 2,
+   "exp": "Keratin pearls mean squamous cell carcinoma, which classically secretes PTH-related protein that acts like PTH while true PTH is suppressed. Osteolytic metastases are tempting as a cause of hypercalcaemia in cancer, but the normal bone scan rules them out, and the low PTH rules out primary hyperparathyroidism.",
+   "related": [
+    "Paraneoplastic hypercalcaemia",
+    "Squamous cell carcinoma of lung"
+   ]
+  },
+  {
+   "id": "ne-036",
+   "sub": "grading-staging",
+   "diff": "easy",
+   "q": "Staging of a cancer is based on:",
+   "opts": [
+    "Degree of differentiation of tumour cells",
+    "Number of mitoses and the degree of nuclear pleomorphism",
+    "Serum level of tumour markers",
+    "Tumour size and spread to nodes and distant sites"
+   ],
+   "ans": 3,
+   "exp": "Staging (e.g. the TNM system) describes the anatomical extent of the cancer: T for the primary tumour, N for nodes and M for metastases. Degree of differentiation and mitoses are the basis of grading, not staging.",
+   "related": [
+    "TNM staging",
+    "Grading of tumours"
+   ]
+  },
+  {
+   "id": "ne-037",
+   "sub": "grading-staging",
+   "diff": "hard",
+   "q": "Patient A has a poorly differentiated colon carcinoma confined to the submucosa (N0, M0). Patient B has a well-differentiated colon carcinoma with metastases in four regional lymph nodes (M0). Which statement is correct?",
+   "opts": [
+    "Patient B, because stage matters more than grade",
+    "Patient A, because grade determines the prognosis",
+    "Both have the same outlook as both are adenocarcinomas",
+    "Outlook cannot be judged until tumour markers are measured"
+   ],
+   "ans": 0,
+   "exp": "Robbins notes that staging has proved of greater clinical value than grading; nodal metastases in patient B place it at a higher stage. Poor differentiation in patient A is the tempting answer, but a low-stage tumour usually does better than a well-differentiated tumour that has already spread.",
+   "related": [
+    "TNM staging",
+    "Grading of tumours"
+   ]
+  },
+  {
+   "id": "ne-038",
+   "sub": "lab-diagnosis",
+   "diff": "easy",
+   "q": "Which immunohistochemical marker identifies a tumour of epithelial origin (carcinoma)?",
+   "opts": [
+    "Vimentin",
+    "Cytokeratin",
+    "Desmin",
+    "CD45"
+   ],
+   "ans": 1,
+   "exp": "Cytokeratins are intermediate filaments of epithelial cells, so their presence indicates a carcinoma. Vimentin is the intermediate filament of mesenchymal cells, desmin of muscle, and CD45 (leukocyte common antigen) marks lymphomas.",
+   "related": [
+    "Immunohistochemistry",
+    "Intermediate filaments"
+   ]
+  },
+  {
+   "id": "ne-039",
+   "sub": "lab-diagnosis",
+   "diff": "hard",
+   "q": "A lymph node shows sheets of poorly differentiated malignant cells. They stain positive for S-100 and HMB-45 and negative for cytokeratin and CD45. What is the most likely diagnosis?",
+   "opts": [
+    "Large cell lymphoma",
+    "Metastatic poorly differentiated carcinoma",
+    "Metastatic melanoma",
+    "Rhabdomyosarcoma"
+   ],
+   "ans": 2,
+   "exp": "HMB-45 is a melanocytic marker, and together with S-100 positivity it points to melanoma. Lymphoma is a common consideration for an undifferentiated tumour in a node, but it would be CD45-positive; carcinoma would be cytokeratin-positive.",
+   "related": [
+    "Immunohistochemistry",
+    "Melanoma"
+   ]
+  },
+  {
+   "id": "ne-040",
+   "sub": "lab-diagnosis",
+   "diff": "medium",
+   "q": "In colorectal carcinoma, serum CEA is most useful for:",
+   "opts": [
+    "Screening asymptomatic adults for cancer",
+    "Making the diagnosis without a biopsy",
+    "Determining the histological grade",
+    "Detecting recurrence after resection"
+   ],
+   "ans": 3,
+   "exp": "Tumour markers like CEA lack sensitivity and specificity (CEA is raised in other cancers and some non-neoplastic conditions, and may be normal in early cancer), so they are mainly used to monitor for recurrence. Screening is the tempting answer, but CEA is not reliable enough to detect early cancer in the general population.",
+   "related": [
+    "Tumour markers",
+    "Carcinoembryonic antigen"
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "ne-c001",
+   "sub": "nomenclature",
+   "front": "How are benign tumours generally named?",
+   "back": "By adding the suffix '-oma' to the cell of origin, e.g. fibroma, chondroma, adenoma."
+  },
+  {
+   "id": "ne-c002",
+   "sub": "nomenclature",
+   "front": "What is a malignant tumour of mesenchymal origin called?",
+   "back": "A sarcoma, e.g. fibrosarcoma, liposarcoma, leiomyosarcoma, chondrosarcoma."
+  },
+  {
+   "id": "ne-c003",
+   "sub": "nomenclature",
+   "front": "What is a malignant tumour of epithelial origin called?",
+   "back": "A carcinoma; adenocarcinoma if it forms glands, squamous cell carcinoma if it makes squamous cells."
+  },
+  {
+   "id": "ne-c004",
+   "sub": "nomenclature",
+   "front": "Name four malignant tumours whose names sound benign.",
+   "back": "Melanoma, lymphoma, mesothelioma and seminoma."
+  },
+  {
+   "id": "ne-c005",
+   "sub": "nomenclature",
+   "front": "What is a hamartoma?",
+   "back": "A disorganised but benign mass of cells native to the site, e.g. pulmonary chondroid hamartoma (cartilage, airway and vessels in lung)."
+  },
+  {
+   "id": "ne-c006",
+   "sub": "nomenclature",
+   "front": "What is a choristoma?",
+   "back": "A congenital rest of normal tissue in an abnormal site, e.g. pancreatic tissue in the wall of the stomach or small bowel."
+  },
+  {
+   "id": "ne-c007",
+   "sub": "nomenclature",
+   "front": "What is a teratoma?",
+   "back": "A tumour of totipotent germ cells containing tissues from more than one germ layer; the ovarian mature cystic teratoma (dermoid) is benign."
+  },
+  {
+   "id": "ne-c008",
+   "sub": "nomenclature",
+   "front": "What is a mixed tumour? Give the classic example.",
+   "back": "A tumour from one germ layer that differentiates into more than one cell type, e.g. pleomorphic adenoma of salivary gland."
+  },
+  {
+   "id": "ne-c009",
+   "sub": "benign-malignant",
+   "front": "What is anaplasia?",
+   "back": "Lack of differentiation of tumour cells; it is a hallmark of malignancy."
+  },
+  {
+   "id": "ne-c010",
+   "sub": "benign-malignant",
+   "front": "What is pleomorphism?",
+   "back": "Variation in the size and shape of tumour cells and their nuclei."
+  },
+  {
+   "id": "ne-c011",
+   "sub": "benign-malignant",
+   "front": "What is the normal nuclear-to-cytoplasmic ratio, and what does it become in anaplastic cells?",
+   "back": "Normal is about 1:4 to 1:6; in anaplastic cells it approaches 1:1."
+  },
+  {
+   "id": "ne-c012",
+   "sub": "benign-malignant",
+   "front": "What is loss of polarity?",
+   "back": "Tumour cells lose their normal orientation to one another and to the basement membrane, growing in a disorganised way."
+  },
+  {
+   "id": "ne-c013",
+   "sub": "benign-malignant",
+   "front": "What is dysplasia?",
+   "back": "Disordered growth with loss of uniformity of cells and of their architectural orientation; mild dysplasia may regress if the cause is removed."
+  },
+  {
+   "id": "ne-c014",
+   "sub": "benign-malignant",
+   "front": "What is carcinoma in situ?",
+   "back": "Dysplasia involving the full thickness of the epithelium with the basement membrane still intact; a preinvasive stage."
+  },
+  {
+   "id": "ne-c015",
+   "sub": "benign-malignant",
+   "front": "Which feature, other than metastasis, is the most reliable sign of malignancy?",
+   "back": "Local invasion of surrounding tissue."
+  },
+  {
+   "id": "ne-c016",
+   "sub": "benign-malignant",
+   "front": "Name two malignant tumours that invade locally but rarely metastasise.",
+   "back": "Basal cell carcinoma of skin and most primary tumours of the central nervous system (gliomas)."
+  },
+  {
+   "id": "ne-c017",
+   "sub": "benign-malignant",
+   "front": "How is a benign tumour usually separated from surrounding tissue?",
+   "back": "By a fibrous capsule, which keeps it discrete, movable and easy to enucleate surgically."
+  },
+  {
+   "id": "ne-c018",
+   "sub": "spread",
+   "front": "What are the three pathways of metastasis?",
+   "back": "Lymphatic spread, haematogenous spread and seeding of body cavities."
+  },
+  {
+   "id": "ne-c019",
+   "sub": "spread",
+   "front": "Which route of spread is favoured by sarcomas?",
+   "back": "Haematogenous (bloodstream) spread."
+  },
+  {
+   "id": "ne-c020",
+   "sub": "spread",
+   "front": "What is a sentinel lymph node?",
+   "back": "The first node in a regional lymphatic basin to receive lymph from the primary tumour; biopsied in breast cancer and melanoma."
+  },
+  {
+   "id": "ne-c021",
+   "sub": "spread",
+   "front": "Which organs are most often involved by haematogenous metastasis?",
+   "back": "The liver and the lungs."
+  },
+  {
+   "id": "ne-c022",
+   "sub": "spread",
+   "front": "Which carcinomas characteristically invade veins?",
+   "back": "Renal cell carcinoma (renal vein, IVC) and hepatocellular carcinoma (portal and hepatic veins)."
+  },
+  {
+   "id": "ne-c023",
+   "sub": "spread",
+   "front": "Does an enlarged lymph node near a cancer always mean metastasis?",
+   "back": "No; it may be reactive hyperplasia caused by tumour antigens or necrotic debris, so histology is needed."
+  },
+  {
+   "id": "ne-c024",
+   "sub": "spread",
+   "front": "What is pseudomyxoma peritonei?",
+   "back": "Filling of the peritoneal cavity with gelatinous mucus from seeding of mucinous tumours, classically of the appendix."
+  },
+  {
+   "id": "ne-c025",
+   "sub": "spread",
+   "front": "What is a Virchow node?",
+   "back": "An enlarged left supraclavicular lymph node, classically from metastatic gastric carcinoma."
+  },
+  {
+   "id": "ne-c026",
+   "sub": "epidemiology",
+   "front": "What are the main groups of cancer in children?",
+   "back": "Acute leukaemias, tumours of the central nervous system, lymphomas, and soft-tissue and bone sarcomas."
+  },
+  {
+   "id": "ne-c027",
+   "sub": "epidemiology",
+   "front": "Give two examples of chronic inflammation leading to cancer.",
+   "back": "Ulcerative colitis leading to colorectal carcinoma; chronic hepatitis B or C leading to hepatocellular carcinoma."
+  },
+  {
+   "id": "ne-c028",
+   "sub": "epidemiology",
+   "front": "Which oral lesion is a precursor of squamous cell carcinoma?",
+   "back": "Leukoplakia (a white patch of the oral mucosa, which may show dysplasia)."
+  },
+  {
+   "id": "ne-c029",
+   "sub": "epidemiology",
+   "front": "How are most DNA-repair defect syndromes (e.g. xeroderma pigmentosum, Bloom syndrome) inherited?",
+   "back": "Autosomal recessive."
+  },
+  {
+   "id": "ne-c030",
+   "sub": "oncogenes",
+   "front": "What are the three main ways a proto-oncogene becomes an oncogene?",
+   "back": "Point mutation, chromosomal translocation, and gene amplification."
+  },
+  {
+   "id": "ne-c031",
+   "sub": "oncogenes",
+   "front": "What does the RAS protein do?",
+   "back": "It is a GTP-binding signal transducer downstream of growth factor receptors; it is active when bound to GTP and inactive when bound to GDP."
+  },
+  {
+   "id": "ne-c032",
+   "sub": "oncogenes",
+   "front": "Which oncogene is amplified in neuroblastoma?",
+   "back": "N-MYC (MYCN); amplification predicts a poor prognosis."
+  },
+  {
+   "id": "ne-c033",
+   "sub": "oncogenes",
+   "front": "Which gene is amplified in a subset of breast cancers, and which drug targets it?",
+   "back": "ERBB2 (HER2), a receptor tyrosine kinase; targeted by trastuzumab."
+  },
+  {
+   "id": "ne-c034",
+   "sub": "oncogenes",
+   "front": "Which drug inhibits the BCR-ABL tyrosine kinase in CML?",
+   "back": "Imatinib, a tyrosine kinase inhibitor."
+  },
+  {
+   "id": "ne-c035",
+   "sub": "oncogenes",
+   "front": "Which translocation overexpresses cyclin D1, and in which tumour?",
+   "back": "t(11;14), in mantle cell lymphoma."
+  },
+  {
+   "id": "ne-c036",
+   "sub": "oncogenes",
+   "front": "Which BRAF mutation is common in melanoma and hairy cell leukaemia?",
+   "back": "BRAF V600E, an activating mutation of a kinase in the RAS–MAPK pathway."
+  },
+  {
+   "id": "ne-c037",
+   "sub": "tumour-suppressors",
+   "front": "How does hypophosphorylated RB stop the cell cycle?",
+   "back": "It binds E2F transcription factors, blocking G1 to S transition; phosphorylation by cyclin D–CDK4/6 releases E2F."
+  },
+  {
+   "id": "ne-c038",
+   "sub": "tumour-suppressors",
+   "front": "Where is the RB gene located?",
+   "back": "On chromosome 13q14."
+  },
+  {
+   "id": "ne-c039",
+   "sub": "tumour-suppressors",
+   "front": "Besides retinoblastoma, which tumour is more common in familial retinoblastoma?",
+   "back": "Osteosarcoma."
+  },
+  {
+   "id": "ne-c040",
+   "sub": "tumour-suppressors",
+   "front": "What are the main responses p53 triggers after DNA damage?",
+   "back": "Cell cycle arrest (via p21), DNA repair, senescence, or apoptosis if damage cannot be repaired."
+  },
+  {
+   "id": "ne-c041",
+   "sub": "tumour-suppressors",
+   "front": "Which protein normally keeps p53 levels low by targeting it for degradation?",
+   "back": "MDM2."
+  },
+  {
+   "id": "ne-c042",
+   "sub": "tumour-suppressors",
+   "front": "Which tumours occur in Li-Fraumeni syndrome?",
+   "back": "Sarcomas, breast cancer, leukaemia, brain tumours and adrenocortical carcinoma, due to germline TP53 mutation."
+  },
+  {
+   "id": "ne-c043",
+   "sub": "tumour-suppressors",
+   "front": "What is the function of neurofibromin (NF1)?",
+   "back": "It is a GTPase-activating protein that switches RAS off; its loss leaves RAS active."
+  },
+  {
+   "id": "ne-c044",
+   "sub": "tumour-suppressors",
+   "front": "What does PTEN do, and which syndrome results from its germline loss?",
+   "back": "It is a phosphatase that opposes PI3K/AKT signalling; germline loss causes Cowden syndrome."
+  },
+  {
+   "id": "ne-c045",
+   "sub": "tumour-suppressors",
+   "front": "Which tumours occur in von Hippel-Lindau syndrome?",
+   "back": "Clear cell renal cell carcinoma, phaeochromocytoma, and haemangioblastomas of the CNS and retina."
+  },
+  {
+   "id": "ne-c046",
+   "sub": "tumour-suppressors",
+   "front": "What does the CDKN2A gene encode?",
+   "back": "p16 (INK4a), an inhibitor of CDK4/6 that keeps RB active, and ARF, which stabilises p53."
+  },
+  {
+   "id": "ne-c047",
+   "sub": "tumour-suppressors",
+   "front": "What is the function of BRCA1 and BRCA2?",
+   "back": "Repair of double-strand DNA breaks by homologous recombination; germline mutations raise the risk of breast and ovarian cancer."
+  },
+  {
+   "id": "ne-c048",
+   "sub": "hallmarks",
+   "front": "List the hallmarks of cancer described in Robbins.",
+   "back": "Growth self-sufficiency, insensitivity to growth inhibition, altered metabolism, evasion of apoptosis, limitless replication, sustained angiogenesis, invasion and metastasis, and immune evasion."
+  },
+  {
+   "id": "ne-c049",
+   "sub": "hallmarks",
+   "front": "What does BCL2 do?",
+   "back": "It is an anti-apoptotic protein that protects mitochondria and blocks the intrinsic pathway of apoptosis."
+  },
+  {
+   "id": "ne-c050",
+   "sub": "hallmarks",
+   "front": "Which enzyme gives cancer cells limitless replicative potential?",
+   "back": "Telomerase, which maintains telomere length; it is reactivated in most cancers."
+  },
+  {
+   "id": "ne-c051",
+   "sub": "hallmarks",
+   "front": "How does hypoxia stimulate tumour angiogenesis?",
+   "back": "Hypoxia stabilises HIF-1α, which switches on VEGF production."
+  },
+  {
+   "id": "ne-c052",
+   "sub": "hallmarks",
+   "front": "Which drug is a monoclonal antibody against VEGF?",
+   "back": "Bevacizumab."
+  },
+  {
+   "id": "ne-c053",
+   "sub": "hallmarks",
+   "front": "What is the first step of tumour invasion, and which molecule is involved?",
+   "back": "Loosening of cell-to-cell contacts, caused by loss of E-cadherin."
+  },
+  {
+   "id": "ne-c054",
+   "sub": "hallmarks",
+   "front": "Which enzymes let tumour cells degrade the basement membrane?",
+   "back": "Matrix metalloproteinases (MMPs), e.g. type IV collagenases."
+  },
+  {
+   "id": "ne-c055",
+   "sub": "hallmarks",
+   "front": "What is epithelial–mesenchymal transition (EMT)?",
+   "back": "Carcinoma cells lose epithelial markers (E-cadherin) and gain mesenchymal ones (vimentin), becoming more motile; driven by factors such as SNAIL and TWIST."
+  },
+  {
+   "id": "ne-c056",
+   "sub": "hallmarks",
+   "front": "How do tumours use PD-L1 to evade immunity?",
+   "back": "Tumour PD-L1 binds PD-1 on cytotoxic T cells and switches them off."
+  },
+  {
+   "id": "ne-c057",
+   "sub": "hallmarks",
+   "front": "Which drug blocks CTLA-4?",
+   "back": "Ipilimumab, an immune checkpoint inhibitor."
+  },
+  {
+   "id": "ne-c058",
+   "sub": "hallmarks",
+   "front": "Which imaging test uses the Warburg effect?",
+   "back": "FDG-PET scanning, which detects the high glucose uptake of tumour cells."
+  },
+  {
+   "id": "ne-c059",
+   "sub": "hallmarks",
+   "front": "Which genes are mutated in Lynch syndrome (HNPCC)?",
+   "back": "DNA mismatch repair genes, most often MSH2 and MLH1; tumours show microsatellite instability."
+  },
+  {
+   "id": "ne-c060",
+   "sub": "hallmarks",
+   "front": "Which DNA repair system is defective in xeroderma pigmentosum?",
+   "back": "Nucleotide excision repair, so UV-induced pyrimidine dimers are not repaired; skin cancers result."
+  },
+  {
+   "id": "ne-c061",
+   "sub": "hallmarks",
+   "front": "Give an example of epigenetic silencing of a tumour suppressor.",
+   "back": "Promoter hypermethylation of CDKN2A (p16) or of MLH1 in sporadic colon cancers."
+  },
+  {
+   "id": "ne-c062",
+   "sub": "carcinogens",
+   "front": "How does initiation differ from promotion?",
+   "back": "Initiation is a permanent, mutagenic DNA change; promotion is non-mutagenic, reversible and drives proliferation of initiated cells."
+  },
+  {
+   "id": "ne-c063",
+   "sub": "carcinogens",
+   "front": "Give a classic example of a tumour promoter.",
+   "back": "Phorbol esters (e.g. TPA)."
+  },
+  {
+   "id": "ne-c064",
+   "sub": "carcinogens",
+   "front": "What activates most indirect-acting chemical carcinogens?",
+   "back": "Metabolic conversion, mainly by cytochrome P-450 enzymes."
+  },
+  {
+   "id": "ne-c065",
+   "sub": "carcinogens",
+   "front": "Which carcinogen causes bladder cancer in aniline dye and rubber workers?",
+   "back": "β-Naphthylamine, an aromatic amine."
+  },
+  {
+   "id": "ne-c066",
+   "sub": "carcinogens",
+   "front": "Which leukaemia is linked to benzene exposure?",
+   "back": "Acute myeloid leukaemia."
+  },
+  {
+   "id": "ne-c067",
+   "sub": "carcinogens",
+   "front": "Which tumours are linked to asbestos?",
+   "back": "Mesothelioma of the pleura and peritoneum, and lung carcinoma (especially in smokers)."
+  },
+  {
+   "id": "ne-c068",
+   "sub": "carcinogens",
+   "front": "Which cancer is linked to dietary nitrosamines?",
+   "back": "Gastric carcinoma."
+  },
+  {
+   "id": "ne-c069",
+   "sub": "carcinogens",
+   "front": "Which TP53 mutation is the signature of aflatoxin B1?",
+   "back": "A mutation at codon 249 of TP53, found in hepatocellular carcinoma."
+  },
+  {
+   "id": "ne-c070",
+   "sub": "carcinogens",
+   "front": "How does UV light damage DNA?",
+   "back": "It forms pyrimidine dimers, which are normally removed by nucleotide excision repair."
+  },
+  {
+   "id": "ne-c071",
+   "sub": "carcinogens",
+   "front": "Name two cancers well documented after ionising radiation exposure.",
+   "back": "Leukaemias and papillary thyroid carcinoma, especially after exposure in childhood."
+  },
+  {
+   "id": "ne-c072",
+   "sub": "microbial",
+   "front": "Which HPV types are high-risk and which low-risk?",
+   "back": "High-risk: 16 and 18 (cervical and oropharyngeal carcinoma). Low-risk: 6 and 11 (genital warts)."
+  },
+  {
+   "id": "ne-c073",
+   "sub": "microbial",
+   "front": "What does the HPV E7 protein do?",
+   "back": "It binds RB and releases E2F, pushing the cell into S phase."
+  },
+  {
+   "id": "ne-c074",
+   "sub": "microbial",
+   "front": "Why does integration of HPV into host DNA promote cancer?",
+   "back": "Integration disrupts the viral E2 gene, which normally represses E6 and E7, so E6 and E7 are overexpressed."
+  },
+  {
+   "id": "ne-c075",
+   "sub": "microbial",
+   "front": "Name four tumours linked to EBV.",
+   "back": "Burkitt lymphoma, Hodgkin lymphoma, nasopharyngeal carcinoma and B-cell lymphomas in immunosuppressed patients."
+  },
+  {
+   "id": "ne-c076",
+   "sub": "microbial",
+   "front": "Which EBV protein mimics CD40?",
+   "back": "LMP-1, which acts like a constantly active CD40 receptor and drives B-cell proliferation."
+  },
+  {
+   "id": "ne-c077",
+   "sub": "microbial",
+   "front": "How do HBV and HCV mainly cause hepatocellular carcinoma?",
+   "back": "Chronic inflammation with repeated hepatocyte death and regeneration; the HBx protein of HBV adds to this."
+  },
+  {
+   "id": "ne-c078",
+   "sub": "microbial",
+   "front": "Which HTLV-1 protein drives T-cell transformation?",
+   "back": "Tax, which activates genes for T-cell proliferation such as cytokines and their receptors."
+  },
+  {
+   "id": "ne-c079",
+   "sub": "microbial",
+   "front": "Which two cancers are linked to H. pylori?",
+   "back": "Gastric adenocarcinoma and gastric MALT (marginal zone) lymphoma."
+  },
+  {
+   "id": "ne-c080",
+   "sub": "host-effects",
+   "front": "What is a paraneoplastic syndrome?",
+   "back": "Symptoms in a cancer patient not explained by local or distant spread of the tumour or by hormones native to the tissue of origin."
+  },
+  {
+   "id": "ne-c081",
+   "sub": "host-effects",
+   "front": "Which tumour classically causes SIADH?",
+   "back": "Small cell carcinoma of the lung."
+  },
+  {
+   "id": "ne-c082",
+   "sub": "host-effects",
+   "front": "Which lung tumour classically causes hypercalcaemia via PTHrP?",
+   "back": "Squamous cell carcinoma of the lung."
+  },
+  {
+   "id": "ne-c083",
+   "sub": "host-effects",
+   "front": "Which tumours can cause polycythaemia via erythropoietin?",
+   "back": "Renal cell carcinoma, cerebellar haemangioblastoma and hepatocellular carcinoma."
+  },
+  {
+   "id": "ne-c084",
+   "sub": "host-effects",
+   "front": "Which tumour is associated with myasthenia gravis?",
+   "back": "Thymoma."
+  },
+  {
+   "id": "ne-c085",
+   "sub": "host-effects",
+   "front": "Which tumour causes Lambert-Eaton myasthenic syndrome?",
+   "back": "Small cell carcinoma of the lung (antibodies against presynaptic calcium channels)."
+  },
+  {
+   "id": "ne-c086",
+   "sub": "host-effects",
+   "front": "Which tumour is classically linked to acanthosis nigricans?",
+   "back": "Gastric carcinoma."
+  },
+  {
+   "id": "ne-c087",
+   "sub": "host-effects",
+   "front": "Which tumour causes Trousseau migratory thrombophlebitis?",
+   "back": "Pancreatic carcinoma (also lung carcinoma)."
+  },
+  {
+   "id": "ne-c088",
+   "sub": "host-effects",
+   "front": "Which tumours cause paraneoplastic hypoglycaemia?",
+   "back": "Fibrosarcoma and other mesenchymal sarcomas, through insulin or insulin-like substances."
+  },
+  {
+   "id": "ne-c089",
+   "sub": "host-effects",
+   "front": "Which tumour is classically linked to hypertrophic osteoarthropathy and clubbing?",
+   "back": "Bronchogenic carcinoma of the lung."
+  },
+  {
+   "id": "ne-c090",
+   "sub": "grading-staging",
+   "front": "What is the grade of a tumour based on?",
+   "back": "The degree of differentiation of tumour cells and, in some cancers, the number of mitoses or architectural features."
+  },
+  {
+   "id": "ne-c091",
+   "sub": "grading-staging",
+   "front": "What do T, N and M stand for in TNM staging?",
+   "back": "T = size/extent of primary tumour, N = regional lymph node involvement, M = distant metastases."
+  },
+  {
+   "id": "ne-c092",
+   "sub": "grading-staging",
+   "front": "Which has greater clinical value: grading or staging?",
+   "back": "Staging."
+  },
+  {
+   "id": "ne-c093",
+   "sub": "lab-diagnosis",
+   "front": "What is FNAC?",
+   "back": "Fine-needle aspiration cytology: aspirating cells with a fine needle for smear examination, used for palpable lesions such as breast, thyroid and lymph nodes."
+  },
+  {
+   "id": "ne-c094",
+   "sub": "lab-diagnosis",
+   "front": "What is frozen section used for?",
+   "back": "Rapid intraoperative diagnosis, e.g. deciding whether a mass is malignant or whether resection margins are clear."
+  },
+  {
+   "id": "ne-c095",
+   "sub": "lab-diagnosis",
+   "front": "Which intermediate filament marks mesenchymal tumours (sarcomas)?",
+   "back": "Vimentin."
+  },
+  {
+   "id": "ne-c096",
+   "sub": "lab-diagnosis",
+   "front": "Which immunohistochemical marker indicates muscle origin?",
+   "back": "Desmin."
+  },
+  {
+   "id": "ne-c097",
+   "sub": "lab-diagnosis",
+   "front": "Which marker identifies a tumour as a lymphoma?",
+   "back": "CD45 (leukocyte common antigen)."
+  },
+  {
+   "id": "ne-c098",
+   "sub": "lab-diagnosis",
+   "front": "Which markers point to melanoma?",
+   "back": "S-100 (also positive in neural tumours) and HMB-45 (more specific for melanocytes)."
+  },
+  {
+   "id": "ne-c099",
+   "sub": "lab-diagnosis",
+   "front": "Which immunohistochemical marker identifies metastatic prostatic carcinoma?",
+   "back": "Prostate-specific antigen (PSA)."
+  },
+  {
+   "id": "ne-c100",
+   "sub": "lab-diagnosis",
+   "front": "Which tumours raise serum AFP?",
+   "back": "Hepatocellular carcinoma and yolk sac tumours of the gonads."
+  },
+  {
+   "id": "ne-c101",
+   "sub": "lab-diagnosis",
+   "front": "Which tumours raise serum hCG?",
+   "back": "Trophoblastic tumours such as choriocarcinoma, and non-seminomatous testicular germ cell tumours."
+  },
+  {
+   "id": "ne-c102",
+   "sub": "lab-diagnosis",
+   "front": "Which tumour marker is used for ovarian carcinoma?",
+   "back": "CA-125."
+  },
+  {
+   "id": "ne-c103",
+   "sub": "lab-diagnosis",
+   "front": "Which tumour marker is associated with pancreatic carcinoma?",
+   "back": "CA 19-9 (also raised in colorectal carcinoma)."
+  },
+  {
+   "id": "ne-c104",
+   "sub": "lab-diagnosis",
+   "front": "Which cancers raise CEA?",
+   "back": "Colorectal, pancreatic, gastric and breast carcinomas; it is also raised in some non-neoplastic conditions."
+  }
+ ]
+}

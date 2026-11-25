@@ -1,0 +1,1523 @@
+{
+ "id": "specimens",
+ "title": "Gross specimens (museum)",
+ "ref": "Robbins Basic Pathology (systemic chapters); Harsh Mohan, Textbook of Pathology",
+ "groups": [
+  "Cell injury & necrosis",
+  "Hemodynamic disorders",
+  "Inflammation & infection",
+  "Other non-neoplastic",
+  "Benign tumours",
+  "Malignant tumours"
+ ],
+ "items": [
+  {
+   "id": "acute-appendicitis",
+   "name": "Acute appendicitis",
+   "organ": "Appendix",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/acute-appendicitis.jpg"
+   ],
+   "quizCrop": [
+    0,
+    80
+   ],
+   "gross": [
+    "Appendix is swollen and turgid.",
+    "Serosa is dull, granular and congested, with a coating of fibrinopurulent exudate.",
+    "Lumen may contain pus or a faecolith; mucosa may be ulcerated.",
+    "In gangrenous appendicitis the wall becomes green-black and may perforate."
+   ],
+   "keyPoints": [
+    "Classic cause: luminal obstruction (faecolith, lymphoid hyperplasia) → raised pressure → ischaemia → bacterial invasion.",
+    "Histological criterion: neutrophils infiltrating the muscularis propria.",
+    "Example of acute (purulent) inflammation."
+   ],
+   "viva": [
+    {
+     "q": "What is the histological hallmark of acute appendicitis?",
+     "a": "Neutrophilic infiltration of the muscularis propria."
+    },
+    {
+     "q": "Name two complications.",
+     "a": "Perforation with peritonitis, and periappendiceal abscess (also pylephlebitis, rarely)."
+    }
+   ],
+   "correction": "PDF lists only swelling and congestion. Added the fibrinopurulent serosal exudate, luminal pus/faecolith and gangrenous stage, which examiners expect.",
+   "dims": [
+    [
+     865,
+     1155
+    ]
+   ]
+  },
+  {
+   "id": "adenocarcinoma-colon",
+   "name": "Adenocarcinoma of colon",
+   "organ": "Colon",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/adenocarcinoma-colon.jpg"
+   ],
+   "quizCrop": [
+    14,
+    100
+   ],
+   "gross": [
+    "Right (caecum, ascending colon): polypoid, exophytic, fungating, soft friable mass projecting into the lumen; rarely obstructs.",
+    "Left (descending, sigmoid): annular 'napkin-ring' constricting growth with heaped-up edges and central ulceration; narrows the lumen.",
+    "Cut section: grey-white tumour infiltrating the bowel wall."
+   ],
+   "keyPoints": [
+    "Right-sided tumours present with fatigue and iron-deficiency anaemia (occult bleeding); left-sided with change in bowel habit and obstruction.",
+    "Adenoma–carcinoma sequence: APC → KRAS → TP53; second pathway: mismatch-repair defects / microsatellite instability (Lynch syndrome).",
+    "CEA is used to monitor recurrence, not to screen."
+   ],
+   "viva": [
+    {
+     "q": "Why do left-sided colon cancers obstruct?",
+     "a": "They grow as annular napkin-ring lesions in a narrower colon with solid stool."
+    },
+    {
+     "q": "Which tumour marker is used for follow-up?",
+     "a": "Carcinoembryonic antigen (CEA)."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     836,
+     1138
+    ]
+   ]
+  },
+  {
+   "id": "atherosclerosis",
+   "name": "Atherosclerosis of aorta",
+   "organ": "Aorta",
+   "group": "Hemodynamic disorders",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/atherosclerosis.jpg"
+   ],
+   "quizCrop": [
+    0,
+    100
+   ],
+   "gross": [
+    "Intimal surface opened out.",
+    "Fatty streaks: flat or minimally raised yellow spots and streaks; do not obstruct flow.",
+    "Atheromatous plaques: raised white-to-yellow lesions (about 0.3–1.5 cm) that may coalesce.",
+    "Complicated plaques: ulceration/rupture, overlying thrombus, haemorrhage into the plaque and calcification."
+   ],
+   "keyPoints": [
+    "Order of involvement: abdominal aorta > coronary arteries > popliteal arteries > internal carotids > circle of Willis.",
+    "Plaque = fibrous cap over a necrotic core (lipid, cholesterol clefts, foam cells, debris).",
+    "Chronic inflammatory response of the arterial wall to endothelial injury."
+   ],
+   "viva": [
+    {
+     "q": "Which part of the aorta is most affected?",
+     "a": "The abdominal aorta (more than the thoracic aorta)."
+    },
+    {
+     "q": "Name the components of an atheromatous plaque.",
+     "a": "Fibrous cap (smooth muscle, collagen), necrotic core (lipid, cholesterol clefts, foam cells, debris), and a shoulder with inflammatory cells and neovascularisation."
+    }
+   ],
+   "correction": "PDF calls plaques 'white, firm'. Robbins describes atheromatous plaques as white-to-yellow; added complicated-plaque changes and the site order.",
+   "dims": [
+    [
+     855,
+     1113
+    ]
+   ]
+  },
+  {
+   "id": "carcinoma-cervix",
+   "name": "Carcinoma cervix",
+   "organ": "Cervix / uterus",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/carcinoma-cervix.jpg"
+   ],
+   "quizCrop": [
+    18,
+    100
+   ],
+   "gross": [
+    "Growth at the cervix: exophytic (fungating, cauliflower-like), ulcerative, or endophytic/infiltrative (diffusely enlarged, bulky 'barrel-shaped' cervix).",
+    "Cut section: grey-white tumour infiltrating the cervical wall, may extend to the parametrium."
+   ],
+   "keyPoints": [
+    "Most are squamous cell carcinomas; adenocarcinoma is the next most common.",
+    "High-risk HPV (16, 18) — arises in the transformation zone from precursor CIN / squamous intraepithelial lesions.",
+    "Spread to the parametrium can block the ureters → hydronephrosis and renal failure."
+   ],
+   "viva": [
+    {
+     "q": "Which HPV types are high risk?",
+     "a": "16 and 18 (most important); also 31, 33, 45 and others."
+    },
+    {
+     "q": "Where does cervical cancer begin?",
+     "a": "In the transformation zone (squamocolumnar junction)."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     827,
+     1138
+    ]
+   ]
+  },
+  {
+   "id": "carcinoma-penis",
+   "name": "Squamous cell carcinoma of penis",
+   "organ": "Penis",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/carcinoma-penis.jpg",
+    "img/specimens/scc-penis.jpg"
+   ],
+   "quizCrop": [
+    18,
+    100
+   ],
+   "gross": [
+    "Usually on the glans or inner prepuce.",
+    "Exophytic papillary, cauliflower-like growth, or a flat ulcerating/infiltrative (endophytic) lesion.",
+    "Cut section: grey-white tumour invading the shaft."
+   ],
+   "keyPoints": [
+    "Risk factors: uncircumcised men, phimosis, poor hygiene/smegma, HPV 16/18, smoking.",
+    "Precursor carcinoma in situ: Bowen disease, erythroplasia of Queyrat, bowenoid papulosis.",
+    "Spreads first to inguinal lymph nodes."
+   ],
+   "viva": [
+    {
+     "q": "Why is penile carcinoma rare in circumcised men?",
+     "a": "Circumcision prevents accumulation of smegma and chronic irritation and lowers HPV persistence."
+    },
+    {
+     "q": "First lymph nodes involved?",
+     "a": "Superficial inguinal nodes."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     736,
+     1158
+    ],
+    [
+     785,
+     1143
+    ]
+   ]
+  },
+  {
+   "id": "chronic-pyelonephritis",
+   "name": "Chronic pyelonephritis",
+   "organ": "Kidney",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/chronic-pyelonephritis.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Kidney is irregularly scarred; when bilateral, involvement is asymmetric.",
+    "Coarse, discrete, U-shaped corticomedullary scars overlying dilated, blunted or deformed calyces — scars are commonest at the upper and lower poles.",
+    "Pelvis and ureter may be dilated (reflux)."
+   ],
+   "keyPoints": [
+    "Two forms: reflux nephropathy (most common) and chronic obstructive pyelonephritis.",
+    "Microscopy: 'thyroidisation' of tubules — dilated tubules filled with colloid-like casts.",
+    "Contrast: chronic glomerulonephritis and benign nephrosclerosis give symmetric, finely granular kidneys."
+   ],
+   "viva": [
+    {
+     "q": "How do you tell chronic pyelonephritis from chronic glomerulonephritis grossly?",
+     "a": "Pyelonephritis: asymmetric coarse scars over deformed calyces. GN: symmetric, diffusely and finely granular contracted kidneys with normal calyces."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     891,
+     1061
+    ]
+   ]
+  },
+  {
+   "id": "cvc-liver",
+   "name": "Chronic venous congestion of liver (nutmeg liver)",
+   "organ": "Liver",
+   "group": "Hemodynamic disorders",
+   "topic": "cell-injury",
+   "images": [
+    "img/specimens/cvc-liver.jpg"
+   ],
+   "quizCrop": [
+    17,
+    100
+   ],
+   "gross": [
+    "Liver is enlarged, firm, with a tense capsule.",
+    "Cut surface: 'nutmeg' pattern — red-brown, slightly depressed congested centrilobular areas alternating with paler tan (sometimes fatty) periportal liver."
+   ],
+   "keyPoints": [
+    "Cause: right-sided heart failure (also hepatic vein obstruction).",
+    "Centrilobular (zone 3) hepatocytes are most hypoxic → atrophy or necrosis; periportal cells show fatty change.",
+    "Long-standing cases may develop 'cardiac sclerosis' (centrilobular fibrosis)."
+   ],
+   "viva": [
+    {
+     "q": "Why are centrilobular hepatocytes the first to die?",
+     "a": "They are farthest from the oxygenated blood entering at the portal tracts (zone 3) and lie next to the congested central veins."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     953,
+     1113
+    ]
+   ]
+  },
+  {
+   "id": "fatty-liver",
+   "name": "Fatty liver (hepatic steatosis)",
+   "organ": "Liver",
+   "group": "Cell injury & necrosis",
+   "topic": "cell-injury",
+   "images": [
+    "img/specimens/fatty-liver.jpg"
+   ],
+   "quizCrop": [
+    21,
+    100
+   ],
+   "gross": [
+    "Liver is enlarged and heavy, with rounded margins.",
+    "Soft, greasy and yellow, with a tense, glistening capsule.",
+    "Cut surface bulges and feels greasy."
+   ],
+   "keyPoints": [
+    "Commonest causes: alcohol and non-alcoholic fatty liver disease (obesity, diabetes, metabolic syndrome); also protein malnutrition, toxins (CCl4), pregnancy, Reye syndrome.",
+    "Reversible cell injury — intracellular accumulation of triglycerides.",
+    "Microscopy: clear vacuoles push the nucleus aside (macrovesicular); confirm fat with Oil Red O or Sudan stains on frozen sections."
+   ],
+   "viva": [
+    {
+     "q": "Which special stain shows fat and why can't it be used on routine paraffin sections?",
+     "a": "Oil Red O / Sudan III; paraffin processing uses solvents that dissolve fat, so frozen sections are needed."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     833,
+     1121
+    ]
+   ]
+  },
+  {
+   "id": "fibroadenoma-breast",
+   "name": "Fibroadenoma of breast",
+   "organ": "Breast",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/fibroadenoma-breast.jpg"
+   ],
+   "quizCrop": [
+    27,
+    100
+   ],
+   "gross": [
+    "Well-circumscribed, round to ovoid, rubbery, freely mobile nodule (the 'breast mouse'), usually 1–4 cm.",
+    "Cut surface: grey-white, bulging, with slit-like spaces."
+   ],
+   "keyPoints": [
+    "Most common benign breast tumour; young women (20s–30s).",
+    "Biphasic: proliferation of both stroma and glands (intracanalicular and pericanalicular patterns).",
+    "May enlarge in pregnancy and regress after menopause."
+   ],
+   "viva": [
+    {
+     "q": "What are the two growth patterns of fibroadenoma?",
+     "a": "Intracanalicular (stroma compresses ducts into slits) and pericanalicular (ducts stay open and round)."
+    }
+   ],
+   "correction": "PDF says 'well encapsulated'. Robbins describes it as well-circumscribed and sharply demarcated, not truly encapsulated (Harsh Mohan does use 'encapsulated'). In a viva, 'well-circumscribed' is the safer answer.",
+   "dims": [
+    [
+     1275,
+     1093
+    ]
+   ]
+  },
+  {
+   "id": "dry-gangrene-foot",
+   "name": "Dry gangrene of foot",
+   "organ": "Foot",
+   "group": "Cell injury & necrosis",
+   "topic": "cell-injury",
+   "images": [
+    "img/specimens/dry-gangrene-foot.jpg"
+   ],
+   "quizCrop": [
+    12,
+    100
+   ],
+   "gross": [
+    "Affected part is dry, shrunken (mummified) and dark brown-black.",
+    "A sharp line of demarcation (line of separation) between gangrenous and viable tissue, caused by inflammation at the junction.",
+    "Spreads slowly from the distal end."
+   ],
+   "keyPoints": [
+    "Cause: gradual arterial occlusion with intact venous drainage — atherosclerosis, diabetes, Buerger disease, frostbite.",
+    "Mechanism: coagulative necrosis with little bacterial putrefaction.",
+    "Black colour: iron sulphide formed from breakdown of haemoglobin."
+   ],
+   "viva": [
+    {
+     "q": "Differentiate dry from wet gangrene.",
+     "a": "Dry: arterial occlusion, limbs, shrunken black, clear line of demarcation, slow, little infection. Wet: venous + arterial obstruction, bowel/moist tissue, swollen, no clear line, putrefaction, rapid, high mortality."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     865,
+     1197
+    ]
+   ]
+  },
+  {
+   "id": "carcinoma-stomach",
+   "name": "Carcinoma stomach",
+   "organ": "Stomach",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/carcinoma-stomach.jpg",
+    "img/specimens/carcinoma-stomach-2.jpg"
+   ],
+   "quizCrop": [
+    18,
+    100
+   ],
+   "gross": [
+    "Exophytic: polypoid or fungating mass projecting into the lumen.",
+    "Ulcerative: ulcer with heaped-up, beaded, irregular margins and a shaggy necrotic base (unlike a benign peptic ulcer).",
+    "Diffuse infiltrative (linitis plastica, 'leather-bottle stomach'): rigid, thickened wall with flattened rugae."
+   ],
+   "keyPoints": [
+    "Lauren classification: intestinal type (H. pylori, gland-forming) and diffuse type (signet-ring cells, loss of E-cadherin/CDH1).",
+    "Risk factors: H. pylori, nitrosamines/smoked and salted foods, chronic atrophic gastritis.",
+    "Signs of spread: Virchow node (left supraclavicular), Sister Mary Joseph nodule (umbilicus), Krukenberg tumour (ovaries)."
+   ],
+   "viva": [
+    {
+     "q": "What is linitis plastica?",
+     "a": "Diffuse-type gastric carcinoma infiltrating the whole wall, making it rigid and thickened like a leather bottle."
+    },
+    {
+     "q": "Krukenberg tumour?",
+     "a": "Bilateral ovarian metastases of signet-ring cell carcinoma, classically from the stomach."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     897,
+     1065
+    ],
+    [
+     914,
+     752
+    ]
+   ]
+  },
+  {
+   "id": "leiomyoma-uterus",
+   "name": "Leiomyoma of uterus (intramural)",
+   "organ": "Uterus",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/leiomyoma-uterus.jpg"
+   ],
+   "quizCrop": [
+    14,
+    100
+   ],
+   "gross": [
+    "Sharply circumscribed, round, firm, grey-white mass; often multiple.",
+    "Cut surface: characteristic whorled pattern; bulges and 'shells out' easily (no true capsule).",
+    "Sites: intramural, submucosal or subserosal."
+   ],
+   "keyPoints": [
+    "Most common benign tumour in women; benign smooth-muscle tumour.",
+    "Oestrogen-dependent; shrinks after menopause. Common mutation: MED12.",
+    "Degenerations: hyaline (most common), cystic, red (carneous, typical in pregnancy), calcification."
+   ],
+   "viva": [
+    {
+     "q": "What is red degeneration?",
+     "a": "Haemorrhagic infarction of a fibroid, usually in pregnancy, causing pain."
+    },
+    {
+     "q": "Does a leiomyoma turn into leiomyosarcoma?",
+     "a": "Almost never — leiomyosarcomas arise de novo."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     730,
+     1147
+    ]
+   ]
+  },
+  {
+   "id": "lipoma",
+   "name": "Lipoma",
+   "organ": "Subcutaneous tissue",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/lipoma.jpg"
+   ],
+   "quizCrop": [
+    24,
+    100
+   ],
+   "gross": [
+    "Soft, yellow, well-encapsulated mass with a thin capsule.",
+    "Cut surface: yellow, greasy and lobulated."
+   ],
+   "keyPoints": [
+    "Most common soft-tissue tumour of adults.",
+    "Mature adipocytes with no atypia.",
+    "Usually subcutaneous on the trunk, neck and proximal limbs."
+   ],
+   "viva": [
+    {
+     "q": "What is the most common soft-tissue tumour in adults?",
+     "a": "Lipoma."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     814,
+     1107
+    ]
+   ]
+  },
+  {
+   "id": "cirrhosis-liver",
+   "name": "Cirrhosis of liver",
+   "organ": "Liver",
+   "group": "Other non-neoplastic",
+   "topic": "repair",
+   "images": [
+    "img/specimens/cirrhosis-liver.jpg"
+   ],
+   "quizCrop": [
+    12,
+    100
+   ],
+   "gross": [
+    "Liver is usually shrunken in end-stage disease (may be normal or enlarged early), firm, with a diffusely nodular surface.",
+    "Micronodular: nodules less than 3 mm (classically alcohol). Macronodular: nodules more than 3 mm (classically viral hepatitis).",
+    "Cut surface: grey-brown or yellow-tan regenerative nodules separated by grey-white fibrous septa."
+   ],
+   "keyPoints": [
+    "Definition: diffuse process with fibrosis (bridging septa) and regenerative nodules that destroy normal lobular architecture.",
+    "Fibrosis comes from activated hepatic stellate cells (TGF-β).",
+    "Complications: portal hypertension (varices, ascites, splenomegaly), liver failure, hepatocellular carcinoma."
+   ],
+   "viva": [
+    {
+     "q": "Size cut-off between micronodular and macronodular cirrhosis?",
+     "a": "3 mm. Micronodular < 3 mm, macronodular > 3 mm."
+    },
+    {
+     "q": "Which cell lays down collagen in liver fibrosis?",
+     "a": "The activated hepatic stellate (Ito) cell."
+    }
+   ],
+   "correction": "Your notes have this reversed (they say micronodules > 3 mm and macronodules < 3 mm). Correct: micronodules are under 3 mm, macronodules over 3 mm.",
+   "dims": [
+    [
+     931,
+     1137
+    ]
+   ]
+  },
+  {
+   "id": "lobar-pneumonia",
+   "name": "Lobar pneumonia (grey hepatisation)",
+   "organ": "Lung",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/lobar-pneumonia.jpg"
+   ],
+   "quizCrop": [
+    24,
+    100
+   ],
+   "gross": [
+    "Uniform consolidation of a whole lobe — firm, airless and liver-like.",
+    "Grey hepatisation: dry, grey-brown cut surface.",
+    "Pleura often covered by fibrinous or fibrinopurulent exudate (pleuritis)."
+   ],
+   "keyPoints": [
+    "Four stages: congestion → red hepatisation → grey hepatisation → resolution.",
+    "Grey colour: lysis of red cells with persisting fibrinosuppurative exudate.",
+    "Most common organism: Streptococcus pneumoniae."
+   ],
+   "viva": [
+    {
+     "q": "List the stages of lobar pneumonia.",
+     "a": "Congestion, red hepatisation, grey hepatisation, resolution."
+    },
+    {
+     "q": "Name two complications.",
+     "a": "Lung abscess, empyema, organisation into fibrous tissue, bacteraemic spread (meningitis, endocarditis)."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     894,
+     1173
+    ]
+   ]
+  },
+  {
+   "id": "mucinous-cystadenoma",
+   "name": "Mucinous cystadenoma of ovary",
+   "organ": "Ovary",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/mucinous-cystadenoma.jpg"
+   ],
+   "quizCrop": [
+    20,
+    100
+   ],
+   "gross": [
+    "Large cystic mass with a smooth outer surface; can be huge.",
+    "Multilocular — many cysts of varying size.",
+    "Cysts filled with sticky, thick gelatinous mucin."
+   ],
+   "keyPoints": [
+    "Lined by tall columnar mucin-secreting epithelium without cilia.",
+    "Usually unilateral — far less often bilateral than serous tumours.",
+    "Pseudomyxoma peritonei usually comes from an appendiceal mucinous tumour, not the ovary."
+   ],
+   "viva": [
+    {
+     "q": "Serous vs mucinous cystadenoma — two differences?",
+     "a": "Serous: usually unilocular, clear watery fluid, ciliated tubal-type lining, more often bilateral. Mucinous: multilocular, sticky mucin, non-ciliated mucinous lining, usually unilateral and larger."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     758,
+     1173
+    ]
+   ]
+  },
+  {
+   "id": "multinodular-goitre",
+   "name": "Multinodular goitre",
+   "organ": "Thyroid",
+   "group": "Other non-neoplastic",
+   "topic": "adaptations",
+   "images": [
+    "img/specimens/multinodular-goitre.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Asymmetric, multilobulated enlargement of the thyroid; can be very large.",
+    "Cut surface: many nodules of varying size containing brown gelatinous colloid.",
+    "Regressive changes: haemorrhage, fibrosis, calcification and cystic change."
+   ],
+   "keyPoints": [
+    "Results from recurrent episodes of hyperplasia and involution — commonly due to iodine deficiency.",
+    "Most patients are euthyroid; a nodule may become autonomous (toxic multinodular goitre / Plummer disease).",
+    "Mass effects: airway compression, dysphagia, superior vena cava syndrome; may extend retrosternally."
+   ],
+   "viva": [
+    {
+     "q": "Is a multinodular goitre a neoplasm?",
+     "a": "No — it is a hyperplastic (adaptive) response to TSH stimulation, mostly from iodine deficiency."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     952,
+     1117
+    ]
+   ]
+  },
+  {
+   "id": "mi-mural-thrombus",
+   "name": "Myocardial infarction with mural thrombus",
+   "organ": "Heart",
+   "group": "Cell injury & necrosis",
+   "topic": "cell-injury",
+   "images": [
+    "img/specimens/myocardial-infarction-mural-thrombi.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Infarct in the left ventricular wall; appearance depends on age: 1–3 days yellow-tan, 3–7 days with a red hyperaemic border, 7–10 days soft yellow-tan centre (rupture risk), 2–8 weeks grey-white scar forming from the edge.",
+    "Healed infarct: thin, grey-white, firm fibrous scar.",
+    "Mural thrombus: friable, laminated thrombus stuck to the endocardium over the infarct (often at the apex), with lines of Zahn."
+   ],
+   "keyPoints": [
+    "Coagulative necrosis of myocardium; healed by scar (cardiac muscle is permanent tissue).",
+    "Mural thrombus forms because of endocardial injury plus stasis from a non-contracting wall.",
+    "Risk: systemic embolism (stroke, limb, kidney, spleen infarcts)."
+   ],
+   "viva": [
+    {
+     "q": "When is the risk of cardiac rupture highest after MI?",
+     "a": "About 3–7 days, when the infarct is softest (macrophages removing dead muscle)."
+    },
+    {
+     "q": "Why does a mural thrombus form?",
+     "a": "Endothelial (endocardial) injury plus stasis — two parts of Virchow's triad."
+    }
+   ],
+   "correction": "PDF describes only the healed scar, but the jar label is 'MI with mural thrombi'. Added the mural thrombus and the age-of-infarct timeline.",
+   "dims": [
+    [
+     1017,
+     1065
+    ]
+   ]
+  },
+  {
+   "id": "osteosarcoma",
+   "name": "Osteosarcoma (osteogenic sarcoma)",
+   "organ": "Bone",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/osteosarcoma.jpg"
+   ],
+   "quizCrop": [
+    12,
+    100
+   ],
+   "gross": [
+    "Bulky, gritty, grey-white tumour in the metaphysis of a long bone — commonest around the knee (distal femur, proximal tibia).",
+    "Cut surface: grey-white with haemorrhage, necrosis and cystic change.",
+    "Destroys the cortex and lifts the periosteum into a soft-tissue mass."
+   ],
+   "keyPoints": [
+    "Defining feature: tumour cells make osteoid (malignant bone).",
+    "Bimodal age: under 20 years; and older adults with Paget disease or prior radiation.",
+    "Genes: RB1 (hereditary retinoblastoma) and TP53 (Li-Fraumeni). Spreads by blood, mostly to the lungs.",
+    "X-ray: Codman triangle and 'sunburst' pattern."
+   ],
+   "viva": [
+    {
+     "q": "What is the diagnostic histological feature?",
+     "a": "Osteoid or bone produced directly by malignant tumour cells."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     750,
+     1171
+    ]
+   ]
+  },
+  {
+   "id": "renal-cell-carcinoma",
+   "name": "Renal cell carcinoma (clear cell)",
+   "organ": "Kidney",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/renal-cell-carcinoma.jpg",
+    "img/specimens/renal-cell-carcinoma-2.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Solitary, spherical, bosselated mass, most often at a pole (commonly the upper pole).",
+    "Cut surface: variegated — bright yellow (lipid-rich clear cells) to grey-white, with haemorrhage, necrosis, cystic change and calcification.",
+    "May grow into the renal vein as a solid column, sometimes up the inferior vena cava."
+   ],
+   "keyPoints": [
+    "Clear cell type: loss of VHL on chromosome 3p.",
+    "Classic triad (uncommon together): haematuria, flank pain, palpable mass.",
+    "Paraneoplastic: polycythaemia (erythropoietin), hypercalcaemia (PTHrP), hypertension, Cushing syndrome."
+   ],
+   "viva": [
+    {
+     "q": "Why is clear-cell RCC yellow?",
+     "a": "Its cells are full of lipid and glycogen."
+    },
+    {
+     "q": "Which gene is lost?",
+     "a": "VHL tumour suppressor on chromosome 3p."
+    }
+   ],
+   "correction": "PDF omits the bright-yellow colour and renal-vein invasion, the two features examiners ask about most. Added both.",
+   "dims": [
+    [
+     1208,
+     1033
+    ],
+    [
+     465,
+     610
+    ]
+   ]
+  },
+  {
+   "id": "seminoma-testis",
+   "name": "Seminoma testis",
+   "organ": "Testis",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/seminoma-testis.jpg"
+   ],
+   "quizCrop": [
+    20,
+    100
+   ],
+   "gross": [
+    "Testis is enlarged by a bulky, soft, well-demarcated tumour.",
+    "Cut surface: homogeneous, grey-white, lobulated.",
+    "Usually without haemorrhage or necrosis (their presence suggests a non-seminomatous component)."
+   ],
+   "keyPoints": [
+    "Most common germ cell tumour of the testis; peak in the 30s.",
+    "Microscopy: sheets of large clear cells divided by fibrous septa with lymphocytes; granulomas may be present.",
+    "Very radiosensitive; AFP normal; hCG mildly raised in some (syncytiotrophoblast cells). Risk: cryptorchidism."
+   ],
+   "viva": [
+    {
+     "q": "Which marker would make you doubt a pure seminoma?",
+     "a": "Raised AFP — it points to a yolk sac (non-seminomatous) component."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     1031,
+     1201
+    ]
+   ]
+  },
+  {
+   "id": "serous-cystadenoma",
+   "name": "Serous cystadenoma of ovary",
+   "organ": "Ovary",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/serous-cystadenoma.jpg"
+   ],
+   "quizCrop": null,
+   "gross": [
+    "Smooth, glistening outer surface.",
+    "Usually unilocular, thin-walled cyst.",
+    "Contains clear to pale-yellow watery (serous) fluid."
+   ],
+   "keyPoints": [
+    "Lining: ciliated columnar epithelium like the fallopian tube.",
+    "Bilateral more often than mucinous tumours.",
+    "Psammoma bodies are typical of serous tumours (more in malignant ones)."
+   ],
+   "viva": [
+    {
+     "q": "Which ovarian tumour shows psammoma bodies?",
+     "a": "Serous tumours (especially serous carcinoma)."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     843,
+     1143
+    ]
+   ]
+  },
+  {
+   "id": "scc-skin",
+   "name": "Squamous cell carcinoma of skin (foot)",
+   "organ": "Skin",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/scc-foot.jpg"
+   ],
+   "quizCrop": [
+    12,
+    100
+   ],
+   "gross": [
+    "Large exophytic, cauliflower-like growth, or an ulcer with raised, everted edges.",
+    "Cut surface: grey-white tumour infiltrating deeper tissues."
+   ],
+   "keyPoints": [
+    "Microscopy: nests of atypical squamous cells with keratin pearls and intercellular bridges.",
+    "Risk factors: sunlight (UV), arsenic, immunosuppression, HPV, chronic scars, burns, ulcers and sinuses.",
+    "SCC arising in a chronic scar or ulcer is called a Marjolin ulcer."
+   ],
+   "viva": [
+    {
+     "q": "What is a Marjolin ulcer?",
+     "a": "Squamous cell carcinoma arising in a long-standing scar, burn, ulcer or sinus."
+    },
+    {
+     "q": "Which edge is typical of a malignant ulcer?",
+     "a": "Raised and everted."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     702,
+     766
+    ]
+   ]
+  },
+  {
+   "id": "tb-lymph-node",
+   "name": "Tuberculous lymphadenitis",
+   "organ": "Lymph node",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/tb-lymph-node.jpg"
+   ],
+   "quizCrop": [
+    27,
+    100
+   ],
+   "gross": [
+    "Enlarged lymph nodes matted together (periadenitis).",
+    "Cut surface: grey-white with cheesy, yellow-white areas of caseous necrosis; may calcify.",
+    "May soften into a cold abscess and drain through a sinus."
+   ],
+   "keyPoints": [
+    "Example of caseous necrosis and of granulomatous inflammation.",
+    "Microscopy: caseating epithelioid granulomas with Langhans giant cells; Ziehl–Neelsen stain for acid-fast bacilli.",
+    "Cervical nodes are most often involved (scrofula)."
+   ],
+   "viva": [
+    {
+     "q": "What type of necrosis is seen?",
+     "a": "Caseous necrosis — cheesy, structureless, granular pink material surrounded by a granuloma."
+    }
+   ],
+   "correction": null,
+   "dims": [
+    [
+     832,
+     1073
+    ]
+   ]
+  },
+  {
+   "id": "bronchiectasis",
+   "name": "Bronchiectasis",
+   "organ": "Lung",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Usually bilateral, lower lobes, most severe in the distal bronchi and bronchioles.",
+    "Airways are dilated (cylindrical, fusiform or saccular) and can be followed right up to the pleural surface.",
+    "Lumens filled with mucopurulent secretions; cut surface looks cystic ('honeycomb-like').",
+    "Overlying pleura may be fibrotic and adherent."
+   ],
+   "keyPoints": [
+    "Permanent dilatation of bronchi from destruction of muscle and elastic tissue by chronic necrotising infection.",
+    "Causes: obstruction (tumour, foreign body), cystic fibrosis, primary ciliary dyskinesia (Kartagener), necrotising pneumonia, allergic bronchopulmonary aspergillosis.",
+    "Symptoms: chronic cough with copious foul sputum."
+   ],
+   "viva": [
+    {
+     "q": "Which lobes are usually affected?",
+     "a": "The lower lobes, bilaterally (upper lobes in cystic fibrosis and ABPA)."
+    }
+   ],
+   "correction": "PDF lists only fibrotic pleura and a 'honeycomb' cut surface. The defining feature — dilated bronchi traceable to the pleura, mainly in the lower lobes — was missing. ('Honeycomb lung' on its own usually refers to end-stage interstitial fibrosis.)",
+   "dims": []
+  },
+  {
+   "id": "emphysema",
+   "name": "Emphysema",
+   "organ": "Lung",
+   "group": "Other non-neoplastic",
+   "topic": "inflammation",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Lungs are pale and voluminous, often overlapping the heart.",
+    "Large air spaces visible on the cut surface.",
+    "Subpleural bullae (air spaces over 1 cm) and blebs."
+   ],
+   "keyPoints": [
+    "Permanent enlargement of air spaces distal to the terminal bronchiole with wall destruction, without obvious fibrosis.",
+    "Centriacinar: smokers, upper lobes. Panacinar: α1-antitrypsin deficiency, lower lobes. Paraseptal (distal acinar): subpleural, can cause spontaneous pneumothorax.",
+    "Mechanism: protease–antiprotease and oxidant–antioxidant imbalance."
+   ],
+   "viva": [
+    {
+     "q": "Which type of emphysema is linked to α1-antitrypsin deficiency?",
+     "a": "Panacinar, mainly lower lobes."
+    }
+   ],
+   "correction": null,
+   "dims": []
+  },
+  {
+   "id": "splenomegaly",
+   "name": "Splenomegaly (enlarged spleen)",
+   "organ": "Spleen",
+   "group": "Hemodynamic disorders",
+   "topic": "cell-injury",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Spleen is enlarged and heavier than normal (normal adult about 150 g); massive splenomegaly exceeds 1000 g.",
+    "Congestive splenomegaly (portal hypertension): firm, capsule thickened, cut surface dark red-blue; may show Gamna–Gandy bodies (fibrosis with haemosiderin and calcium).",
+    "Infiltrative causes give a pale or uniformly fleshy cut surface."
+   ],
+   "keyPoints": [
+    "Massive splenomegaly: chronic myeloid leukaemia, myelofibrosis, chronic malaria, kala-azar, Gaucher disease, hairy cell leukaemia.",
+    "Can cause hypersplenism (cytopenias) and splenic infarcts."
+   ],
+   "viva": [
+    {
+     "q": "Name three causes of massive splenomegaly common in India.",
+     "a": "Chronic malaria, kala-azar and chronic myeloid leukaemia (also thalassaemia, myelofibrosis)."
+    }
+   ],
+   "correction": "PDF says only 'increased size and weight'. Added the normal weight, cut-surface features and causes so it can be described in a spotter exam.",
+   "dims": []
+  },
+  {
+   "id": "infarct-spleen",
+   "name": "Infarct of spleen",
+   "organ": "Spleen",
+   "group": "Cell injury & necrosis",
+   "topic": "cell-injury",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Pale (anaemic, white) infarcts, often multiple.",
+    "Wedge-shaped, with the base on the capsule and the apex pointing to the hilum (the occluded vessel).",
+    "Margins sharply defined with a red, congested (hyperaemic) rim early; later shrink into a depressed scar."
+   ],
+   "keyPoints": [
+    "Pale infarcts occur with arterial occlusion in solid organs with end-arterial supply (spleen, kidney, heart).",
+    "Coagulative necrosis.",
+    "Causes: emboli from the heart (mural thrombus, infective endocarditis), sickle cell disease, massive splenomegaly."
+   ],
+   "viva": [
+    {
+     "q": "Why are infarcts wedge-shaped?",
+     "a": "The occluded vessel is at the apex and the tissue it supplies fans out to the organ surface."
+    }
+   ],
+   "correction": null,
+   "dims": []
+  },
+  {
+   "id": "madura-foot",
+   "name": "Madura foot (mycetoma)",
+   "organ": "Foot",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Swollen, deformed foot.",
+    "Multiple sinuses discharging pus with granules (grains).",
+    "Underlying bone may be destroyed."
+   ],
+   "keyPoints": [
+    "Triad: painless swelling, draining sinuses, grains.",
+    "Grain colour depends on the organism: black grains — fungal (eumycetoma, e.g. Madurella mycetomatis); white/yellow or red grains — usually actinomycetoma (Nocardia, Actinomadura).",
+    "Chronic granulomatous infection entering through a thorn prick in barefoot workers."
+   ],
+   "viva": [
+    {
+     "q": "What do black grains suggest?",
+     "a": "Eumycetoma (fungal), e.g. Madurella."
+    }
+   ],
+   "correction": "PDF says the sinuses discharge 'black granules' as if always so. Black grains mean fungal (eumycetoma); bacterial actinomycetoma gives white, yellow or red grains.",
+   "dims": []
+  },
+  {
+   "id": "osteoclastoma",
+   "name": "Giant cell tumour of bone (osteoclastoma)",
+   "organ": "Bone",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Eccentric tumour in the epiphysis of a long bone (often extending into the metaphysis), commonest around the knee.",
+    "Large, red-brown, soft, with haemorrhage and cystic change.",
+    "Expands the bone, which is surrounded by a thin shell of reactive bone."
+   ],
+   "keyPoints": [
+    "Age 20–40 years, after the growth plates close.",
+    "Microscopy: osteoclast-like giant cells scattered among mononuclear stromal cells that express RANKL (treated with denosumab).",
+    "Locally aggressive; often recurs after curettage; X-ray shows a lytic 'soap-bubble' lesion."
+   ],
+   "viva": [
+    {
+     "q": "Which part of the bone is involved?",
+     "a": "Epiphysis, extending to the metaphysis."
+    }
+   ],
+   "correction": null,
+   "dims": []
+  },
+  {
+   "id": "papillary-carcinoma-thyroid",
+   "name": "Papillary carcinoma of thyroid",
+   "organ": "Thyroid",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Solitary or multifocal; firm, grey-white.",
+    "May be well-circumscribed or even encapsulated, or show infiltrative margins.",
+    "Cut surface may show papillary foci, cystic change, fibrosis and calcification."
+   ],
+   "keyPoints": [
+    "Most common thyroid cancer (about 85%).",
+    "Diagnosis rests on nuclei: Orphan Annie eye (optically clear) nuclei, nuclear grooves, intranuclear pseudo-inclusions; psammoma bodies.",
+    "Genes: BRAF V600E, RET/PTC rearrangements; risk factor: radiation. Spreads to cervical lymph nodes; excellent prognosis."
+   ],
+   "viva": [
+    {
+     "q": "Which nuclear features clinch the diagnosis?",
+     "a": "Ground-glass (Orphan Annie eye) nuclei, nuclear grooves and pseudo-inclusions."
+    }
+   ],
+   "correction": null,
+   "dims": []
+  },
+  {
+   "id": "peptic-ulcer",
+   "name": "Chronic peptic ulcer",
+   "organ": "Stomach / duodenum",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Small (usually under 2–3 cm), round to oval, sharply punched-out ulcer.",
+    "Margins level with the surrounding mucosa (not heaped up); clean, smooth base.",
+    "Mucosal folds radiate towards the ulcer like spokes of a wheel."
+   ],
+   "keyPoints": [
+    "Sites: first part of duodenum (most common), lesser curvature of stomach near the antrum–body junction.",
+    "Causes: H. pylori, NSAIDs; also Zollinger–Ellison syndrome.",
+    "Complications: bleeding (most common), perforation, pyloric obstruction."
+   ],
+   "viva": [
+    {
+     "q": "How do you tell a benign from a malignant gastric ulcer grossly?",
+     "a": "Benign: punched-out, flat margins, clean base, folds radiating to the edge. Malignant: heaped-up/beaded margins, shaggy necrotic base, folds interrupted."
+    }
+   ],
+   "correction": null,
+   "dims": []
+  },
+  {
+   "id": "renal-stones-hydronephrosis",
+   "name": "Renal stones with hydronephrosis",
+   "organ": "Kidney",
+   "group": "Other non-neoplastic",
+   "topic": "adaptations",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Dilated renal pelvis and calyces.",
+    "Progressive thinning of the cortex and medulla (pressure atrophy) — eventually a thin-walled cystic sac.",
+    "Dilated ureter when the block is lower down; stones in the pelvis or ureter."
+   ],
+   "keyPoints": [
+    "Most stones are calcium oxalate; struvite (magnesium ammonium phosphate) forms staghorn stones with urease-producing organisms like Proteus; also uric acid and cystine.",
+    "Hydronephrosis = dilatation of the pelvis and calyces with parenchymal atrophy from obstruction to urine outflow.",
+    "Parenchymal loss is an example of pressure atrophy."
+   ],
+   "viva": [
+    {
+     "q": "Which stone forms a staghorn calculus?",
+     "a": "Struvite (magnesium ammonium phosphate), with urease-producing bacteria such as Proteus."
+    }
+   ],
+   "correction": "PDF lists only dilated pelvis/calyces and ureter. Added cortical atrophy, the feature that makes it hydronephrosis rather than simple dilatation.",
+   "dims": []
+  },
+  {
+   "id": "mature-cystic-teratoma",
+   "name": "Mature cystic teratoma of ovary (dermoid cyst)",
+   "organ": "Ovary",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [],
+   "quizCrop": null,
+   "gross": [
+    "Usually unilocular cyst lined by skin-like wall.",
+    "Contents: hair, greasy sebaceous material, teeth, cartilage, bone.",
+    "A raised nodule in the cyst wall — Rokitansky protuberance (head/nipple) — where most tissues arise."
+   ],
+   "keyPoints": [
+    "Most common ovarian germ cell tumour; young women.",
+    "Tissues from all three germ layers, all mature.",
+    "Complications: torsion, rupture, rarely malignant change (usually squamous cell carcinoma); struma ovarii contains thyroid tissue."
+   ],
+   "viva": [
+    {
+     "q": "What is the Rokitansky protuberance?",
+     "a": "A solid nodule projecting into a dermoid cyst from which hair, teeth and other tissues arise."
+    }
+   ],
+   "correction": null,
+   "dims": []
+  },
+  {
+   "id": "wilms-tumour",
+   "name": "Wilms tumour (nephroblastoma)",
+   "organ": "Kidney",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/wilms-tumour.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Large, solitary, well-circumscribed mass in the kidney.",
+    "Cut surface: soft, homogeneous, tan to grey, with foci of haemorrhage, cystic change and necrosis."
+   ],
+   "keyPoints": [
+    "Most common primary renal tumour of childhood (2–5 years); presents as an abdominal mass.",
+    "Triphasic microscopy: blastemal, stromal and epithelial elements.",
+    "Genetics: WT1 (11p13) — WAGR and Denys–Drash syndromes; WT2 region (11p15) — Beckwith–Wiedemann syndrome."
+   ],
+   "viva": [
+    {
+     "q": "Name the three components of Wilms tumour.",
+     "a": "Blastema, stroma and epithelium (tubules, abortive glomeruli)."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     932,
+     1120
+    ]
+   ]
+  },
+  {
+   "id": "osteochondroma",
+   "name": "Osteochondroma",
+   "organ": "Bone",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/osteochondroma.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Mushroom-shaped bony outgrowth with a stalk.",
+    "Capped by glistening blue-white hyaline cartilage.",
+    "Arises from the metaphysis near the growth plate (often around the knee); the stalk's cortex and marrow are continuous with the parent bone."
+   ],
+   "keyPoints": [
+    "Most common benign bone tumour.",
+    "Solitary, or multiple in hereditary multiple exostoses (EXT1/EXT2 mutations).",
+    "Rarely transforms into chondrosarcoma — more often in the hereditary form."
+   ],
+   "viva": [
+    {
+     "q": "What is unique about the marrow cavity of an osteochondroma?",
+     "a": "It is continuous with the marrow cavity of the underlying bone."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     953,
+     1120
+    ]
+   ]
+  },
+  {
+   "id": "tb-intestine",
+   "name": "Intestinal tuberculosis",
+   "organ": "Intestine (ileocaecal)",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/tb-intestine.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Commonest site: ileocaecal region.",
+    "Ulcerative form: transverse (girdle) ulcers running around the bowel, because they follow lymphatics; healing causes strictures.",
+    "Hyperplastic form: thickened wall forming a mass that narrows the lumen."
+   ],
+   "keyPoints": [
+    "Microscopy: caseating granulomas in the bowel wall and regional nodes.",
+    "Contrast: typhoid ulcers are longitudinal, over Peyer patches, and do not cause strictures.",
+    "Differential diagnosis: Crohn disease (non-caseating granulomas, skip lesions)."
+   ],
+   "viva": [
+    {
+     "q": "Typhoid vs tuberculous intestinal ulcers?",
+     "a": "Typhoid: longitudinal, along Peyer patches, no stricture. TB: transverse/girdle, following lymphatics, heal with stricture."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     817,
+     1103
+    ]
+   ]
+  },
+  {
+   "id": "tuberculous-lung",
+   "name": "Pulmonary tuberculosis",
+   "organ": "Lung",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/tuberculous-lung.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Secondary (reactivation) TB: caseous lesions at the lung apex that may break into a bronchus and form cavities.",
+    "Cavities have ragged walls with caseous lining; surrounding fibrosis and pleural thickening.",
+    "Primary TB: Ghon focus (subpleural, lower part of upper lobe or upper part of lower lobe) plus caseous hilar nodes = Ghon complex."
+   ],
+   "keyPoints": [
+    "Apical localisation is linked to high oxygen tension in the apices.",
+    "Caseating granulomas with Langhans giant cells; acid-fast bacilli on Ziehl–Neelsen stain.",
+    "Complications: haemoptysis, spread to other lobes (bronchopneumonia), miliary TB, empyema, amyloidosis."
+   ],
+   "viva": [
+    {
+     "q": "What is the Ghon complex?",
+     "a": "Ghon focus (subpleural parenchymal lesion) plus caseous hilar lymph nodes in primary TB; when it calcifies it is the Ranke complex."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     860,
+     1103
+    ]
+   ]
+  },
+  {
+   "id": "hydatidiform-mole",
+   "name": "Hydatidiform mole",
+   "organ": "Uterus / placenta",
+   "group": "Benign tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/hydatidiform-mole.jpg"
+   ],
+   "quizCrop": [
+    0,
+    76
+   ],
+   "gross": [
+    "Mass of thin-walled, translucent, grape-like cystic structures (swollen chorionic villi).",
+    "Complete mole: no embryo or fetal parts. Partial mole: some normal villi and fetal parts may be present."
+   ],
+   "keyPoints": [
+    "Complete mole: usually 46,XX, all paternal (androgenetic); very high hCG; about 2% progress to choriocarcinoma.",
+    "Partial mole: triploid (e.g. 69,XXY); lower risk.",
+    "Ultrasound shows a 'snowstorm' appearance; follow with serial β-hCG."
+   ],
+   "viva": [
+    {
+     "q": "What is the karyotype of a complete mole?",
+     "a": "Usually 46,XX, with all chromosomes from the father."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     918,
+     1155
+    ]
+   ]
+  },
+  {
+   "id": "medullary-carcinoma-breast",
+   "name": "Medullary carcinoma of breast",
+   "organ": "Breast",
+   "group": "Malignant tumours",
+   "topic": "neoplasia",
+   "images": [
+    "img/specimens/medullary-carcinoma-breast.jpg"
+   ],
+   "quizCrop": [
+    24,
+    100
+   ],
+   "gross": [
+    "Well-circumscribed, soft, fleshy, grey-tan tumour (brain-like — hence 'medullary').",
+    "May show foci of haemorrhage and necrosis."
+   ],
+   "keyPoints": [
+    "Microscopy: sheets of large pleomorphic cells with pushing borders and a dense lymphoplasmacytic infiltrate.",
+    "Often triple-negative and linked to BRCA1; prognosis better than its high grade suggests.",
+    "The current WHO classification groups it under invasive carcinoma of no special type with a medullary pattern ('carcinoma with medullary features')."
+   ],
+   "viva": [
+    {
+     "q": "Which hereditary mutation is linked to medullary carcinoma?",
+     "a": "BRCA1."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     911,
+     1146
+    ]
+   ]
+  },
+  {
+   "id": "bph",
+   "name": "Benign prostatic hyperplasia",
+   "organ": "Prostate",
+   "group": "Other non-neoplastic",
+   "topic": "adaptations",
+   "images": [
+    "img/specimens/bph-prostate.jpg"
+   ],
+   "quizCrop": [
+    24,
+    100
+   ],
+   "gross": [
+    "Enlarged prostate (often 60–100 g) with nodules in the transition (periurethral) zone.",
+    "Cut surface: many well-circumscribed nodules, grey-white to yellow-pink, which may ooze milky fluid.",
+    "Urethra compressed into a slit; a median lobe may project into the bladder."
+   ],
+   "keyPoints": [
+    "Hyperplasia of glands and stroma driven by dihydrotestosterone (5α-reductase) — an adaptation, not a precursor of cancer.",
+    "Prostatic carcinoma usually arises in the peripheral zone instead.",
+    "Bladder outflow obstruction → bladder wall hypertrophy (trabeculation), diverticula, hydronephrosis."
+   ],
+   "viva": [
+    {
+     "q": "Which zone does BPH arise in, and which zone carcinoma?",
+     "a": "BPH: transition (periurethral) zone. Carcinoma: peripheral zone."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     918,
+     1105
+    ]
+   ]
+  },
+  {
+   "id": "actinomycosis",
+   "name": "Actinomycosis",
+   "organ": "Soft tissue / organ abscesses",
+   "group": "Inflammation & infection",
+   "topic": "inflammation",
+   "images": [
+    "img/specimens/actinomycosis.jpg"
+   ],
+   "quizCrop": [
+    16,
+    100
+   ],
+   "gross": [
+    "Multiple interconnecting abscesses and sinus tracts in a firm, fibrotic tissue ('honeycomb' appearance when an organ such as the liver is involved).",
+    "Pus contains small yellow 'sulphur granules'."
+   ],
+   "keyPoints": [
+    "Actinomyces israelii — a Gram-positive, filamentous, anaerobic bacterium (not a fungus).",
+    "Commonest form: cervicofacial ('lumpy jaw') after dental infection; also thoracic and abdominal (ileocaecal).",
+    "Granules show radiating filaments with club-shaped ends (Splendore–Hoeppli)."
+   ],
+   "viva": [
+    {
+     "q": "Is Actinomyces a fungus?",
+     "a": "No — it is a Gram-positive filamentous anaerobic bacterium, though it grows like a fungus."
+    }
+   ],
+   "correction": "PDF has a photo but no description. Added gross features and key points.",
+   "dims": [
+    [
+     904,
+     1105
+    ]
+   ]
+  }
+ ]
+}

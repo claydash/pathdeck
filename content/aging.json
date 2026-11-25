@@ -1,0 +1,518 @@
+{
+ "id": "aging",
+ "title": "Cellular aging",
+ "competency": "PA2.7",
+ "ref": "Robbins Basic Pathology, ch. 1 (Cell Injury, Cell Death, and Adaptations)",
+ "subtopics": [
+  {
+   "id": "dna-damage",
+   "title": "DNA damage and premature-aging syndromes"
+  },
+  {
+   "id": "telomeres",
+   "title": "Telomeres and replicative senescence"
+  },
+  {
+   "id": "proteostasis",
+   "title": "Protein homeostasis"
+  },
+  {
+   "id": "nutrient",
+   "title": "Nutrient sensing and caloric restriction"
+  },
+  {
+   "id": "inflammaging",
+   "title": "Persistent inflammation (inflammaging)"
+  }
+ ],
+ "mcqs": [
+  {
+   "id": "ag-001",
+   "sub": "dna-damage",
+   "diff": "easy",
+   "q": "Werner syndrome, a disorder of premature aging, is caused by a defect in",
+   "opts": [
+    "Telomerase RNA",
+    "A DNA helicase involved in DNA repair and replication",
+    "Lamin A, a structural protein of the nuclear envelope",
+    "The ATM protein kinase that senses double-strand breaks"
+   ],
+   "ans": 1,
+   "exp": "Werner syndrome results from a defective DNA helicase (WRN, a RecQ helicase), so DNA damage accumulates and mimics accelerated aging. Lamin A mutation causes Hutchinson–Gilford progeria, a separate premature-aging disease of childhood.",
+   "related": [
+    "Bloom syndrome",
+    "Hutchinson–Gilford progeria"
+   ]
+  },
+  {
+   "id": "ag-002",
+   "sub": "telomeres",
+   "diff": "easy",
+   "q": "Human telomeres consist of repeats of which sequence?",
+   "opts": [
+    "CAG",
+    "CGG",
+    "GAA",
+    "TTAGGG"
+   ],
+   "ans": 3,
+   "exp": "Telomeres are short repeated TTAGGG sequences at chromosome ends that protect them from fusion and degradation. CAG, CGG and GAA are trinucleotide repeats expanded in Huntington disease, fragile X syndrome and Friedreich ataxia respectively.",
+   "related": [
+    "Telomerase",
+    "Replicative senescence"
+   ]
+  },
+  {
+   "id": "ag-003",
+   "sub": "telomeres",
+   "diff": "easy",
+   "q": "In which cells is telomerase activity normally highest?",
+   "opts": [
+    "Neurons",
+    "Cardiac myocytes",
+    "Germ cells",
+    "Mature dermal fibroblasts"
+   ],
+   "ans": 2,
+   "exp": "Telomerase is active in germ cells, present at low levels in stem cells and absent from most somatic cells, so telomeres of somatic cells shorten with each division. Fibroblasts are the classic cells that reach replicative senescence in culture because they lack telomerase.",
+   "related": [
+    "Telomerase in cancer",
+    "Stem cells"
+   ]
+  },
+  {
+   "id": "ag-004",
+   "sub": "nutrient",
+   "diff": "easy",
+   "q": "Which intervention has most consistently prolonged lifespan in experimental animals?",
+   "opts": [
+    "Caloric restriction",
+    "Increased IGF-1 signalling",
+    "High-protein diet",
+    "Increased mTOR activity"
+   ],
+   "ans": 0,
+   "exp": "Caloric restriction increases lifespan in many species, from yeast and worms to mammals, partly by reducing IGF-1/insulin signalling and increasing sirtuin activity. Increased IGF-1 signalling has the opposite effect: reduced IGF-1 signalling is associated with longer life.",
+   "related": [
+    "Sirtuins",
+    "Insulin/IGF-1 signalling"
+   ]
+  },
+  {
+   "id": "ag-005",
+   "sub": "nutrient",
+   "diff": "easy",
+   "q": "Sirtuins are",
+   "opts": [
+    "ATP-dependent proteases",
+    "DNA helicases",
+    "RNA-dependent DNA polymerases (reverse transcriptases)",
+    "NAD-dependent protein deacetylases"
+   ],
+   "ans": 3,
+   "exp": "Sirtuins are a family of NAD-dependent protein deacetylases that promote expression of genes linked to longevity. RNA-dependent DNA polymerase activity describes telomerase (a reverse transcriptase), not sirtuins.",
+   "related": [
+    "Caloric restriction",
+    "Telomerase"
+   ]
+  },
+  {
+   "id": "ag-006",
+   "sub": "dna-damage",
+   "diff": "medium",
+   "q": "The gene mutated in ataxia-telangiectasia encodes",
+   "opts": [
+    "A kinase that senses DNA double-strand breaks",
+    "A DNA helicase of the RecQ family, like WRN",
+    "The catalytic reverse transcriptase subunit of telomerase",
+    "A nuclear lamina protein"
+   ],
+   "ans": 0,
+   "exp": "ATM is a protein kinase activated by DNA damage, especially double-strand breaks, which triggers the DNA damage response; its loss causes genomic instability and features of premature aging. RecQ helicase defects cause Werner and Bloom syndromes instead.",
+   "related": [
+    "DNA repair",
+    "Werner syndrome"
+   ]
+  },
+  {
+   "id": "ag-007",
+   "sub": "telomeres",
+   "diff": "medium",
+   "q": "Replicative senescence of aged cells is enforced by activation of tumor suppressors, notably",
+   "opts": [
+    "Cyclin D",
+    "p16 (CDKN2A), a CDK inhibitor",
+    "MYC",
+    "Telomerase reverse transcriptase (TERT)"
+   ],
+   "ans": 1,
+   "exp": "Senescent cells stop dividing because tumor suppressors such as p53 and the CDK inhibitor p16 (encoded by CDKN2A) are activated, blocking cell-cycle progression. Cyclin D and MYC push cells into the cycle, and telomerase restores telomeres, so all three oppose senescence.",
+   "related": [
+    "Cell cycle checkpoints",
+    "Tumor suppressor genes"
+   ]
+  },
+  {
+   "id": "ag-008",
+   "sub": "telomeres",
+   "diff": "medium",
+   "q": "Why do cells with critically short telomeres stop dividing?",
+   "opts": [
+    "They can no longer synthesise ribosomal RNA in the nucleolus",
+    "They lose mitochondrial DNA copies and can no longer generate enough ATP",
+    "Exposed ends are sensed as DNA breaks, triggering cell-cycle arrest",
+    "Their centrosomes fail to duplicate before mitosis begins"
+   ],
+   "ans": 2,
+   "exp": "When telomeres become too short, chromosome ends are sensed as double-strand breaks; the DNA damage response (involving p53) arrests the cell cycle, causing senescence, or apoptosis. Mitochondrial ATP failure is a feature of cell injury, not the reason short telomeres halt division.",
+   "related": [
+    "DNA damage response",
+    "Replicative senescence"
+   ]
+  },
+  {
+   "id": "ag-009",
+   "sub": "telomeres",
+   "diff": "medium",
+   "q": "Reactivation of telomerase in cancer cells gives them",
+   "opts": [
+    "Limitless replicative potential",
+    "Ability to induce angiogenesis",
+    "Evasion of immune surveillance",
+    "A switch to aerobic glycolysis"
+   ],
+   "ans": 0,
+   "exp": "Telomerase maintains telomere length, so cancer cells escape replicative senescence and can divide indefinitely; it is reactivated in most cancers. Angiogenesis, immune evasion and the Warburg effect are separate hallmarks driven by other mechanisms.",
+   "related": [
+    "Hallmarks of cancer",
+    "Telomeres"
+   ]
+  },
+  {
+   "id": "ag-010",
+   "sub": "nutrient",
+   "diff": "medium",
+   "q": "Reduced signalling through which pathway is associated with increased lifespan?",
+   "opts": [
+    "The p53 DNA damage response",
+    "Insulin/IGF-1 signalling via AKT and mTOR",
+    "Nucleotide excision DNA repair",
+    "Chaperone (heat-shock protein) mediated protein folding"
+   ],
+   "ans": 1,
+   "exp": "Lower IGF-1/insulin signalling, which acts through AKT and mTOR, slows cell growth and metabolism and possibly reduces cellular damage, and is linked to longer life in experimental models. Reduced DNA repair or chaperone function would do the opposite and accelerate aging.",
+   "related": [
+    "Caloric restriction",
+    "mTOR"
+   ]
+  },
+  {
+   "id": "ag-011",
+   "sub": "nutrient",
+   "diff": "medium",
+   "q": "Sirtuins are thought to promote longevity by",
+   "opts": [
+    "Activating mTOR to increase protein synthesis and cell growth",
+    "Increasing hepatic IGF-1 secretion in response to pituitary growth hormone (GH)",
+    "Aiding protein folding, curbing free radicals, raising insulin sensitivity",
+    "Activating telomerase in somatic cells to maintain telomere length"
+   ],
+   "ans": 2,
+   "exp": "Sirtuins promote expression of genes whose products reduce metabolic activity, reduce apoptosis, stimulate protein folding and inhibit oxygen free radicals; they also increase insulin sensitivity and glucose metabolism. Increased mTOR or IGF-1 signalling is linked to shorter, not longer, lifespan.",
+   "related": [
+    "Caloric restriction",
+    "Insulin/IGF-1 signalling"
+   ]
+  },
+  {
+   "id": "ag-012",
+   "sub": "nutrient",
+   "diff": "medium",
+   "q": "Which drug inhibits mTOR and has extended lifespan in mice?",
+   "opts": [
+    "Cyclosporine",
+    "Tacrolimus",
+    "Methotrexate",
+    "Rapamycin (sirolimus)"
+   ],
+   "ans": 3,
+   "exp": "Rapamycin inhibits mTOR, a nutrient-sensing kinase downstream of insulin/IGF-1 signalling, and has increased lifespan in mice, supporting the role of nutrient sensing in aging. Cyclosporine and tacrolimus are immunosuppressants too, but they act on calcineurin, not mTOR.",
+   "related": [
+    "mTOR",
+    "Caloric restriction"
+   ]
+  },
+  {
+   "id": "ag-013",
+   "sub": "proteostasis",
+   "diff": "medium",
+   "q": "Accumulation of misfolded proteins in aging cells is mainly due to",
+   "opts": [
+    "Decline in chaperones, proteasomes and autophagy",
+    "Increased telomerase activity in somatic cells",
+    "Excess sirtuin-mediated deacetylation of proteins",
+    "Increased synthesis of heat-shock chaperone proteins"
+   ],
+   "ans": 0,
+   "exp": "Protein homeostasis depends on correct folding by chaperones and removal of damaged proteins by the proteasome and autophagy; both decline with age, so misfolded proteins accumulate and can trigger apoptosis. Increased chaperone synthesis would improve proteostasis, not impair it.",
+   "related": [
+    "Unfolded protein response",
+    "Autophagy"
+   ]
+  },
+  {
+   "id": "ag-014",
+   "sub": "proteostasis",
+   "diff": "medium",
+   "q": "Which cellular machinery maintains protein homeostasis?",
+   "opts": [
+    "Telomerase and telomere-binding proteins",
+    "Chaperones, proteasomes and autophagy",
+    "Helicases and the ATM kinase",
+    "Caspases and granzymes"
+   ],
+   "ans": 1,
+   "exp": "Chaperones fold proteins correctly, while proteasomes and autophagy degrade misfolded or damaged ones; their decline is part of cellular aging. Helicases and ATM maintain genomic, not protein, integrity.",
+   "related": [
+    "Ubiquitin–proteasome pathway",
+    "Autophagy"
+   ]
+  },
+  {
+   "id": "ag-015",
+   "sub": "inflammaging",
+   "diff": "medium",
+   "q": "Which cytokine, released after inflammasome activation, is most implicated in the persistent inflammation of aging?",
+   "opts": [
+    "IL-4",
+    "IL-10",
+    "IL-1",
+    "TGF-β"
+   ],
+   "ans": 2,
+   "exp": "Accumulating damaged cells, lipids and other endogenous substances activate the inflammasome, releasing IL-1, which drives low-grade chronic inflammation in the elderly. IL-10 and TGF-β are mainly anti-inflammatory, and IL-4 drives Th2 responses rather than inflammasome inflammation.",
+   "related": [
+    "Inflammasome",
+    "Chronic inflammation"
+   ]
+  },
+  {
+   "id": "ag-016",
+   "sub": "inflammaging",
+   "diff": "medium",
+   "q": "Persistent low-grade inflammation in older people is thought to contribute most to",
+   "opts": [
+    "Sickle cell anemia and thalassemia",
+    "Hemophilia A and von Willebrand disease",
+    "Cystic fibrosis and Marfan syndrome",
+    "Atherosclerosis and type 2 diabetes"
+   ],
+   "ans": 3,
+   "exp": "Chronic inflammation driven by inflammasome activation and cytokines contributes to common age-related diseases such as atherosclerosis and type 2 diabetes. The other pairs are single-gene inherited disorders present from birth, not consequences of aging.",
+   "related": [
+    "Atherosclerosis",
+    "Inflammasome"
+   ]
+  },
+  {
+   "id": "ag-017",
+   "sub": "dna-damage",
+   "diff": "hard",
+   "q": "A 32-year-old woman has greying hair, bilateral cataracts, thin atrophic skin, osteoporosis and type 2 diabetes. She had no growth spurt in adolescence. Her cultured fibroblasts show genomic instability and stop dividing early. Which protein is defective?",
+   "opts": [
+    "Lamin A",
+    "A RecQ DNA helicase (WRN)",
+    "ATM kinase",
+    "Telomerase RNA template"
+   ],
+   "ans": 1,
+   "exp": "Premature aging starting in young adulthood, with cataracts, greying, skin atrophy, osteoporosis and diabetes, is Werner syndrome, caused by a defective WRN DNA helicase that leads to accumulated DNA damage. Lamin A defects cause Hutchinson–Gilford progeria, which presents in early childhood.",
+   "related": [
+    "DNA repair",
+    "Replicative senescence"
+   ]
+  },
+  {
+   "id": "ag-018",
+   "sub": "dna-damage",
+   "diff": "hard",
+   "q": "A 4-year-old boy has severe growth failure, loss of hair, thin skin, prominent scalp veins and early atherosclerosis. Which gene is most likely mutated?",
+   "opts": [
+    "WRN",
+    "ATM",
+    "LMNA (lamin A)",
+    "BLM"
+   ],
+   "ans": 2,
+   "exp": "Hutchinson–Gilford progeria presents in early childhood with growth failure, alopecia and accelerated atherosclerosis; it is caused by an LMNA mutation that produces an abnormal lamin A (progerin), destabilising the nuclear envelope. WRN mutations cause Werner syndrome, which begins after adolescence.",
+   "related": [
+    "Werner syndrome",
+    "Atherosclerosis"
+   ]
+  },
+  {
+   "id": "ag-019",
+   "sub": "dna-damage",
+   "diff": "hard",
+   "q": "A 6-year-old has unsteady gait, dilated vessels on the conjunctivae, recurrent sinopulmonary infections and extreme sensitivity to ionising radiation. The defective protein normally",
+   "opts": [
+    "Senses DNA double-strand breaks and triggers repair",
+    "Unwinds DNA during replication as a RecQ helicase",
+    "Adds TTAGGG repeats to chromosome ends",
+    "Removes UV-induced thymine dimers by nucleotide excision repair"
+   ],
+   "ans": 0,
+   "exp": "Ataxia, telangiectasia, immunodeficiency and radiation sensitivity indicate ataxia-telangiectasia: the ATM kinase cannot sense double-strand breaks (which ionising radiation causes) and activate the DNA damage response. Defective nucleotide excision repair of UV thymine dimers is xeroderma pigmentosum, which causes sun sensitivity, not radiation sensitivity.",
+   "related": [
+    "DNA repair defects",
+    "Werner syndrome"
+   ]
+  },
+  {
+   "id": "ag-020",
+   "sub": "telomeres",
+   "diff": "hard",
+   "q": "An immortal cancer cell line shows high activity of an enzyme that uses its own RNA as a template to extend chromosome ends. If this enzyme is completely inhibited, what is the most likely result?",
+   "opts": [
+    "Immediate apoptosis of all cells",
+    "Loss of mitochondrial DNA",
+    "Failure to enter S phase in the very next cell cycle",
+    "Gradual telomere shortening until division stops"
+   ],
+   "ans": 3,
+   "exp": "The enzyme is telomerase, an RNA–protein complex that adds telomere repeats. Inhibiting it does not kill cells at once; telomeres shorten gradually with each division until they become critically short and trigger arrest or death. Immediate apoptosis is the tempting answer but does not fit the gradual nature of telomere loss.",
+   "related": [
+    "Telomerase in cancer",
+    "Replicative senescence"
+   ]
+  },
+  {
+   "id": "ag-021",
+   "sub": "nutrient",
+   "diff": "hard",
+   "q": "Mice with reduced IGF-1 receptor signalling live longer than normal mice. Which mechanism best explains this?",
+   "opts": [
+    "Increased telomerase activity in somatic cells",
+    "Enhanced mTOR-driven protein synthesis",
+    "Lower AKT–mTOR signalling slows cell growth and metabolism",
+    "Greater proliferation and self-renewal of tissue stem cells"
+   ],
+   "ans": 2,
+   "exp": "IGF-1 signals through AKT and mTOR; reduced signalling lowers rates of cell growth and metabolism and possibly reduces accumulated cellular damage, which is linked to longer life. Enhanced mTOR activity is the opposite of what reduced IGF-1 signalling produces.",
+   "related": [
+    "Caloric restriction",
+    "Sirtuins"
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "ag-c001",
+   "sub": "dna-damage",
+   "front": "Which mechanisms are the main contributors to cellular aging?",
+   "back": "DNA damage, replicative senescence (telomere shortening), defective protein homeostasis, dysregulated nutrient sensing and persistent inflammation."
+  },
+  {
+   "id": "ag-c002",
+   "sub": "dna-damage",
+   "front": "Which cellular insults cause DNA damage that accumulates with age?",
+   "back": "Exogenous agents (physical, chemical, biologic) and endogenous ROS; most is repaired, but some persists and accumulates as cells age."
+  },
+  {
+   "id": "ag-c003",
+   "sub": "dna-damage",
+   "front": "What is the gene defect in Bloom syndrome?",
+   "back": "A defective DNA helicase (BLM, a RecQ helicase), causing genomic instability."
+  },
+  {
+   "id": "ag-c004",
+   "sub": "dna-damage",
+   "front": "Which three inherited syndromes show that defective DNA repair accelerates aging?",
+   "back": "Werner syndrome, Bloom syndrome and ataxia-telangiectasia."
+  },
+  {
+   "id": "ag-c005",
+   "sub": "dna-damage",
+   "front": "What causes Hutchinson–Gilford progeria?",
+   "back": "A mutation in LMNA producing an abnormal lamin A (progerin), which destabilises the nuclear envelope and causes premature aging in childhood."
+  },
+  {
+   "id": "ag-c006",
+   "sub": "telomeres",
+   "front": "What is replicative senescence?",
+   "back": "Permanent arrest of cell division after a limited number of divisions, seen in cultured cells such as fibroblasts."
+  },
+  {
+   "id": "ag-c007",
+   "sub": "telomeres",
+   "front": "Why do telomeres shorten with each cell division?",
+   "back": "DNA replication cannot fully copy chromosome ends, and most somatic cells lack telomerase to restore the lost repeats."
+  },
+  {
+   "id": "ag-c008",
+   "sub": "telomeres",
+   "front": "What is telomerase?",
+   "back": "A specialised RNA–protein complex (a reverse transcriptase) that uses its own RNA as a template to add nucleotides to chromosome ends."
+  },
+  {
+   "id": "ag-c009",
+   "sub": "telomeres",
+   "front": "What is the role of telomeres?",
+   "back": "They protect chromosome ends from fusion and degradation and prevent the ends being recognised as broken DNA."
+  },
+  {
+   "id": "ag-c010",
+   "sub": "telomeres",
+   "front": "Which tumor suppressors enforce arrest in senescent cells?",
+   "back": "p53 and the CDK inhibitor p16, encoded by the CDKN2A locus."
+  },
+  {
+   "id": "ag-c011",
+   "sub": "proteostasis",
+   "front": "What two processes maintain protein homeostasis?",
+   "back": "Correct folding of proteins by chaperones, and degradation of misfolded proteins by the ubiquitin–proteasome system and autophagy."
+  },
+  {
+   "id": "ag-c012",
+   "sub": "proteostasis",
+   "front": "What happens to misfolded proteins when proteostasis declines with age?",
+   "back": "They accumulate and can trigger apoptosis; impaired proteostasis also reduces the cell's ability to function normally."
+  },
+  {
+   "id": "ag-c013",
+   "sub": "nutrient",
+   "front": "How does caloric restriction prolong life?",
+   "back": "It reduces insulin/IGF-1 signalling and increases sirtuin activity, slowing metabolism and possibly reducing cellular damage."
+  },
+  {
+   "id": "ag-c014",
+   "sub": "nutrient",
+   "front": "Where is IGF-1 produced, and what controls it?",
+   "back": "Mainly in the liver, in response to growth hormone secreted by the pituitary."
+  },
+  {
+   "id": "ag-c015",
+   "sub": "nutrient",
+   "front": "How do sirtuins affect insulin action?",
+   "back": "They increase insulin sensitivity and glucose metabolism, which may help counter age-related metabolic disease."
+  },
+  {
+   "id": "ag-c016",
+   "sub": "nutrient",
+   "front": "What is mTOR and how does it relate to aging?",
+   "back": "A nutrient-sensing kinase downstream of insulin/IGF-1 signalling that promotes growth; its inhibition (e.g., by rapamycin) extends lifespan in mice."
+  },
+  {
+   "id": "ag-c017",
+   "sub": "inflammaging",
+   "front": "What drives persistent inflammation in aging?",
+   "back": "Accumulated damaged cells, lipids and other endogenous substances activate the inflammasome, releasing IL-1 and other mediators."
+  },
+  {
+   "id": "ag-c018",
+   "sub": "inflammaging",
+   "front": "Which age-related diseases are linked to chronic inflammation?",
+   "back": "Atherosclerosis and type 2 diabetes, among other common chronic diseases of the elderly."
+  }
+ ]
+}

@@ -1,0 +1,974 @@
+{
+ "id": "cell-injury",
+ "title": "Cell injury & cell death",
+ "competency": "PA2.1–2.5, PA2.8",
+ "ref": "Robbins Basic Pathology, ch. 1 (Cell Injury, Cell Death, and Adaptations)",
+ "subtopics": [
+  {
+   "id": "mechanisms",
+   "title": "Causes and mechanisms of cell injury"
+  },
+  {
+   "id": "reversible",
+   "title": "Reversible vs irreversible injury"
+  },
+  {
+   "id": "necrosis",
+   "title": "Necrosis and its patterns"
+  },
+  {
+   "id": "apoptosis",
+   "title": "Apoptosis"
+  },
+  {
+   "id": "other-death",
+   "title": "Necroptosis, pyroptosis, ferroptosis and autophagy"
+  },
+  {
+   "id": "ischemia-chemical",
+   "title": "Ischemia–reperfusion and chemical injury"
+  },
+  {
+   "id": "accumulations",
+   "title": "Intracellular accumulations and pigments"
+  },
+  {
+   "id": "calcification",
+   "title": "Pathologic calcification"
+  }
+ ],
+ "mcqs": [
+  {
+   "id": "ci-001",
+   "sub": "necrosis",
+   "diff": "easy",
+   "q": "Caseous necrosis is most characteristically seen in which condition?",
+   "opts": [
+    "Tuberculosis",
+    "Acute myocardial infarction",
+    "Acute pancreatitis",
+    "Cerebral infarction"
+   ],
+   "ans": 0,
+   "exp": "Caseous necrosis, with friable white cheese-like material, is the typical pattern in foci of tuberculous infection, usually within a granuloma. Myocardial infarction is the classic example of coagulative necrosis, not caseous. Pancreatitis gives fat necrosis and brain infarcts give liquefactive necrosis.",
+   "related": [
+    "Granulomatous inflammation",
+    "Coagulative necrosis"
+   ]
+  },
+  {
+   "id": "ci-002",
+   "sub": "necrosis",
+   "diff": "easy",
+   "q": "Enzymatic fat necrosis is classically seen in",
+   "opts": [
+    "Tuberculous lymphadenitis",
+    "Acute pancreatitis",
+    "Infarction of the brain",
+    "Polyarteritis nodosa"
+   ],
+   "ans": 1,
+   "exp": "In acute pancreatitis, activated pancreatic lipases leak out and split triglycerides in peripancreatic fat; the released fatty acids combine with calcium to form chalky white areas (fat saponification). Tuberculous lymphadenitis shows caseous necrosis, not fat necrosis.",
+   "related": [
+    "Acute pancreatitis",
+    "Dystrophic calcification"
+   ]
+  },
+  {
+   "id": "ci-003",
+   "sub": "necrosis",
+   "diff": "easy",
+   "q": "Hypoxic death of cells in which organ typically results in liquefactive rather than coagulative necrosis?",
+   "opts": [
+    "Heart",
+    "Kidney",
+    "Brain",
+    "Spleen"
+   ],
+   "ans": 2,
+   "exp": "For reasons that are not fully understood, hypoxic death of cells in the central nervous system usually appears as liquefactive necrosis, leaving a fluid-filled cavity. Heart, kidney and spleen infarcts are classic coagulative necrosis, which is the rule for infarcts in solid organs other than the brain.",
+   "related": [
+    "Coagulative necrosis",
+    "Cerebral infarction"
+   ]
+  },
+  {
+   "id": "ci-004",
+   "sub": "accumulations",
+   "diff": "easy",
+   "q": "Lipofuscin, the 'wear-and-tear' pigment, is best described as",
+   "opts": [
+    "An iron-containing pigment derived from hemoglobin breakdown",
+    "An endogenous brown-black pigment made from tyrosine by tyrosinase in melanocytes",
+    "A bile pigment formed from heme breakdown",
+    "Lipid–protein complexes formed by peroxidation of membrane lipids"
+   ],
+   "ans": 3,
+   "exp": "Lipofuscin is an insoluble yellow-brown pigment of lipid–protein complexes formed by free radical–catalysed peroxidation of polyunsaturated membrane lipids; it marks past free-radical injury and accumulates with age. The iron-containing pigment derived from hemoglobin is hemosiderin, which stains with Prussian blue; lipofuscin does not.",
+   "related": [
+    "Brown atrophy",
+    "Hemosiderin"
+   ]
+  },
+  {
+   "id": "ci-005",
+   "sub": "calcification",
+   "diff": "easy",
+   "q": "Metastatic calcification is deposition of calcium salts in",
+   "opts": [
+    "Necrotic tissue with normal serum calcium",
+    "Normal tissues in the presence of hypercalcemia",
+    "Atheromatous plaques with normal serum calcium",
+    "Laminated psammoma bodies within papillary thyroid carcinoma"
+   ],
+   "ans": 1,
+   "exp": "Metastatic calcification occurs in otherwise normal tissues and almost always reflects hypercalcemia from some disturbance of calcium metabolism. Calcification of dead or dying tissue with normal serum calcium is dystrophic calcification; atheromas and psammoma bodies are examples of the dystrophic type.",
+   "related": [
+    "Causes of hypercalcemia",
+    "Dystrophic calcification"
+   ]
+  },
+  {
+   "id": "ci-006",
+   "sub": "apoptosis",
+   "diff": "easy",
+   "q": "Which family of enzymes carries out the execution phase of apoptosis?",
+   "opts": [
+    "Caspases",
+    "Cathepsins",
+    "Matrix metalloproteinases",
+    "Lipases"
+   ],
+   "ans": 0,
+   "exp": "Apoptosis is executed by caspases, cysteine proteases that cleave after aspartic acid residues; executioner caspases (such as caspase-3) cleave cytoskeletal and nuclear proteins and activate DNases. Cathepsins are lysosomal proteases that digest cells in necrosis and in phagolysosomes; they are not the core apoptotic machinery.",
+   "related": [
+    "Intrinsic pathway of apoptosis",
+    "Extrinsic (death receptor) pathway"
+   ]
+  },
+  {
+   "id": "ci-007",
+   "sub": "accumulations",
+   "diff": "easy",
+   "q": "Russell bodies are",
+   "opts": [
+    "Aggregates of keratin intermediate filaments in hepatocytes of alcoholics",
+    "Reabsorbed protein droplets in proximal renal tubular cells",
+    "Immunoglobulin distending the endoplasmic reticulum of plasma cells",
+    "Laminated calcium deposits in papillary tumors"
+   ],
+   "ans": 2,
+   "exp": "Plasma cells actively synthesising immunoglobulin may accumulate it in the endoplasmic reticulum, which becomes hugely distended, producing large homogeneous eosinophilic inclusions called Russell bodies. Keratin aggregates in hepatocytes are alcoholic (Mallory) hyaline, a different intracellular protein accumulation.",
+   "related": [
+    "Hyaline change",
+    "Intracellular protein accumulations"
+   ]
+  },
+  {
+   "id": "ci-008",
+   "sub": "reversible",
+   "diff": "easy",
+   "q": "The two features of reversible cell injury recognised under the light microscope are",
+   "opts": [
+    "Pyknosis and karyorrhexis",
+    "Karyolysis and plasma membrane rupture",
+    "Chromatin condensation and apoptotic bodies",
+    "Cellular swelling and fatty change"
+   ],
+   "ans": 3,
+   "exp": "Robbins names cellular swelling (failure of energy-dependent ion pumps) and fatty change (small lipid vacuoles) as the two light-microscopic features of reversible injury. Pyknosis and karyorrhexis are nuclear changes of necrosis, which means the injury has become irreversible.",
+   "related": [
+    "Irreversible injury",
+    "Steatosis"
+   ]
+  },
+  {
+   "id": "ci-009",
+   "sub": "accumulations",
+   "diff": "easy",
+   "q": "The Perls Prussian blue reaction is used to demonstrate",
+   "opts": [
+    "Hemosiderin",
+    "Lipofuscin",
+    "Melanin",
+    "Bilirubin"
+   ],
+   "ans": 0,
+   "exp": "Hemosiderin is a golden-yellow to brown granular iron pigment that turns blue-black with the Prussian blue reaction, which separates it from other brown pigments. Lipofuscin looks similar (yellow-brown, perinuclear) but contains no iron, so it is Prussian blue negative.",
+   "related": [
+    "Hemosiderosis",
+    "Lipofuscin"
+   ]
+  },
+  {
+   "id": "ci-010",
+   "sub": "reversible",
+   "diff": "medium",
+   "q": "Which two phenomena consistently characterise irreversible cell injury?",
+   "opts": [
+    "Fall in ATP below normal levels and depletion of glycogen stores",
+    "Failure of the Na+/K+ ATPase with influx of water and cellular swelling",
+    "Detachment of ribosomes from the RER and reduced protein synthesis",
+    "Failure to restore mitochondrial function and severe membrane damage"
+   ],
+   "ans": 3,
+   "exp": "Robbins states that irreversibility is marked by inability to restore mitochondrial function (oxidative phosphorylation and ATP generation) even after the injury is removed, and by profound loss of membrane function. ATP fall, pump failure with swelling and ribosome detachment all occur early and are still reversible if the stimulus is removed.",
+   "related": [
+    "Mitochondrial damage",
+    "Membrane damage"
+   ]
+  },
+  {
+   "id": "ci-011",
+   "sub": "reversible",
+   "diff": "medium",
+   "q": "On electron microscopy, which finding indicates irreversible rather than reversible cell injury?",
+   "opts": [
+    "Blebbing, blunting and distortion of plasma membrane microvilli",
+    "Detachment of ribosomes from the rough ER",
+    "Large amorphous densities in swollen mitochondria",
+    "Dilatation of the endoplasmic reticulum"
+   ],
+   "ans": 2,
+   "exp": "Large flocculent (amorphous) densities in mitochondria, with breaks in plasma and organelle membranes, are ultrastructural markers of irreversible injury. Plasma membrane blebbing, ribosome detachment and ER dilatation are seen in reversible injury and can recover once ATP is restored.",
+   "related": [
+    "Reversible cell injury",
+    "Nuclear changes in necrosis"
+   ]
+  },
+  {
+   "id": "ci-012",
+   "sub": "mechanisms",
+   "diff": "medium",
+   "q": "Cellular swelling in early hypoxic injury is chiefly due to reduced activity of which pump?",
+   "opts": [
+    "Endoplasmic reticulum Ca2+ ATPase",
+    "Plasma membrane Na+/K+ ATPase",
+    "Gastric-type H+/K+ ATPase",
+    "Na+/glucose cotransporter"
+   ],
+   "ans": 1,
+   "exp": "When ATP falls, the energy-dependent Na+/K+ pump fails, so sodium and water enter the cell and potassium leaks out, causing swelling and ER dilatation. Failure of Ca2+ pumps raises cytosolic calcium, which activates damaging enzymes, but it is not the main cause of the swelling.",
+   "related": [
+    "ATP depletion",
+    "Hydropic change"
+   ]
+  },
+  {
+   "id": "ci-013",
+   "sub": "mechanisms",
+   "diff": "medium",
+   "q": "A rise in cytosolic calcium damages cells mainly by",
+   "opts": [
+    "Inhibiting anaerobic glycolysis and so preserving glycogen stores in the cytoplasm",
+    "Stabilising lysosomal membranes so that acid hydrolases are not released",
+    "Opening the mitochondrial transition pore and activating degradative enzymes",
+    "Increasing glutathione peroxidase activity and scavenging of free radicals"
+   ],
+   "ans": 2,
+   "exp": "Increased cytosolic Ca2+ accumulates in mitochondria and opens the permeability transition pore, causing ATP failure, and it activates enzymes that damage membranes, proteins and DNA, and further deplete ATP. It does not protect lysosomes; membrane and lysosomal damage are worsened, not prevented.",
+   "related": [
+    "Mitochondrial permeability transition",
+    "Membrane damage"
+   ]
+  },
+  {
+   "id": "ci-014",
+   "sub": "mechanisms",
+   "diff": "medium",
+   "q": "In the Fenton reaction, the highly reactive hydroxyl radical is generated from hydrogen peroxide in the presence of",
+   "opts": [
+    "Calcium (Ca2+)",
+    "Zinc (Zn2+)",
+    "Magnesium (Mg2+)",
+    "Ferrous iron (Fe2+)"
+   ],
+   "ans": 3,
+   "exp": "In the Fenton reaction, H2O2 + Fe2+ yields Fe3+, the hydroxyl radical and a hydroxide ion; this is why free iron increases oxidative injury. Calcium causes injury by activating enzymes and opening the mitochondrial pore, not by generating hydroxyl radicals.",
+   "related": [
+    "Reactive oxygen species",
+    "Antioxidant defences"
+   ]
+  },
+  {
+   "id": "ci-015",
+   "sub": "mechanisms",
+   "diff": "medium",
+   "q": "Which enzyme converts superoxide to hydrogen peroxide as part of the cell's antioxidant defence?",
+   "opts": [
+    "Superoxide dismutase",
+    "Catalase",
+    "Glutathione peroxidase",
+    "NADPH oxidase"
+   ],
+   "ans": 0,
+   "exp": "Superoxide dismutases convert superoxide to H2O2. Catalase (in peroxisomes) and glutathione peroxidase then break down H2O2, so they act on the product, not on superoxide itself. NADPH oxidase generates superoxide in leukocytes rather than removing it.",
+   "related": [
+    "Reactive oxygen species",
+    "Lipid peroxidation"
+   ]
+  },
+  {
+   "id": "ci-016",
+   "sub": "apoptosis",
+   "diff": "medium",
+   "q": "The intrinsic (mitochondrial) pathway of apoptosis is triggered when",
+   "opts": [
+    "Fas ligand on a cytotoxic T cell binds Fas (CD95) on the target cell",
+    "BAX and BAK form channels in mitochondria and cytochrome c leaks out",
+    "TNF binds its receptor and RIPK3 phosphorylates MLKL in the cytosol",
+    "Microbial products activate the inflammasome and caspase-1 in the cytosol"
+   ],
+   "ans": 1,
+   "exp": "In the intrinsic pathway, BH3-only sensors tip the balance so that BAX and BAK form channels in the mitochondrial membrane; cytochrome c is released, binds APAF-1 and activates caspase-9. Fas–Fas ligand binding is the extrinsic (death receptor) pathway, which activates caspase-8 instead.",
+   "related": [
+    "BCL2 family",
+    "Extrinsic pathway of apoptosis"
+   ]
+  },
+  {
+   "id": "ci-017",
+   "sub": "apoptosis",
+   "diff": "medium",
+   "q": "Which of the following is an anti-apoptotic member of the BCL2 family?",
+   "opts": [
+    "BAX",
+    "BCL-XL",
+    "BAK",
+    "BIM"
+   ],
+   "ans": 1,
+   "exp": "BCL2, BCL-XL and MCL1 are anti-apoptotic; they keep the mitochondrial membrane intact and stop cytochrome c leakage. BAX and BAK are pro-apoptotic effectors, and BIM is a pro-apoptotic BH3-only sensor.",
+   "related": [
+    "Intrinsic pathway of apoptosis",
+    "Evasion of apoptosis in cancer"
+   ]
+  },
+  {
+   "id": "ci-018",
+   "sub": "apoptosis",
+   "diff": "medium",
+   "q": "Macrophages recognise and engulf apoptotic cells chiefly because",
+   "opts": [
+    "Dead cells leak cytosolic enzymes such as LDH into the surrounding interstitium",
+    "The plasma membrane ruptures and releases nuclear contents (DAMPs)",
+    "Neutrophils first digest the cell with their lysosomal hydrolases",
+    "Phosphatidylserine is flipped to the outer leaflet of the membrane"
+   ],
+   "ans": 3,
+   "exp": "Apoptotic cells flip phosphatidylserine to the outer membrane leaflet, which phagocytes recognise; the cells are removed quickly without inflammation. Membrane rupture and leakage of contents are features of necrosis, which is why necrosis provokes inflammation.",
+   "related": [
+    "Morphology of apoptosis",
+    "Apoptosis vs necrosis"
+   ]
+  },
+  {
+   "id": "ci-019",
+   "sub": "other-death",
+   "diff": "medium",
+   "q": "Pyroptosis is a form of cell death associated with",
+   "opts": [
+    "Inflammasome activation of caspase-1 and release of IL-1",
+    "Activation of caspase-8 by the Fas death receptor and FADD adaptor",
+    "Phosphorylation of MLKL by RIPK3",
+    "Release of cytochrome c and activation of caspase-9"
+   ],
+   "ans": 0,
+   "exp": "Pyroptosis follows activation of the inflammasome, which activates caspase-1; caspase-1 cleaves pro-IL-1 to its active form and, with related caspases, kills the infected cell, producing fever and inflammation. MLKL phosphorylation by RIPK3 is the effector step of necroptosis, a different programmed necrosis.",
+   "related": [
+    "Inflammasome",
+    "Necroptosis"
+   ]
+  },
+  {
+   "id": "ci-020",
+   "sub": "other-death",
+   "diff": "medium",
+   "q": "Ferroptosis occurs when",
+   "opts": [
+    "Cytochrome c binds APAF-1 in the cytosol and activates caspase-9",
+    "RIPK1 and RIPK3 form a necrosome after TNF receptor ligation",
+    "Iron-dependent lipid peroxidation overwhelms glutathione defences",
+    "Caspase-1 is activated by a cytosolic inflammasome that senses microbes"
+   ],
+   "ans": 2,
+   "exp": "Ferroptosis is triggered when excess intracellular iron or ROS overwhelm glutathione-dependent defences, so membrane lipid peroxidation goes unchecked and the membrane loses integrity; it is caspase-independent. Cytochrome c binding APAF-1 is the intrinsic apoptotic pathway.",
+   "related": [
+    "Reactive oxygen species",
+    "Lipid peroxidation"
+   ]
+  },
+  {
+   "id": "ci-021",
+   "sub": "other-death",
+   "diff": "medium",
+   "q": "Which statement about autophagy is correct?",
+   "opts": [
+    "It is a caspase-dependent form of programmed death that always ends in death of the cell",
+    "It is initiated when Fas ligand binds Fas and recruits the adaptor protein FADD",
+    "It occurs only in cells infected by intracellular bacteria such as mycobacteria",
+    "It is induced by nutrient deprivation and uses autophagosomes that fuse with lysosomes"
+   ],
+   "ans": 3,
+   "exp": "Autophagy is the cell eating its own contents: organelles and cytosol are sequestered in double-membrane autophagosomes that fuse with lysosomes. It is mainly a survival mechanism in nutrient deprivation and atrophy, though it can lead to cell death if the stress is not overcome. It is not a caspase-driven death pathway like apoptosis.",
+   "related": [
+    "Atrophy",
+    "Lysosomes and residual bodies"
+   ]
+  },
+  {
+   "id": "ci-022",
+   "sub": "ischemia-chemical",
+   "diff": "medium",
+   "q": "Restoration of blood flow to ischemic tissue can paradoxically increase cell damage mainly because of",
+   "opts": [
+    "Continued anaerobic glycolysis with lactic acid build-up in the tissue",
+    "A burst of reactive oxygen species from injured cells and leukocytes",
+    "Excess synthesis of glutathione by injured cells",
+    "A fall in intracellular calcium after blood flow is restored"
+   ],
+   "ans": 1,
+   "exp": "Reperfusion injury is driven by oxidative stress (ROS from damaged mitochondria and infiltrating leukocytes), calcium overload, inflammation and complement activation. Anaerobic glycolysis and lactic acid build-up belong to the ischemic phase and stop once oxygen returns.",
+   "related": [
+    "Myocardial infarction",
+    "Reactive oxygen species"
+   ]
+  },
+  {
+   "id": "ci-023",
+   "sub": "ischemia-chemical",
+   "diff": "medium",
+   "q": "Carbon tetrachloride (CCl4) injures hepatocytes mainly through",
+   "opts": [
+    "Direct binding to sulfhydryl groups of membrane proteins, as mercuric chloride does",
+    "Inhibition of mitochondrial cytochrome oxidase, as cyanide does",
+    "Conversion by P-450 to the CCl3• free radical, causing lipid peroxidation",
+    "Immune-mediated destruction of hepatocytes by cytotoxic T cells"
+   ],
+   "ans": 2,
+   "exp": "CCl4 is converted in the smooth ER by cytochrome P-450 to the toxic free radical CCl3•, which causes lipid peroxidation, ER swelling, ribosome detachment and reduced apoprotein synthesis, giving fatty liver and then cell death. Direct binding to sulfhydryl groups is how mercury acts; CCl4 needs metabolic activation.",
+   "related": [
+    "Acetaminophen hepatotoxicity",
+    "Steatosis"
+   ]
+  },
+  {
+   "id": "ci-024",
+   "sub": "necrosis",
+   "diff": "medium",
+   "q": "Fibrinoid necrosis is typically seen in",
+   "opts": [
+    "Arterial walls in immune-complex vasculitis",
+    "Peripancreatic fat in acute pancreatitis",
+    "Tuberculous granulomas in the lung and lymph nodes",
+    "A brain abscess"
+   ],
+   "ans": 0,
+   "exp": "Fibrinoid necrosis occurs when antigen–antibody complexes deposit in arterial walls together with leaked fibrin, giving a bright pink amorphous appearance. Peripancreatic fat shows fat necrosis, tuberculous granulomas show caseous necrosis and abscesses show liquefactive necrosis.",
+   "related": [
+    "Vasculitis",
+    "Type III hypersensitivity"
+   ]
+  },
+  {
+   "id": "ci-025",
+   "sub": "necrosis",
+   "diff": "medium",
+   "q": "Wet gangrene differs from dry gangrene because",
+   "opts": [
+    "It is caused only by venous obstruction, whereas dry gangrene is arterial",
+    "Bacterial infection adds liquefactive necrosis to coagulative necrosis",
+    "It shows caseous necrosis instead of coagulative necrosis",
+    "It results from fat necrosis of subcutaneous tissue"
+   ],
+   "ans": 1,
+   "exp": "Gangrenous necrosis is usually coagulative necrosis of several tissue layers in a limb that has lost its blood supply (dry gangrene). When bacterial infection is superimposed, the liquefactive action of bacteria and leukocytes modifies it, giving wet gangrene. Caseous necrosis is a feature of tuberculosis, not gangrene.",
+   "related": [
+    "Coagulative necrosis",
+    "Liquefactive necrosis"
+   ]
+  },
+  {
+   "id": "ci-026",
+   "sub": "calcification",
+   "diff": "medium",
+   "q": "Which of the following is an example of dystrophic calcification?",
+   "opts": [
+    "Calcification of damaged or aged heart valves",
+    "Nephrocalcinosis in primary hyperparathyroidism",
+    "Calcification of gastric mucosa in vitamin D intoxication",
+    "Calcification of alveolar walls in hypercalcemia from bone metastases"
+   ],
+   "ans": 0,
+   "exp": "Dystrophic calcification occurs in dead or degenerating tissue with normal serum calcium, such as atheromas and aged or damaged heart valves (for example calcific aortic stenosis). The other three occur in normal tissues because of hypercalcemia, so they are metastatic calcification.",
+   "related": [
+    "Metastatic calcification",
+    "Calcific aortic stenosis"
+   ]
+  },
+  {
+   "id": "ci-027",
+   "sub": "accumulations",
+   "diff": "medium",
+   "q": "Which stain confirms that clear cytoplasmic vacuoles in hepatocytes contain neutral fat?",
+   "opts": [
+    "Periodic acid–Schiff (PAS)",
+    "Congo red",
+    "Oil Red O on frozen sections",
+    "Perls Prussian blue"
+   ],
+   "ans": 2,
+   "exp": "Routine processing dissolves fat, so lipid is shown with Sudan IV or Oil Red O on frozen sections, which stain it red-orange. PAS stains glycogen, which can also leave clear cytoplasm, so it is the tempting choice, but it does not stain neutral fat.",
+   "related": [
+    "Steatosis",
+    "Glycogen accumulation"
+   ]
+  },
+  {
+   "id": "ci-028",
+   "sub": "necrosis",
+   "diff": "hard",
+   "q": "A 60-year-old man dies 3 days after an acute myocardial infarction. The infarcted area shows myocytes with preserved outlines, intensely eosinophilic cytoplasm and no nuclei. Which mechanism best explains why the tissue architecture is preserved?",
+   "opts": [
+    "Rapid digestion of dead cells by hydrolytic enzymes released from neutrophils",
+    "Lipases released from injured cells split membrane triglycerides into fatty acids",
+    "Caspases cleave the cytoskeleton while the membrane stays intact",
+    "Denaturation of proteins, including enzymes, blocks proteolysis of dead cells"
+   ],
+   "ans": 3,
+   "exp": "This is coagulative necrosis, typical of infarcts in solid organs. Injury denatures structural proteins and also the enzymes that would digest the cell, so the dead cells keep their outlines for days until leukocytes remove them. Rapid enzymatic digestion is what produces liquefactive necrosis, as in brain infarcts and abscesses.",
+   "related": [
+    "Myocardial infarction",
+    "Nuclear changes in necrosis"
+   ]
+  },
+  {
+   "id": "ci-029",
+   "sub": "ischemia-chemical",
+   "diff": "hard",
+   "q": "A 19-year-old woman takes a large overdose of paracetamol (acetaminophen). Two days later she is jaundiced and liver biopsy shows centrilobular hepatocyte necrosis. Which mechanism caused the injury?",
+   "opts": [
+    "The glucuronide conjugate of the drug is directly toxic to hepatocytes",
+    "Its P-450 metabolite NAPQI depletes glutathione and binds cell proteins",
+    "The drug is converted to the trichloromethyl free radical, which peroxidises lipids",
+    "Antibodies against drug-coated hepatocytes activate complement"
+   ],
+   "ans": 1,
+   "exp": "Normally most acetaminophen is safely sulfated or glucuronidated; a small amount is converted by cytochrome P-450 to NAPQI, which glutathione detoxifies. In overdose glutathione is used up, so NAPQI binds proteins and causes oxidative damage, mainly in the centrilobular zone; N-acetylcysteine works by restoring glutathione. Glucuronide conjugates are the harmless detoxified products.",
+   "related": [
+    "Carbon tetrachloride injury",
+    "Glutathione and antioxidants"
+   ]
+  },
+  {
+   "id": "ci-030",
+   "sub": "necrosis",
+   "diff": "hard",
+   "q": "A 45-year-old man with heavy alcohol use dies of severe abdominal pain and shock. At autopsy there are chalky white foci in the fat around the pancreas. How did these foci form?",
+   "opts": [
+    "Calcium was deposited in caseous material within a granuloma",
+    "Macrophages broke down hemoglobin from hemorrhage to hemosiderin",
+    "Calcium deposited in normal fat because of hypercalcemia from bone loss",
+    "Lipase-released fatty acids combined with calcium (saponification)"
+   ],
+   "ans": 3,
+   "exp": "This is acute pancreatitis with enzymatic fat necrosis: leaked lipases split triglycerides and the fatty acids combine with calcium to form chalky white soaps, which pathologists can see grossly. Caseous material can calcify too, but caseation points to tuberculosis, not alcohol-related pancreatitis.",
+   "related": [
+    "Acute pancreatitis",
+    "Dystrophic calcification"
+   ]
+  },
+  {
+   "id": "ci-031",
+   "sub": "apoptosis",
+   "diff": "hard",
+   "q": "A liver biopsy in acute viral hepatitis shows scattered shrunken, intensely eosinophilic hepatocytes with dense nuclear fragments and no surrounding inflammation. How do cytotoxic T cells most directly kill these cells?",
+   "opts": [
+    "The complement membrane attack complex inserts into and lyses the cell",
+    "Released lipases digest the cell membrane",
+    "Granzymes enter through perforin pores and activate caspases",
+    "RIPK3 phosphorylates MLKL, which ruptures the membrane"
+   ],
+   "ans": 2,
+   "exp": "The shrunken eosinophilic cells with nuclear fragments and no inflammation are apoptotic cells (Councilman bodies). CTLs kill virus-infected cells by inserting perforin so that granzymes enter and activate caspases (they can also use Fas ligand). MLKL-mediated membrane rupture is necroptosis, which causes inflammation and would not give this picture.",
+   "related": [
+    "Morphology of apoptosis",
+    "Cytotoxic T cells"
+   ]
+  },
+  {
+   "id": "ci-032",
+   "sub": "accumulations",
+   "diff": "hard",
+   "q": "An 85-year-old woman with long-standing cancer cachexia dies. Her heart is small and dark brown. Microscopy shows fine golden-brown granules around the myocyte nuclei that are negative with Prussian blue. How is this pigment formed?",
+   "opts": [
+    "Peroxidation of membrane lipids by free radicals",
+    "Breakdown of hemoglobin by macrophages after hemorrhage",
+    "Oxidation of tyrosine by tyrosinase within melanosomes",
+    "Accumulation of glycogen in lysosomes"
+   ],
+   "ans": 0,
+   "exp": "A small brown heart with perinuclear golden-brown, iron-negative granules is brown atrophy due to lipofuscin, a lipid–protein complex formed by peroxidation of membrane lipids and a sign of past free-radical injury. Hemosiderin, from hemoglobin breakdown, looks similar but is Prussian blue positive.",
+   "related": [
+    "Atrophy",
+    "Hemosiderin"
+   ]
+  },
+  {
+   "id": "ci-033",
+   "sub": "calcification",
+   "diff": "hard",
+   "q": "A 50-year-old woman with breast cancer that has spread widely to bone has serum calcium of 13.5 mg/dL. Autopsy shows calcium deposits in the gastric mucosa, kidneys and alveolar walls, which otherwise look normal. Which is the best explanation?",
+   "opts": [
+    "Dystrophic calcification; tumor cells have seeded and died in these organs",
+    "Metastatic calcification; these tissues lose acid, so their interstitium is alkaline",
+    "Metastatic calcification; these organs receive the highest blood flow per gram of tissue",
+    "Dystrophic calcification; deposition here is independent of the serum calcium"
+   ],
+   "ans": 1,
+   "exp": "Hypercalcemia from bone destruction causes metastatic calcification in normal tissues. It favours interstitial tissues of the gastric mucosa, kidneys, lungs, systemic arteries and pulmonary veins because all of them lose acid and so have an alkaline internal compartment. Dystrophic calcification needs necrotic tissue and occurs with normal serum calcium.",
+   "related": [
+    "Causes of hypercalcemia",
+    "Dystrophic calcification"
+   ]
+  },
+  {
+   "id": "ci-034",
+   "sub": "other-death",
+   "diff": "hard",
+   "q": "Cultured cells in which caspase-8 is inhibited are exposed to TNF. They swell and their membranes rupture, releasing contents that trigger inflammation, and caspase inhibitors do not prevent the death. Which molecules execute this form of death?",
+   "opts": [
+    "Cytochrome c, APAF-1 and caspase-9",
+    "Inflammasome and caspase-1",
+    "RIPK1, RIPK3 and MLKL",
+    "Perforin and granzyme B"
+   ],
+   "ans": 2,
+   "exp": "TNF receptor ligation with caspase-8 blocked switches the cell to necroptosis: RIPK1 and RIPK3 form a complex that phosphorylates MLKL, which disrupts the plasma membrane. It looks like necrosis but is programmed and caspase-independent. The cytochrome c–APAF-1–caspase-9 route is the intrinsic pathway of apoptosis, which caspase inhibitors would block.",
+   "related": [
+    "Extrinsic pathway of apoptosis",
+    "Pyroptosis"
+   ]
+  },
+  {
+   "id": "ci-035",
+   "sub": "mechanisms",
+   "diff": "hard",
+   "q": "A surgeon notes that a limb whose arterial supply is completely blocked is damaged faster than tissue exposed to the same degree of low blood oxygen (as in carbon monoxide poisoning or severe anemia). What best explains this?",
+   "opts": [
+    "Hypoxia damages cells only during reperfusion, not during the hypoxic period",
+    "Ischemic tissue generates more ATP by anaerobic glycolysis than hypoxic tissue",
+    "Hypoxia activates the Na+/K+ pump, whereas ischemia inhibits it",
+    "Ischemia also stops glucose delivery, so anaerobic glycolysis fails too"
+   ],
+   "ans": 3,
+   "exp": "In hypoxia alone, cells can keep making some ATP by anaerobic glycolysis. In ischemia, blood flow stops, so glucose delivery also stops, and accumulated metabolites cannot be removed. Anaerobic energy generation therefore fails too, and injury comes faster. Ischemic tissue makes less, not more, glycolytic ATP once substrate runs out.",
+   "related": [
+    "ATP depletion",
+    "Ischemia–reperfusion injury"
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "ci-c001",
+   "sub": "mechanisms",
+   "front": "What are the main categories of causes of cell injury?",
+   "back": "Oxygen deprivation (hypoxia, ischemia), physical agents, chemicals and drugs, infectious agents, immunologic reactions, genetic abnormalities and nutritional imbalances."
+  },
+  {
+   "id": "ci-c002",
+   "sub": "mechanisms",
+   "front": "What is the most common cause of cell injury in clinical practice?",
+   "back": "Hypoxia, most often from ischemia (reduced blood flow)."
+  },
+  {
+   "id": "ci-c003",
+   "sub": "mechanisms",
+   "front": "Below what ATP level do widespread effects on cellular systems appear?",
+   "back": "When ATP falls to about 5–10% of normal levels."
+  },
+  {
+   "id": "ci-c004",
+   "sub": "mechanisms",
+   "front": "Why does intracellular pH fall in hypoxic injury?",
+   "back": "Anaerobic glycolysis increases, glycogen is used up and lactic acid accumulates, lowering pH; this causes clumping of nuclear chromatin."
+  },
+  {
+   "id": "ci-c005",
+   "sub": "mechanisms",
+   "front": "Which three reactive oxygen species are most important in cell injury?",
+   "back": "Superoxide anion, hydrogen peroxide and the hydroxyl radical (the most reactive)."
+  },
+  {
+   "id": "ci-c006",
+   "sub": "mechanisms",
+   "front": "What three kinds of damage do free radicals cause in cells?",
+   "back": "Lipid peroxidation of membranes, oxidative modification of proteins, and lesions (breaks) in DNA."
+  },
+  {
+   "id": "ci-c007",
+   "sub": "mechanisms",
+   "front": "Which enzymes break down hydrogen peroxide?",
+   "back": "Catalase (in peroxisomes) and glutathione peroxidase."
+  },
+  {
+   "id": "ci-c008",
+   "sub": "mechanisms",
+   "front": "Which vitamins act as antioxidants that block free radical formation or scavenge them?",
+   "back": "Vitamins E and A, ascorbic acid (vitamin C) and β-carotene."
+  },
+  {
+   "id": "ci-c009",
+   "sub": "mechanisms",
+   "front": "What happens when misfolded proteins accumulate in the endoplasmic reticulum?",
+   "back": "ER stress triggers the unfolded protein response; if it cannot cope, the cell dies by apoptosis (intrinsic pathway)."
+  },
+  {
+   "id": "ci-c010",
+   "sub": "mechanisms",
+   "front": "Which damaged membranes are most important in cell injury?",
+   "back": "Mitochondrial membranes (ATP failure, release of pro-apoptotic proteins), the plasma membrane (loss of osmotic balance) and lysosomal membranes (leakage of digestive enzymes)."
+  },
+  {
+   "id": "ci-c011",
+   "sub": "reversible",
+   "front": "What is hydropic change (cellular swelling)?",
+   "back": "Reversible injury in which failure of energy-dependent ion pumps lets water enter, giving pale, swollen cells with small clear cytoplasmic vacuoles."
+  },
+  {
+   "id": "ci-c012",
+   "sub": "reversible",
+   "front": "What are the three nuclear changes of necrosis?",
+   "back": "Pyknosis (shrinkage and increased basophilia), karyorrhexis (fragmentation) and karyolysis (fading of basophilia as DNA is digested)."
+  },
+  {
+   "id": "ci-c013",
+   "sub": "reversible",
+   "front": "Why is cardiac troponin in blood a marker of myocardial necrosis?",
+   "back": "Necrotic myocytes lose plasma membrane integrity, so intracellular proteins like troponin leak into the circulation."
+  },
+  {
+   "id": "ci-c014",
+   "sub": "reversible",
+   "front": "What are myelin figures?",
+   "back": "Whorled phospholipid masses derived from damaged cell membranes, seen in injured and necrotic cells."
+  },
+  {
+   "id": "ci-c015",
+   "sub": "necrosis",
+   "front": "What is the gross and microscopic appearance of coagulative necrosis?",
+   "back": "Firm tissue; dead cells keep their outlines (ghost cells) with eosinophilic cytoplasm and lost nuclei, for days. Typical of infarcts in solid organs except the brain."
+  },
+  {
+   "id": "ci-c016",
+   "sub": "necrosis",
+   "front": "Which pattern of necrosis is seen in focal bacterial and fungal infections?",
+   "back": "Liquefactive necrosis: leukocyte enzymes digest the tissue into a creamy yellow liquid (pus)."
+  },
+  {
+   "id": "ci-c017",
+   "sub": "necrosis",
+   "front": "What does caseous necrosis look like microscopically?",
+   "back": "Structureless amorphous granular pink debris of lysed cells, usually enclosed by a granulomatous rim; grossly friable, white and cheese-like."
+  },
+  {
+   "id": "ci-c018",
+   "sub": "necrosis",
+   "front": "What is fat saponification?",
+   "back": "In fat necrosis, fatty acids released by lipases combine with calcium to form chalky white deposits."
+  },
+  {
+   "id": "ci-c019",
+   "sub": "necrosis",
+   "front": "What is gangrenous necrosis?",
+   "back": "A clinical term for coagulative necrosis of several tissue layers, usually in an ischemic limb; called wet gangrene when bacterial infection adds liquefaction."
+  },
+  {
+   "id": "ci-c020",
+   "sub": "necrosis",
+   "front": "Why does fibrinoid necrosis look bright pink and amorphous?",
+   "back": "Immune complexes deposited in arterial walls combine with fibrin leaked from vessels, giving a bright pink amorphous material on H&E."
+  },
+  {
+   "id": "ci-c021",
+   "sub": "apoptosis",
+   "front": "How does apoptosis differ from necrosis in membrane integrity and inflammation?",
+   "back": "In apoptosis the plasma membrane stays intact and there is no inflammation; in necrosis the membrane is damaged, contents leak, and inflammation follows."
+  },
+  {
+   "id": "ci-c022",
+   "sub": "apoptosis",
+   "front": "What are the morphologic features of apoptosis?",
+   "back": "Cell shrinkage, chromatin condensation, cytoplasmic blebs and apoptotic bodies, and rapid phagocytosis without inflammation."
+  },
+  {
+   "id": "ci-c023",
+   "sub": "apoptosis",
+   "front": "In which four physiologic situations does apoptosis occur?",
+   "back": "Embryogenesis, involution of hormone-dependent tissues on hormone withdrawal, cell turnover in proliferating tissues, and elimination of self-reactive lymphocytes."
+  },
+  {
+   "id": "ci-c024",
+   "sub": "apoptosis",
+   "front": "Which death receptor and adaptor start the extrinsic pathway of apoptosis?",
+   "back": "Fas (CD95) binds Fas ligand and recruits the adaptor FADD, which activates caspase-8."
+  },
+  {
+   "id": "ci-c025",
+   "sub": "apoptosis",
+   "front": "What is the apoptosome?",
+   "back": "A complex of cytochrome c (released from mitochondria) and APAF-1 that activates caspase-9 in the intrinsic pathway."
+  },
+  {
+   "id": "ci-c026",
+   "sub": "apoptosis",
+   "front": "What do BH3-only proteins such as BIM, BID and BAD do?",
+   "back": "They sense cell stress or damage, antagonise BCL2/BCL-XL and activate BAX and BAK, tipping the cell toward intrinsic apoptosis."
+  },
+  {
+   "id": "ci-c027",
+   "sub": "apoptosis",
+   "front": "Which protein inhibits caspase-8 in the extrinsic pathway?",
+   "back": "FLIP, which binds pro-caspase-8 without activating it; some viruses use FLIP homologues to protect infected cells."
+  },
+  {
+   "id": "ci-c028",
+   "sub": "apoptosis",
+   "front": "What pattern does DNA from apoptotic cells give on agarose gel electrophoresis?",
+   "back": "A ladder of fragments in multiples of about 180–200 base pairs, from endonuclease cleavage between nucleosomes."
+  },
+  {
+   "id": "ci-c029",
+   "sub": "apoptosis",
+   "front": "Which cancer shows BCL2 overexpression from a t(14;18) translocation?",
+   "back": "Follicular lymphoma; excess BCL2 protects the B cells from apoptosis."
+  },
+  {
+   "id": "ci-c030",
+   "sub": "other-death",
+   "front": "What is necroptosis?",
+   "back": "Programmed, caspase-independent necrosis: TNF receptor signalling activates RIPK1 and RIPK3, which phosphorylate MLKL, disrupting the plasma membrane."
+  },
+  {
+   "id": "ci-c031",
+   "sub": "other-death",
+   "front": "What is the trigger and outcome of pyroptosis?",
+   "back": "Microbial products activate the inflammasome and caspase-1, which releases IL-1 (causing fever) and kills the infected cell."
+  },
+  {
+   "id": "ci-c032",
+   "sub": "other-death",
+   "front": "Which gene polymorphism links autophagy to Crohn disease?",
+   "back": "ATG16L1, an autophagy-related gene; variants are associated with susceptibility to Crohn disease."
+  },
+  {
+   "id": "ci-c033",
+   "sub": "ischemia-chemical",
+   "front": "What are the mechanisms of ischemia–reperfusion injury?",
+   "back": "Oxidative stress (ROS), intracellular calcium overload, inflammation with leukocyte influx, and complement activation (IgM deposited in ischemic tissue)."
+  },
+  {
+   "id": "ci-c034",
+   "sub": "ischemia-chemical",
+   "front": "Why does acetaminophen overdose cause centrilobular liver necrosis?",
+   "back": "Its toxic metabolite NAPQI, made by cytochrome P-450, depletes glutathione and binds proteins; P-450 is most active in the centrilobular zone."
+  },
+  {
+   "id": "ci-c035",
+   "sub": "ischemia-chemical",
+   "front": "How does N-acetylcysteine treat acetaminophen poisoning?",
+   "back": "It replenishes glutathione, which detoxifies the reactive metabolite NAPQI."
+  },
+  {
+   "id": "ci-c036",
+   "sub": "ischemia-chemical",
+   "front": "Why does CCl4 cause fatty liver?",
+   "back": "CCl3• radicals damage the ER, ribosomes detach and apoprotein synthesis falls, so hepatocytes cannot export lipid as lipoproteins."
+  },
+  {
+   "id": "ci-c037",
+   "sub": "accumulations",
+   "front": "In which organ is steatosis (fatty change) most common, and name two causes?",
+   "back": "The liver; causes include alcohol abuse and nonalcoholic fatty liver disease linked to obesity and diabetes (also toxins, protein malnutrition, anoxia)."
+  },
+  {
+   "id": "ci-c038",
+   "sub": "accumulations",
+   "front": "What are foam cells?",
+   "back": "Macrophages filled with cholesterol and cholesteryl esters, giving foamy cytoplasm; seen in atherosclerosis and xanthomas."
+  },
+  {
+   "id": "ci-c039",
+   "sub": "accumulations",
+   "front": "What is Mallory (alcoholic) hyaline?",
+   "back": "Eosinophilic aggregates of keratin intermediate filaments in hepatocytes, typical of alcoholic liver disease."
+  },
+  {
+   "id": "ci-c040",
+   "sub": "accumulations",
+   "front": "What does the descriptive term 'hyaline change' mean?",
+   "back": "Any alteration in cells or extracellular space that gives a homogeneous, glassy pink appearance on H&E; it is not a specific deposit."
+  },
+  {
+   "id": "ci-c041",
+   "sub": "accumulations",
+   "front": "What are intracellular and extracellular examples of hyaline change?",
+   "back": "Intracellular: protein reabsorption droplets in renal tubules, Russell bodies, Mallory hyaline. Extracellular: arteriolar walls in hypertension and diabetes, and amyloid."
+  },
+  {
+   "id": "ci-c042",
+   "sub": "accumulations",
+   "front": "In which disease and cells is glycogen accumulation typically seen, and how is it stained?",
+   "back": "Diabetes mellitus (e.g., renal tubular cells, cardiac myocytes) and glycogen storage diseases; shown with PAS or Best carmine."
+  },
+  {
+   "id": "ci-c043",
+   "sub": "accumulations",
+   "front": "What is anthracosis?",
+   "back": "Accumulation of inhaled carbon (coal dust) in lung macrophages and draining lymph nodes, giving black pigmentation."
+  },
+  {
+   "id": "ci-c044",
+   "sub": "accumulations",
+   "front": "Which endogenous brown-black pigment is not derived from hemoglobin?",
+   "back": "Melanin, an endogenous, non-hemoglobin-derived brown-black pigment made by melanocytes from tyrosine via tyrosinase."
+  },
+  {
+   "id": "ci-c045",
+   "sub": "accumulations",
+   "front": "What are local and systemic examples of hemosiderin accumulation?",
+   "back": "Local: a bruise, where macrophages break down red cells. Systemic: hemosiderosis or hereditary hemochromatosis from iron overload."
+  },
+  {
+   "id": "ci-c046",
+   "sub": "accumulations",
+   "front": "Why is lipofuscin called the 'wear-and-tear' pigment?",
+   "back": "It accumulates with age as a perinuclear yellow-brown pigment from membrane lipid peroxidation; abundant lipofuscin in a small organ gives brown atrophy."
+  },
+  {
+   "id": "ci-c047",
+   "sub": "calcification",
+   "front": "In which kinds of tissue does dystrophic calcification occur?",
+   "back": "Dead or dying tissue (coagulative, caseous, liquefactive, fat necrosis), atheromas and aged or damaged heart valves; serum calcium is normal."
+  },
+  {
+   "id": "ci-c048",
+   "sub": "calcification",
+   "front": "What are psammoma bodies and where are they seen?",
+   "back": "Laminated dystrophic calcium deposits in papillary tumors such as papillary thyroid carcinoma, serous papillary ovarian tumors, and meningioma."
+  },
+  {
+   "id": "ci-c049",
+   "sub": "calcification",
+   "front": "What are the main causes of hypercalcemia leading to metastatic calcification?",
+   "back": "Increased PTH (hyperparathyroidism, tumor PTHrP), bone destruction (metastases, myeloma), vitamin D disorders (intoxication, sarcoidosis) and renal failure."
+  },
+  {
+   "id": "ci-c050",
+   "sub": "calcification",
+   "front": "How do calcium deposits appear on H&E?",
+   "back": "As basophilic (blue-purple), amorphous granular or clumped deposits, inside or outside cells."
+  }
+ ]
+}

@@ -1,0 +1,666 @@
+{
+ "id": "repair",
+ "title": "Tissue repair",
+ "competency": "PA5.1",
+ "ref": "Robbins Basic Pathology, ch. 3 (Inflammation and Repair)",
+ "subtopics": [
+  {
+   "id": "regeneration",
+   "title": "Cell proliferation and regeneration"
+  },
+  {
+   "id": "matrix",
+   "title": "Growth factors and extracellular matrix"
+  },
+  {
+   "id": "angiogenesis",
+   "title": "Angiogenesis and granulation tissue"
+  },
+  {
+   "id": "healing",
+   "title": "Healing of skin wounds"
+  },
+  {
+   "id": "factors",
+   "title": "Factors affecting healing"
+  },
+  {
+   "id": "abnormal",
+   "title": "Abnormal repair and fibrosis"
+  }
+ ],
+ "mcqs": [
+  {
+   "id": "re-001",
+   "sub": "regeneration",
+   "diff": "easy",
+   "q": "Which of the following is a permanent (non-dividing) tissue?",
+   "opts": [
+    "Hepatocytes",
+    "Cardiac muscle",
+    "Renal tubular epithelium",
+    "Intestinal epithelium"
+   ],
+   "ans": 1,
+   "exp": "Cardiac myocytes and most neurons are terminally differentiated and cannot proliferate meaningfully, so injury heals by scar. Hepatocytes and renal tubular cells are stable (quiescent) cells that can re-enter the cell cycle after injury.",
+   "related": [
+    "Proliferative capacity of tissues",
+    "Myocardial infarction healing"
+   ]
+  },
+  {
+   "id": "re-002",
+   "sub": "regeneration",
+   "diff": "easy",
+   "q": "Hepatocytes are classified as:",
+   "opts": [
+    "Labile (continuously dividing) cells",
+    "Permanent cells",
+    "Pluripotent stem cells",
+    "Stable (quiescent) cells"
+   ],
+   "ans": 3,
+   "exp": "Hepatocytes normally rest in G0 with minimal division but can proliferate rapidly in response to injury or loss of liver mass. Labile cells, such as surface epithelia and haematopoietic cells, divide continuously throughout life.",
+   "related": [
+    "Liver regeneration",
+    "Cell cycle"
+   ]
+  },
+  {
+   "id": "re-003",
+   "sub": "matrix",
+   "diff": "easy",
+   "q": "Which type of collagen is the main structural collagen of basement membranes?",
+   "opts": [
+    "Type IV",
+    "Type I",
+    "Type II",
+    "Type III"
+   ],
+   "ans": 0,
+   "exp": "Basement membranes are built from non-fibrillar type IV collagen and laminin. Type I is the fibrillar collagen of skin, bone and tendon, and type II is the collagen of cartilage.",
+   "related": [
+    "Extracellular matrix",
+    "Collagen types"
+   ]
+  },
+  {
+   "id": "re-004",
+   "sub": "angiogenesis",
+   "diff": "easy",
+   "q": "Which growth factor, induced by hypoxia, is the most important stimulus for angiogenesis?",
+   "opts": [
+    "PDGF",
+    "EGF",
+    "VEGF",
+    "TGF-β"
+   ],
+   "ans": 2,
+   "exp": "Hypoxia stabilizes HIF-1α, which induces VEGF (mainly VEGF-A); VEGF stimulates endothelial migration and proliferation and increases vascular permeability. PDGF mainly recruits pericytes and smooth muscle cells to stabilize new vessels rather than starting sprouting.",
+   "related": [
+    "Angiogenesis",
+    "Granulation tissue"
+   ]
+  },
+  {
+   "id": "re-005",
+   "sub": "healing",
+   "diff": "easy",
+   "q": "When skin sutures are removed about 1 week after surgery, wound strength is approximately what percentage of unwounded skin?",
+   "opts": [
+    "30%",
+    "50%",
+    "10%",
+    "70–80%"
+   ],
+   "ans": 2,
+   "exp": "At suture removal at about one week, wound strength is roughly 10% of normal skin. It rises rapidly over the next 4 weeks, slows around the third month and plateaus at about 70–80%, which is the final figure, not the one-week figure.",
+   "related": [
+    "Healing by first intention",
+    "Scar remodelling"
+   ]
+  },
+  {
+   "id": "re-006",
+   "sub": "matrix",
+   "diff": "easy",
+   "q": "Which type of collagen is laid down first in granulation tissue and later replaced during remodelling?",
+   "opts": [
+    "Type III",
+    "Type I",
+    "Type II",
+    "Type IV"
+   ],
+   "ans": 0,
+   "exp": "Early granulation tissue contains a provisional matrix rich in type III collagen; during scar maturation it is largely replaced by the stronger type I collagen. Type I is the dominant collagen of the mature scar, not the first one deposited.",
+   "related": [
+    "Scar formation",
+    "Collagen types"
+   ]
+  },
+  {
+   "id": "re-007",
+   "sub": "regeneration",
+   "diff": "medium",
+   "q": "When mature hepatocytes cannot proliferate, as in chronic liver injury, the liver regenerates from progenitor cells located in the:",
+   "opts": [
+    "Space of Disse",
+    "Central veins",
+    "Portal arterioles",
+    "Canals of Hering"
+   ],
+   "ans": 3,
+   "exp": "Liver progenitor cells (oval cells) reside in the canals of Hering and are recruited when hepatocyte proliferation is impaired. The space of Disse houses hepatic stellate cells, which are the main collagen producers in liver fibrosis, not progenitors.",
+   "related": [
+    "Liver regeneration",
+    "Stem cell niches"
+   ]
+  },
+  {
+   "id": "re-008",
+   "sub": "regeneration",
+   "diff": "medium",
+   "q": "After partial hepatectomy, which growth factor most strongly drives primed hepatocytes through the cell cycle?",
+   "opts": [
+    "VEGF",
+    "Hepatocyte growth factor (HGF)",
+    "PDGF",
+    "TGF-β"
+   ],
+   "ans": 1,
+   "exp": "Regeneration begins with a priming phase (cytokines such as IL-6 from Kupffer cells make hepatocytes competent), followed by a growth factor phase in which HGF, TGF-α and EGF drive replication. TGF-β is an inhibitor of hepatocyte proliferation and helps end regeneration.",
+   "related": [
+    "Liver regeneration",
+    "Growth factors"
+   ]
+  },
+  {
+   "id": "re-009",
+   "sub": "matrix",
+   "diff": "medium",
+   "q": "Which cytokine is most important in fibrosis, stimulating collagen synthesis and inhibiting matrix degradation?",
+   "opts": [
+    "IL-6",
+    "TGF-β",
+    "EGF",
+    "VEGF"
+   ],
+   "ans": 1,
+   "exp": "TGF-β stimulates fibroblast migration, proliferation and synthesis of collagen and fibronectin, and decreases matrix degradation by inhibiting metalloproteinases. It is also anti-inflammatory. EGF is a mitogen for epithelial cells and fibroblasts but is not the central fibrogenic cytokine.",
+   "related": [
+    "Fibrosis",
+    "Scar formation"
+   ]
+  },
+  {
+   "id": "re-010",
+   "sub": "matrix",
+   "diff": "medium",
+   "q": "Which growth factor is stored in platelet α-granules, released at wound sites, and causes migration and proliferation of fibroblasts and smooth muscle cells?",
+   "opts": [
+    "HGF",
+    "KGF (FGF-7)",
+    "VEGF",
+    "PDGF"
+   ],
+   "ans": 3,
+   "exp": "PDGF is stored in platelet granules and also made by activated macrophages, endothelial cells and smooth muscle cells; it attracts and stimulates fibroblasts, smooth muscle cells and monocytes. HGF acts mainly on hepatocytes and epithelial cells.",
+   "related": [
+    "Growth factors in repair",
+    "Platelets in wound healing"
+   ]
+  },
+  {
+   "id": "re-011",
+   "sub": "factors",
+   "diff": "medium",
+   "q": "Poor wound healing in scurvy is due to defective:",
+   "opts": [
+    "Hydroxylation of proline and lysine in procollagen",
+    "Cross-linking of collagen fibrils by copper-dependent lysyl oxidase",
+    "Transcription of collagen genes",
+    "Secretion of matrix metalloproteinases"
+   ],
+   "ans": 0,
+   "exp": "Vitamin C is a cofactor for hydroxylation of procollagen, which is needed for stable triple helices; deficiency yields weak collagen and poor healing. Lysyl oxidase cross-linking depends on copper, not vitamin C.",
+   "related": [
+    "Collagen synthesis",
+    "Factors affecting wound healing"
+   ]
+  },
+  {
+   "id": "re-012",
+   "sub": "healing",
+   "diff": "medium",
+   "q": "A sutured skin incision shows neutrophils largely replaced by macrophages, granulation tissue invading the incision, and collagen fibres at the margins that are vertically oriented and do not yet bridge the incision. What is the approximate age of the wound?",
+   "opts": [
+    "24 hours",
+    "Day 5",
+    "Day 3",
+    "End of the first month"
+   ],
+   "ans": 2,
+   "exp": "These are day 3 features. By day 5, neovascularization peaks, granulation tissue fills the incision and collagen fibrils begin to bridge it, which is the most tempting alternative. At 24 hours neutrophils dominate the margins.",
+   "related": [
+    "Healing by first intention",
+    "Granulation tissue"
+   ]
+  },
+  {
+   "id": "re-013",
+   "sub": "healing",
+   "diff": "medium",
+   "q": "Which feature most distinguishes healing by second intention from healing by first intention?",
+   "opts": [
+    "Absence of granulation tissue",
+    "Absence of an inflammatory reaction",
+    "Wound contraction by myofibroblasts",
+    "Complete regeneration of dermal appendages"
+   ],
+   "ans": 2,
+   "exp": "Large open wounds heal by second intention with more inflammation, much more granulation tissue and contraction by myofibroblasts, which can shrink a defect to 5–10% of its original size. Granulation tissue is more abundant, not absent, in second intention healing.",
+   "related": [
+    "Healing by second intention",
+    "Myofibroblasts"
+   ]
+  },
+  {
+   "id": "re-014",
+   "sub": "angiogenesis",
+   "diff": "medium",
+   "q": "Granulation tissue is characterized microscopically by:",
+   "opts": [
+    "Thin-walled new capillaries and fibroblasts in loose matrix",
+    "Aggregates of epithelioid macrophages with multinucleate giant cells",
+    "Dense, acellular bundles of mature type I collagen",
+    "Caseous necrosis rimmed by epithelioid cells and lymphocytes"
+   ],
+   "ans": 0,
+   "exp": "Granulation tissue is the hallmark of repair: new leaky capillaries (angiogenesis) and fibroblasts in loose ECM, often with macrophages; grossly it is pink, soft and granular. Epithelioid macrophages with giant cells define a granuloma, a different entity despite the similar name.",
+   "related": [
+    "Angiogenesis",
+    "Granuloma vs granulation tissue"
+   ]
+  },
+  {
+   "id": "re-015",
+   "sub": "factors",
+   "diff": "medium",
+   "q": "Glucocorticoids weaken healing wounds mainly by:",
+   "opts": [
+    "Stimulating excess granulation tissue that blocks re-epithelialization",
+    "Increasing myofibroblast contraction of the wound",
+    "Inducing VEGF and abnormally leaky new vessels",
+    "Anti-inflammatory action with less TGF-β and less fibrosis"
+   ],
+   "ans": 3,
+   "exp": "Glucocorticoids have strong anti-inflammatory effects, and their use can produce a weak scar because TGF-β production is inhibited and fibrosis is reduced. They do not cause exuberant granulation tissue.",
+   "related": [
+    "Factors affecting wound healing",
+    "TGF-β"
+   ]
+  },
+  {
+   "id": "re-016",
+   "sub": "abnormal",
+   "diff": "medium",
+   "q": "Excessive granulation tissue that protrudes above the surrounding skin and blocks re-epithelialization is called:",
+   "opts": [
+    "Keloid",
+    "Exuberant granulation (proud flesh)",
+    "Hypertrophic scar confined to the wound",
+    "Desmoid tumour"
+   ],
+   "ans": 1,
+   "exp": "Exuberant granulation (proud flesh) is excess granulation tissue that prevents re-epithelialization and must be removed by cautery or surgical excision. A keloid is excess collagen in a scar, not excess granulation tissue.",
+   "related": [
+    "Abnormal wound healing",
+    "Granulation tissue"
+   ]
+  },
+  {
+   "id": "re-017",
+   "sub": "healing",
+   "diff": "medium",
+   "q": "A patient asks how strong her abdominal scar will eventually become. Around 3 months after surgery, the scar's tensile strength plateaus at about:",
+   "opts": [
+    "10% of unwounded skin",
+    "70–80% of unwounded skin",
+    "50% of unwounded skin",
+    "100% of unwounded skin"
+   ],
+   "ans": 1,
+   "exp": "Strength is about 10% at one week, increases rapidly over the next 4 weeks, slows around the third month and then plateaus at roughly 70–80% of normal skin. Collagen remodelling and cross-linking never restore full strength, so 100% is wrong.",
+   "related": [
+    "Scar remodelling",
+    "Collagen cross-linking"
+   ]
+  },
+  {
+   "id": "re-018",
+   "sub": "abnormal",
+   "diff": "hard",
+   "q": "On the sixth day after laparotomy, a patient with persistent vomiting and coughing feels something 'give way', and the abdominal wound opens. What is the complication, and what is the most likely contributing factor?",
+   "opts": [
+    "Keloid formation due to genetic predisposition",
+    "Contracture due to excessive myofibroblast activity",
+    "Exuberant granulation due to excess granulation tissue",
+    "Wound dehiscence due to raised abdominal pressure"
+   ],
+   "ans": 3,
+   "exp": "Rupture of a wound (dehiscence) is most common after abdominal surgery and is due to increased abdominal pressure, as from vomiting, coughing or ileus, acting on a wound that is still weak (about 10% strength at one week). Contracture is a late deformity from excessive contraction, not an early rupture.",
+   "related": [
+    "Wound dehiscence",
+    "Factors affecting wound healing"
+   ]
+  },
+  {
+   "id": "re-019",
+   "sub": "abnormal",
+   "diff": "hard",
+   "q": "Months after a deep burn of the front of the neck and chest, a child cannot extend his neck fully because the scar has pulled the skin tight. The process responsible is:",
+   "opts": [
+    "Contracture from excessive myofibroblast contraction",
+    "Keloid formation extending beyond the original wound margins",
+    "Exuberant granulation",
+    "Wound dehiscence"
+   ],
+   "ans": 0,
+   "exp": "Exaggerated wound contraction produces contractures, which deform the wound and surrounding tissue and can compromise joint movement; they are common after serious burns and on the palms, soles and anterior thorax. A keloid is a raised mass of collagen and does not by itself pull joints into fixed positions.",
+   "related": [
+    "Myofibroblasts",
+    "Abnormal wound healing"
+   ]
+  },
+  {
+   "id": "re-020",
+   "sub": "abnormal",
+   "diff": "hard",
+   "q": "A young man develops a firm, glossy mass at an ear-piercing site that keeps enlarging well beyond the original wound and recurs after excision. Histology shows thick, glassy bundles of collagen. The diagnosis is:",
+   "opts": [
+    "Hypertrophic scar",
+    "Exuberant granulation",
+    "Keloid",
+    "Desmoid (aggressive fibromatosis)"
+   ],
+   "ans": 2,
+   "exp": "A scar that extends beyond the original wound boundaries, does not regress and shows thick glassy collagen bundles is a keloid; there is a hereditary predisposition. A hypertrophic scar is also raised but stays within the wound and often regresses over months.",
+   "related": [
+    "Keloid vs hypertrophic scar",
+    "Abnormal wound healing"
+   ]
+  },
+  {
+   "id": "re-021",
+   "sub": "regeneration",
+   "diff": "hard",
+   "q": "In chronic viral hepatitis, hepatocytes keep proliferating, yet the liver develops nodules and fibrosis instead of normal lobules. The best explanation is that:",
+   "opts": [
+    "Hepatocytes are permanent cells that cannot re-enter the cell cycle",
+    "HGF is absent in chronic liver disease",
+    "The ECM framework is damaged, so repair occurs by scarring",
+    "The liver has no progenitor cells"
+   ],
+   "ans": 2,
+   "exp": "Regeneration restores normal structure only when the connective tissue framework is intact; repeated injury damages the ECM, so repair proceeds by fibrosis and regenerating nodules (cirrhosis). Hepatocytes are stable, not permanent, cells, and they do proliferate in this setting.",
+   "related": [
+    "Liver regeneration",
+    "Fibrosis"
+   ]
+  },
+  {
+   "id": "re-022",
+   "sub": "regeneration",
+   "diff": "medium",
+   "q": "Several months after a large myocardial infarction, the infarcted area of the left ventricle is examined. It will most likely be replaced by:",
+   "opts": [
+    "A dense collagenous scar",
+    "Regenerated myocytes derived from satellite cells",
+    "Hypertrophied myocytes filling the defect",
+    "Persistent granulation tissue"
+   ],
+   "ans": 0,
+   "exp": "Cardiac myocytes are permanent cells, so lost myocardium is replaced by scar through granulation tissue that matures into dense collagen. Satellite cells give skeletal muscle (not cardiac muscle) limited regenerative capacity.",
+   "related": [
+    "Proliferative capacity of tissues",
+    "Scar formation"
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "re-c001",
+   "sub": "regeneration",
+   "front": "Name three examples of labile tissues.",
+   "back": "Surface stratified squamous epithelia (skin, oral cavity, cervix), lining of the gastrointestinal tract and excretory ducts, urothelium, and bone marrow haematopoietic cells."
+  },
+  {
+   "id": "re-c002",
+   "sub": "regeneration",
+   "front": "Name three examples of stable tissues.",
+   "back": "Parenchyma of most solid organs (liver, kidney, pancreas), plus endothelial cells, fibroblasts and smooth muscle cells."
+  },
+  {
+   "id": "re-c003",
+   "sub": "regeneration",
+   "front": "Why does skeletal muscle have limited regenerative capacity despite being largely permanent?",
+   "back": "Satellite cells attached to the endomysial sheath can proliferate and differentiate into new muscle cells."
+  },
+  {
+   "id": "re-c004",
+   "sub": "regeneration",
+   "front": "What two properties define a stem cell?",
+   "back": "Self-renewal and asymmetric replication (one daughter becomes a differentiated cell, the other remains a stem cell)."
+  },
+  {
+   "id": "re-c005",
+   "sub": "regeneration",
+   "front": "Where are the stem cell niches of the skin and cornea?",
+   "back": "Skin: the bulge region of the hair follicle. Cornea: the limbus."
+  },
+  {
+   "id": "re-c006",
+   "sub": "regeneration",
+   "front": "How are induced pluripotent stem (iPS) cells made?",
+   "back": "By introducing a few transcription factor genes (e.g. Oct3/4, Sox2, Klf4, c-Myc) into differentiated adult cells, reprogramming them to pluripotency."
+  },
+  {
+   "id": "re-c007",
+   "sub": "regeneration",
+   "front": "What are the phases of the cell cycle?",
+   "back": "G1 (presynthetic), S (DNA synthesis), G2 (premitotic) and M (mitosis); quiescent cells are in G0."
+  },
+  {
+   "id": "re-c008",
+   "sub": "regeneration",
+   "front": "Which event at the G1 restriction point allows cells to enter S phase?",
+   "back": "Phosphorylation of RB by cyclin D–CDK4/6, releasing E2F transcription factors."
+  },
+  {
+   "id": "re-c009",
+   "sub": "regeneration",
+   "front": "What happens in the priming phase of liver regeneration?",
+   "back": "Cytokines such as IL-6, mainly from Kupffer cells, make hepatocytes competent to leave G0 and respond to growth factors."
+  },
+  {
+   "id": "re-c010",
+   "sub": "regeneration",
+   "front": "What does tissue repair consist of?",
+   "back": "Regeneration of injured tissue by proliferation of residual cells and stem cells, and replacement by connective tissue (scar formation); most repair combines both."
+  },
+  {
+   "id": "re-c011",
+   "sub": "matrix",
+   "front": "Which receptor does EGF share with TGF-α?",
+   "back": "The EGF receptor (EGFR, ERBB1), which has tyrosine kinase activity."
+  },
+  {
+   "id": "re-c012",
+   "sub": "matrix",
+   "front": "What is the receptor for hepatocyte growth factor?",
+   "back": "c-MET, a receptor tyrosine kinase."
+  },
+  {
+   "id": "re-c013",
+   "sub": "matrix",
+   "front": "Which growth factor is also called scatter factor?",
+   "back": "Hepatocyte growth factor (HGF)."
+  },
+  {
+   "id": "re-c014",
+   "sub": "matrix",
+   "front": "Which growth factor stimulates keratinocyte migration, proliferation and differentiation?",
+   "back": "Keratinocyte growth factor (KGF, FGF-7)."
+  },
+  {
+   "id": "re-c015",
+   "sub": "matrix",
+   "front": "What is the most abundant collagen in the body, and where is it found?",
+   "back": "Type I collagen, the fibrillar collagen of skin, bone, tendons and mature scars."
+  },
+  {
+   "id": "re-c016",
+   "sub": "matrix",
+   "front": "What are the two basic forms of extracellular matrix?",
+   "back": "Interstitial matrix (fibrillar collagens, fibronectin, elastin, proteoglycans) and basement membrane (type IV collagen and laminin)."
+  },
+  {
+   "id": "re-c017",
+   "sub": "matrix",
+   "front": "What is the role of fibronectin in wound healing?",
+   "back": "It binds ECM components and cell integrins, forming a scaffold for deposition of new ECM, angiogenesis and re-epithelialization."
+  },
+  {
+   "id": "re-c018",
+   "sub": "matrix",
+   "front": "Which enzyme cross-links collagen, and which trace element does it need?",
+   "back": "Lysyl oxidase; it is copper-dependent."
+  },
+  {
+   "id": "re-c019",
+   "sub": "matrix",
+   "front": "Which family of enzymes degrades collagen and other ECM during remodelling, and what inhibits it?",
+   "back": "Matrix metalloproteinases (zinc-dependent), inhibited by tissue inhibitors of metalloproteinases (TIMPs)."
+  },
+  {
+   "id": "re-c020",
+   "sub": "angiogenesis",
+   "front": "Which growth factors recruit pericytes and smooth muscle cells to stabilize new vessels?",
+   "back": "PDGF recruits them, TGF-β stabilizes the vessel, and angiopoietin-1 (via the Tie2 receptor) aids maturation."
+  },
+  {
+   "id": "re-c021",
+   "sub": "angiogenesis",
+   "front": "Why is granulation tissue oedematous?",
+   "back": "Its new vessels have leaky interendothelial junctions and VEGF increases their permeability, so proteins and red cells pass into the extravascular space."
+  },
+  {
+   "id": "re-c022",
+   "sub": "angiogenesis",
+   "front": "What does granulation tissue look like grossly?",
+   "back": "Pink, soft and granular, as seen beneath the scab of a skin wound."
+  },
+  {
+   "id": "re-c023",
+   "sub": "angiogenesis",
+   "front": "Which signalling pathway regulates sprouting and branching of new vessels?",
+   "back": "Notch signalling, through cross-talk with VEGF."
+  },
+  {
+   "id": "re-c024",
+   "sub": "healing",
+   "front": "What is healing by first intention?",
+   "back": "Healing of a clean, uninfected incision with apposed edges (e.g. a sutured surgical wound) with minimal cell loss."
+  },
+  {
+   "id": "re-c025",
+   "sub": "healing",
+   "front": "What happens within 24 hours of a sutured incision?",
+   "back": "Neutrophils appear at the incision margins, migrating toward the fibrin clot."
+  },
+  {
+   "id": "re-c026",
+   "sub": "healing",
+   "front": "When does a thin continuous epithelial layer cover a sutured incision?",
+   "back": "Within 24–48 hours, as epithelial cells from both edges migrate and fuse in the midline beneath the scab."
+  },
+  {
+   "id": "re-c027",
+   "sub": "healing",
+   "front": "What happens by week 2 of first-intention healing?",
+   "back": "Collagen continues to accumulate; leukocytes, oedema and vascularity diminish and blanching begins."
+  },
+  {
+   "id": "re-c028",
+   "sub": "healing",
+   "front": "What does the scar look like at the end of the first month?",
+   "back": "Cellular connective tissue largely devoid of inflammatory cells, covered by intact epidermis; lost dermal appendages are permanently lost."
+  },
+  {
+   "id": "re-c029",
+   "sub": "healing",
+   "front": "Which cells mediate wound contraction, and what marker do they express?",
+   "back": "Myofibroblasts, which express α-smooth muscle actin."
+  },
+  {
+   "id": "re-c030",
+   "sub": "healing",
+   "front": "How much can wound contraction shrink a large skin defect?",
+   "back": "To about 5–10% of its original size."
+  },
+  {
+   "id": "re-c031",
+   "sub": "factors",
+   "front": "What is the single most important cause of delay in wound healing?",
+   "back": "Infection."
+  },
+  {
+   "id": "re-c032",
+   "sub": "factors",
+   "front": "Name two vascular factors that delay healing.",
+   "back": "Poor arterial supply (e.g. atherosclerosis, diabetes) and impaired venous drainage (e.g. varicose veins)."
+  },
+  {
+   "id": "re-c033",
+   "sub": "factors",
+   "front": "How do foreign bodies affect healing?",
+   "back": "Foreign material such as sutures or fragments of steel, glass or bone impedes healing."
+  },
+  {
+   "id": "re-c034",
+   "sub": "abnormal",
+   "front": "How does a hypertrophic scar differ from a keloid?",
+   "back": "A hypertrophic scar stays within the original wound and often regresses over months; a keloid extends beyond the wound and does not regress."
+  },
+  {
+   "id": "re-c035",
+   "sub": "abnormal",
+   "front": "Which wounds commonly develop hypertrophic scars?",
+   "back": "Thermal or traumatic injuries that involve the deep layers of the dermis."
+  },
+  {
+   "id": "re-c036",
+   "sub": "abnormal",
+   "front": "What is a desmoid (aggressive fibromatosis)?",
+   "back": "Exuberant fibroblast proliferation after incisions or trauma, intermediate between benign and malignant tumours."
+  },
+  {
+   "id": "re-c037",
+   "sub": "abnormal",
+   "front": "What are the key mediators of fibrosis in chronic inflammation?",
+   "back": "TGF-β above all, with other cytokines and growth factors from macrophages and lymphocytes."
+  },
+  {
+   "id": "re-c038",
+   "sub": "abnormal",
+   "front": "Which cells produce most of the collagen in liver fibrosis?",
+   "back": "Hepatic stellate cells, located in the space of Disse."
+  },
+  {
+   "id": "re-c039",
+   "sub": "abnormal",
+   "front": "Name four fibrosing disorders.",
+   "back": "Cirrhosis, systemic sclerosis, idiopathic pulmonary fibrosis and pneumoconioses, and chronic pancreatitis (also chronic glomerulonephritis and constrictive pericarditis)."
+  }
+ ]
+}
